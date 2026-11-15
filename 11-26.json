@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1917,
+      "texte": "Fondation de la Ligue nationale de hockey. Ses premières équipes : le Canadien et les Wanderers de Montréal, Ottawa, les Bulldogs de Québec et Toronto."
+    },
+    {
+      "annee": 1865,
+      "texte": "À Londres, Lewis Carroll publie « Les Aventures d'Alice au pays des merveilles »."
+    },
+    {
+      "annee": 1965,
+      "texte": "Depuis Hammaguir, en Algérie, une fusée Diamant met en orbite Astérix, le premier satellite français. La France devient le troisième pays à le faire."
+    },
+    {
+      "annee": 2011,
+      "texte": "La mission Mars Science Laboratory, avec à son bord le robot Curiosity, décolle de Cap Canaveral en direction de Mars."
+    },
+    {
+      "annee": 1942,
+      "texte": "Première à New York du film « Casablanca », avec Humphrey Bogart et Ingrid Bergman."
+    },
+    {
+      "annee": 1966,
+      "texte": "En France, la plus grande usine marémotrice au monde est mise en service dans l'estuaire de la Rance, sur la côte d'Émeraude."
+    },
+    {
+      "annee": 1948,
+      "texte": "Naissance d'Elizabeth Blackburn, biologiste australo-américaine, prix Nobel de physiologie ou médecine en 2009."
+    }
+  ]
+}

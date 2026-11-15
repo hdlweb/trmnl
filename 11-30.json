@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1874,
+      "texte": "Naissance de Winston Churchill, militaire, journaliste, écrivain et homme politique, deux fois premier ministre britannique et prix Nobel."
+    },
+    {
+      "annee": 1915,
+      "texte": "Naissance d'Henry Taube, chimiste américain d'origine canadienne, prix Nobel de chimie en 1983."
+    },
+    {
+      "annee": 1786,
+      "texte": "Le grand-duché de Toscane, sous Léopold Ier, devient le premier État moderne à abolir la peine de mort, avec un code inspiré de Beccaria."
+    },
+    {
+      "annee": 1872,
+      "texte": "Premier match international de football de l'histoire, entre l'Écosse et l'Angleterre, à Hamilton Crescent, à Glasgow."
+    },
+    {
+      "annee": 1934,
+      "texte": "La Flying Scotsman devient la première locomotive à vapeur à dépasser officiellement les 100 milles à l'heure, soit 161 km/h."
+    },
+    {
+      "annee": 1803,
+      "texte": "L'expédition de Francisco Javier de Balmis quitte La Corogne, en Espagne, pour vacciner des millions de personnes contre la variole en Amérique et en Asie."
+    },
+    {
+      "annee": 1966,
+      "texte": "La Barbade devient indépendante du Royaume-Uni. Elle deviendra une république le même jour, en 2021."
+    }
+  ]
+}

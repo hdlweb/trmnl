@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1869,
+      "texte": "Inauguration du canal de Suez en présence de l'impératrice Eugénie. La nouvelle voie d'eau relie directement la Méditerranée à la mer Rouge."
+    },
+    {
+      "annee": 1970,
+      "texte": "Les Soviétiques posent Lunokhod 1 sur la mer des Pluies : c'est le premier véhicule téléguidé depuis la Terre à rouler sur la surface de la Lune."
+    },
+    {
+      "annee": 1947,
+      "texte": "Les physiciens américains John Bardeen et Walter Brattain observent les principes du transistor, l'invention à la base de toute l'électronique moderne."
+    },
+    {
+      "annee": 1970,
+      "texte": "Douglas Engelbart obtient le brevet de la première souris d'ordinateur, inventée quelques années plus tôt dans son laboratoire de Californie."
+    },
+    {
+      "annee": 1749,
+      "texte": "Naissance de Nicolas Appert, confiseur et inventeur français, père de la conservation des aliments dans des contenants scellés : l'« appertisation »."
+    },
+    {
+      "annee": 1558,
+      "texte": "Élisabeth Ire devient reine d'Angleterre et d'Irlande à la mort de sa demi-sœur Marie Tudor. Son long règne marquera l'âge d'or élisabéthain."
+    },
+    {
+      "annee": 1902,
+      "texte": "Naissance d'Eugene Wigner, physicien et mathématicien d'origine hongroise, lauréat du prix Nobel de physique en 1963 pour ses travaux sur le noyau atomique."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1859,
+      "texte": "Charles Darwin publie « L'Origine des espèces », ouvrage fondateur de la théorie de l'évolution. Le premier tirage s'écoule dès le premier jour."
+    },
+    {
+      "annee": 1974,
+      "texte": "Découverte en Éthiopie de Lucy, une Australopithecus afarensis qui montre l'acquisition de la bipédie il y a plus de trois millions d'années."
+    },
+    {
+      "annee": 1642,
+      "texte": "Abel Tasman devient le premier Européen à découvrir l'île de la Terre de Van Diemen, rebaptisée plus tard Tasmanie."
+    },
+    {
+      "annee": 2016,
+      "texte": "Le gouvernement de la Colombie et les FARC signent un accord de paix révisé, qui met fin à plus de cinquante ans de guerre civile dans le pays."
+    },
+    {
+      "annee": 1864,
+      "texte": "Naissance d'Henri de Toulouse-Lautrec, peintre, lithographe et illustrateur français."
+    },
+    {
+      "annee": 1868,
+      "texte": "Naissance de Scott Joplin, pianiste et compositeur américain."
+    },
+    {
+      "annee": 2021,
+      "texte": "Lancement de la mission DART, qui tente pour la première fois de dévier un astéroïde susceptible de s'écraser sur la Terre."
+    },
+    {
+      "annee": 1948,
+      "texte": "Naissance de Spider Robinson, auteur et critique américano-canadien."
+    }
+  ]
+}

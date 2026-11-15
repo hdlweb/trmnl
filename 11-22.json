@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1943,
+      "texte": "Naissance d'Yvan Cournoyer, joueur de hockey sur glace canadien."
+    },
+    {
+      "annee": 1837,
+      "texte": "Le journaliste et politicien canadien William Lyon Mackenzie appelle à la rébellion contre le Royaume-Uni dans son essai « To the People of Upper Canada »."
+    },
+    {
+      "annee": 1977,
+      "texte": "Première liaison commerciale entre Paris et New York de l'avion supersonique européen Concorde."
+    },
+    {
+      "annee": 1995,
+      "texte": "Sortie aux États-Unis de « Toy Story », le premier long métrage réalisé uniquement en images de synthèse."
+    },
+    {
+      "annee": 1968,
+      "texte": "Les Beatles publient leur double album sans titre, plus connu sous le nom d'« album blanc »."
+    },
+    {
+      "annee": 2005,
+      "texte": "Quatre jours après des élections fédérales, le Bundestag élit Angela Merkel chancelière d'Allemagne. Elle est la première femme à occuper cette fonction."
+    },
+    {
+      "annee": 1869,
+      "texte": "Naissance d'André Gide, écrivain, essayiste et dramaturge français, prix Nobel de littérature en 1947."
+    },
+    {
+      "annee": 1904,
+      "texte": "Naissance de Louis Néel, physicien français, prix Nobel de physique en 1970."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1904,
+      "texte": "Naissance à Québec de Jean-Paul Lemieux, peintre québécois reconnu pour ses vastes paysages d'hiver et ses personnages solitaires et silencieux."
+    },
+    {
+      "annee": 1883,
+      "texte": "Les chemins de fer canadiens et américains adoptent quatre fuseaux horaires standards, mettant fin à des centaines d'heures locales différentes."
+    },
+    {
+      "annee": 1923,
+      "texte": "Naissance d'Alan Shepard, astronaute américain : premier Américain dans l'espace en 1961, il marchera aussi sur la Lune lors d'Apollo 14 en 1971."
+    },
+    {
+      "annee": 1918,
+      "texte": "Proclamation de l'indépendance de la Lettonie à Riga. Ce pays balte retrouvera sa liberté en 1991 et deviendra membre de l'Union européenne en 2004."
+    },
+    {
+      "annee": 1928,
+      "texte": "Première projection de « Steamboat Willie », où apparaissent Mickey et Minnie : c'est le premier dessin animé de Disney avec un son synchronisé."
+    },
+    {
+      "annee": 1985,
+      "texte": "Parution de la première bande dessinée « Calvin et Hobbes » dans dix journaux américains. Bill Watterson la dessinera jusqu'à la fin de 1995."
+    },
+    {
+      "annee": 2013,
+      "texte": "La NASA lance la sonde MAVEN vers Mars pour étudier son atmosphère et comprendre comment la planète a perdu la plus grande partie de son eau."
+    },
+    {
+      "annee": 1738,
+      "texte": "Le traité de Vienne met fin à la guerre de Succession de Pologne, un conflit européen qui opposait notamment la France et l'Espagne à l'Autriche."
+    }
+  ]
+}

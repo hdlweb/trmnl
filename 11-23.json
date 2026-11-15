@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1924,
+      "texte": "Le New York Times publie la découverte d'Edwin Hubble : la « nébuleuse » d'Andromède, qu'on croyait dans la Voie lactée, est en fait une autre galaxie."
+    },
+    {
+      "annee": 1944,
+      "texte": "La 2e division blindée du général Leclerc libère la ville de Strasbourg, réalisant le serment fait à Koufra le 2 mars 1941."
+    },
+    {
+      "annee": 1963,
+      "texte": "La BBC diffuse le premier épisode de « Doctor Who », avec William Hartnell dans le rôle-titre. C'est la plus longue série de science-fiction de la télévision."
+    },
+    {
+      "annee": 1992,
+      "texte": "Le premier téléphone intelligent, le Simon d'IBM, est présenté au salon COMDEX de Las Vegas, au Nevada."
+    },
+    {
+      "annee": 2005,
+      "texte": "Ellen Johnson Sirleaf est élue présidente du Liberia et devient la première femme à diriger un pays africain."
+    },
+    {
+      "annee": 1837,
+      "texte": "Naissance de Johannes Diderik van der Waals, physicien et thermodynamicien néerlandais, prix Nobel de physique en 1910."
+    },
+    {
+      "annee": 2015,
+      "texte": "Le véhicule New Shepard de Blue Origin devient la première fusée à voler dans l'espace puis à revenir sur Terre pour un atterrissage vertical contrôlé."
+    }
+  ]
+}

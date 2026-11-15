@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 2006,
+      "texte": "La Chambre des communes du Canada adopte une motion du premier ministre Stephen Harper qui reconnaît que les Québécois forment une nation au sein du Canada."
+    },
+    {
+      "annee": 2000,
+      "texte": "Le Parti libéral du premier ministre canadien Jean Chrétien remporte aisément les élections législatives, pour la troisième fois consécutive."
+    },
+    {
+      "annee": 1895,
+      "texte": "Au club suédo-norvégien de Paris, Alfred Nobel signe son testament et lègue sa fortune à la création d'un prix qui portera son nom."
+    },
+    {
+      "annee": 1701,
+      "texte": "Naissance d'Anders Celsius, astronome suédois, inventeur de l'unité de mesure de température qui porte son nom."
+    },
+    {
+      "annee": 2001,
+      "texte": "Le télescope Hubble détecte l'atmosphère de l'exoplanète HD 209458 b, dite Osiris : c'est la première atmosphère mesurée sur une planète extrasolaire."
+    },
+    {
+      "annee": 2005,
+      "texte": "Le professeur Dubernard réalise une première mondiale : il transplante la face d'une personne décédée sur une femme défigurée."
+    },
+    {
+      "annee": 1952,
+      "texte": "Naissance de Sheila Copps, journaliste et femme politique canadienne, sixième vice-première ministre du Canada."
+    }
+  ]
+}

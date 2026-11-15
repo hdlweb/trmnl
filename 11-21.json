@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1977,
+      "texte": "Naissance de Yolande James, avocate et femme politique québécoise."
+    },
+    {
+      "annee": 1783,
+      "texte": "Au-dessus de Paris, Pilâtre de Rozier et le marquis d'Arlandes réalisent le premier vol habité libre en montgolfière, de La Muette à la Butte-aux-Cailles."
+    },
+    {
+      "annee": 1877,
+      "texte": "Thomas Edison annonce son invention du phonographe, un appareil capable d'enregistrer et de reproduire le son."
+    },
+    {
+      "annee": 1905,
+      "texte": "L'article d'Albert Einstein qui mène à la formule d'équivalence entre la masse et l'énergie, E = mc², est publié dans la revue Annalen der Physik."
+    },
+    {
+      "annee": 1676,
+      "texte": "L'astronome danois Ole Rømer présente les premières mesures quantitatives de la vitesse de la lumière."
+    },
+    {
+      "annee": 1969,
+      "texte": "Le premier lien permanent du réseau ARPANET est établi entre l'université UCLA et l'institut SRI."
+    },
+    {
+      "annee": 1922,
+      "texte": "Rebecca Latimer Felton, de Géorgie, devient la première femme à siéger au Sénat des États-Unis, même si ce n'est que pour une seule journée."
+    },
+    {
+      "annee": 1898,
+      "texte": "Naissance de René Magritte, peintre belge, mort en 1967."
+    }
+  ]
+}

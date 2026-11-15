@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1885,
+      "texte": "Le parc national de Banff, le plus ancien parc national du Canada, est créé sous le nom de réserve des sources thermales de Banff."
+    },
+    {
+      "annee": 1915,
+      "texte": "Albert Einstein présente les équations de champ de la relativité générale à l'Académie royale des sciences de Prusse."
+    },
+    {
+      "annee": 1975,
+      "texte": "La Guyane néerlandaise devient indépendante des Pays-Bas et prend le nom de Suriname. Johan Ferrier en devient le premier président."
+    },
+    {
+      "annee": 1491,
+      "texte": "La signature du traité de Grenade met fin à la guerre de Grenade et au siège de la ville, dernier bastion maure en Espagne."
+    },
+    {
+      "annee": 1947,
+      "texte": "La Nouvelle-Zélande ratifie le Statut de Westminster de 1931 et devient ainsi indépendante du contrôle législatif du Royaume-Uni."
+    },
+    {
+      "annee": 1901,
+      "texte": "Première de la Symphonie no 4 de Gustav Mahler, à Munich."
+    },
+    {
+      "annee": 1992,
+      "texte": "L'Assemblée fédérale de Tchécoslovaquie vote la séparation du pays en deux États, la République tchèque et la Slovaquie, à compter du 1er janvier 1993."
+    }
+  ]
+}

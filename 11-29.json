@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1803,
+      "texte": "Naissance de Christian Doppler, mathématicien et physicien autrichien."
+    },
+    {
+      "annee": 1929,
+      "texte": "L'amiral américain Richard E. Byrd dirige la première expédition à survoler le pôle Sud."
+    },
+    {
+      "annee": 1972,
+      "texte": "Atari commercialise Pong, l'un des premiers jeux vidéo à connaître un grand succès, aussi bien en salle d'arcade que sur console de salon."
+    },
+    {
+      "annee": 1982,
+      "texte": "Michael Jackson publie « Thriller », l'album de musique le plus vendu de tous les temps."
+    },
+    {
+      "annee": 1899,
+      "texte": "Fondation du FC Barcelone par le pionnier suisse du football Joan Gamper. Il deviendra l'un des clubs les plus titrés du football espagnol."
+    },
+    {
+      "annee": 1961,
+      "texte": "Le chimpanzé Enos est lancé dans l'espace à bord de Mercury-Atlas 5. Il fait deux fois le tour de la Terre et amerrit au large de Porto Rico."
+    },
+    {
+      "annee": 1955,
+      "texte": "Naissance de Howie Mandel, humoriste, acteur et animateur de télévision canadien."
+    }
+  ]
+}

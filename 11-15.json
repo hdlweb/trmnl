@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1976,
+      "texte": "Le Parti québécois de René Lévesque remporte les élections générales. C'est la première fois qu'un parti souverainiste prend le pouvoir au Québec."
+    },
+    {
+      "annee": 1948,
+      "texte": "Louis St-Laurent devient premier ministre du Canada. Cet avocat originaire de Compton, dans les Cantons-de-l'Est, dirigera le pays jusqu'en 1957."
+    },
+    {
+      "annee": 1971,
+      "texte": "Intel commercialise le 4004, le tout premier microprocesseur réuni sur une seule puce. Cette invention ouvre la voie aux ordinateurs personnels modernes."
+    },
+    {
+      "annee": 1920,
+      "texte": "À Genève, la Société des Nations tient sa première assemblée. Ancêtre de l'ONU, elle vise à préserver la paix après la Première Guerre mondiale."
+    },
+    {
+      "annee": 1738,
+      "texte": "Naissance de William Herschel, astronome d'origine allemande établi en Angleterre. Il découvrira la planète Uranus en 1781 avec son télescope."
+    },
+    {
+      "annee": 1859,
+      "texte": "À Athènes, grâce au mécène grec Evangelos Zappas, se tiennent les premiers Jeux olympiques de l'ère moderne, bien avant ceux de Coubertin en 1896."
+    },
+    {
+      "annee": 2017,
+      "texte": "Des astronomes annoncent la découverte de Ross 128 b, une exoplanète semblable à la Terre, en orbite autour d'une étoile située à onze années-lumière."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1841,
+      "texte": "Naissance de Wilfrid Laurier à Saint-Lin, au Québec. Il deviendra le 7e premier ministre du Canada, le premier francophone à occuper ce poste."
+    },
+    {
+      "annee": 1892,
+      "texte": "Naissance de James Collip, biochimiste canadien qui, avec Banting et Best, contribue à la découverte de l'insuline en purifiant l'extrait à Toronto."
+    },
+    {
+      "annee": 1989,
+      "texte": "L'Assemblée générale des Nations unies adopte la Convention relative aux droits de l'enfant, devenue le traité le plus ratifié de l'histoire."
+    },
+    {
+      "annee": 1998,
+      "texte": "Une fusée russe Proton met en orbite Zarya, le tout premier module de la Station spatiale internationale, lancée depuis le cosmodrome de Baïkonour."
+    },
+    {
+      "annee": 1889,
+      "texte": "Naissance d'Edwin Hubble, astronome américain qui démontrera l'existence de galaxies hors de la Voie lactée ainsi que l'expansion de l'Univers."
+    },
+    {
+      "annee": 1858,
+      "texte": "Naissance de Selma Lagerlöf, écrivaine suédoise, auteure du « Merveilleux voyage de Nils Holgersson » et première femme prix Nobel de littérature."
+    },
+    {
+      "annee": 1805,
+      "texte": "À Vienne, première représentation de « Fidelio », l'unique opéra de Ludwig van Beethoven, au Theater an der Wien, devant un public clairsemé."
+    },
+    {
+      "annee": 1815,
+      "texte": "Le second traité de Paris met définitivement fin au Premier Empire de Napoléon après les Cent-Jours et ramène durablement la paix en Europe."
+    }
+  ]
+}

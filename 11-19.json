@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1977,
+      "texte": "Le président égyptien Anouar el-Sadate effectue une visite historique en Israël, premier pas vers le traité de paix israélo-égyptien de 1979."
+    },
+    {
+      "annee": 1985,
+      "texte": "À Genève, Ronald Reagan et Mikhaïl Gorbatchev se rencontrent pour la première fois, un sommet qui amorce le tournant vers la fin de la guerre froide."
+    },
+    {
+      "annee": 1847,
+      "texte": "Inauguration du chemin de fer de Montréal et Lachine, la deuxième ligne ferroviaire au Canada, qui relie Montréal au village de Lachine, à l'ouest."
+    },
+    {
+      "annee": 1969,
+      "texte": "Les astronautes d'Apollo 12, Pete Conrad et Alan Bean, se posent sur la Lune dans l'océan des Tempêtes, pour le deuxième alunissage de l'histoire."
+    },
+    {
+      "annee": 1863,
+      "texte": "Abraham Lincoln prononce le discours de Gettysburg, qui définit la démocratie comme le « gouvernement du peuple, par le peuple, pour le peuple »."
+    },
+    {
+      "annee": 1956,
+      "texte": "Naissance d'Eileen Collins, astronaute américaine, première femme à piloter puis à commander une navette spatiale de la NASA, en 1995 et en 1999."
+    },
+    {
+      "annee": 1990,
+      "texte": "À Paris, l'Est et l'Ouest signent le traité sur les forces conventionnelles en Europe, l'un des actes qui marquent la fin de la guerre froide."
+    },
+    {
+      "annee": 1969,
+      "texte": "Au stade Maracanã de Rio de Janeiro, la vedette brésilienne Pelé marque le millième but de sa carrière, ovationné par la foule pendant de longues minutes."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "evenements": [
+    {
+      "annee": 1938,
+      "texte": "À Vancouver, le pont Lions Gate s'ouvre à la circulation. Ce pont suspendu relie le centre-ville à la rive nord, de l'autre côté de l'inlet Burrard."
+    },
+    {
+      "annee": 1969,
+      "texte": "Lancement d'Apollo 12 depuis le centre spatial Kennedy. C'est la deuxième mission habitée à se poser sur la Lune, quelques mois après Apollo 11."
+    },
+    {
+      "annee": 1990,
+      "texte": "L'Allemagne réunifiée et la Pologne signent un traité qui confirme leur frontière commune sur la ligne Oder-Neisse, réglant un vieux litige."
+    },
+    {
+      "annee": 2003,
+      "texte": "Des astronomes américains découvrent Sedna, un objet glacé situé bien au-delà de Neptune, parmi les plus lointains connus du Système solaire."
+    },
+    {
+      "annee": 1840,
+      "texte": "Naissance à Paris de Claude Monet, peintre français et chef de file de l'impressionnisme, célèbre pour ses Nymphéas et ses jardins de Giverny."
+    },
+    {
+      "annee": 1963,
+      "texte": "Au large de l'Islande, une éruption sous-marine fait émerger une nouvelle île, Surtsey, devenue depuis un laboratoire naturel pour la science."
+    }
+  ]
+}

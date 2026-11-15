@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1945,
+      "texte": "Vingt États fondent l'UNESCO, l'Organisation des Nations unies pour l'éducation, la science et la culture, dont le siège sera établi à Paris."
+    },
+    {
+      "annee": 1847,
+      "texte": "Naissance d'Edmund James Flynn, avocat et homme politique conservateur, qui deviendra le 10e premier ministre de la province de Québec, de 1896 à 1897."
+    },
+    {
+      "annee": 1860,
+      "texte": "Sur l'île de Vancouver, le phare de Fisgard s'allume pour la première fois. Premier phare permanent de la côte ouest canadienne, il est lieu historique."
+    },
+    {
+      "annee": 1965,
+      "texte": "L'Union soviétique lance la sonde Venera 3 vers Vénus. Elle deviendra le premier engin humain à atteindre la surface d'une autre planète, en mars 1966."
+    },
+    {
+      "annee": 2022,
+      "texte": "Après plusieurs reports, la NASA lance avec succès Artemis I, un vol d'essai sans équipage autour de la Lune qui prépare le retour des astronautes."
+    },
+    {
+      "annee": 1904,
+      "texte": "L'ingénieur anglais John Ambrose Fleming obtient le brevet du tube à vide, ou diode, composant clé de la radio et des tout premiers ordinateurs."
+    },
+    {
+      "annee": 1885,
+      "texte": "Louis Riel, chef métis et fondateur du Manitoba, est pendu à Regina après sa condamnation pour son rôle dans la rébellion du Nord-Ouest de 1885."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1967,
+      "texte": "Jocelyn Bell Burnell remarque une anomalie dans les données d'un radiotélescope : c'est le premier pulsar découvert, PSR B1919+21."
+    },
+    {
+      "annee": 1520,
+      "texte": "Après 38 jours, l'expédition de Fernand de Magellan achève la première traversée du détroit qui portera son nom et entre dans l'océan Pacifique."
+    },
+    {
+      "annee": 1919,
+      "texte": "Lady Astor est élue au Parlement britannique : première femme à siéger aux Communes. La comtesse Markievicz, élue avant elle, avait refusé de siéger."
+    },
+    {
+      "annee": 1893,
+      "texte": "Élections législatives en Nouvelle-Zélande : les femmes y votent pour la première fois, au terme du combat pour le suffrage féminin."
+    },
+    {
+      "annee": 1660,
+      "texte": "Au Gresham College de Londres, douze hommes, dont Christopher Wren et Robert Boyle, décident de fonder ce qui deviendra la Royal Society."
+    },
+    {
+      "annee": 1964,
+      "texte": "La NASA lance la sonde Mariner 4 vers Mars."
+    },
+    {
+      "annee": 1949,
+      "texte": "Naissance de Paul Shaffer, chanteur, claviériste et chef d'orchestre canado-américain."
+    },
+    {
+      "annee": 1984,
+      "texte": "Naissance de Marc-André Fleury, joueur de hockey sur glace québécois."
+    }
+  ]
+}
