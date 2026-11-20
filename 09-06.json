@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1766,
+      "texte": "Naissance de John Dalton, chimiste et physicien britannique."
+    },
+    {
+      "annee": 1900,
+      "texte": "Naissance de Julien Green, écrivain français."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance d'Andrea Camilleri, écrivain italien."
+    },
+    {
+      "annee": 1957,
+      "texte": "Naissance de Michaëlle Jean, journaliste, gouverneure générale du Canada, puis secrétaire générale de la Francophonie."
+    },
+    {
+      "annee": 1968,
+      "texte": "Indépendance du Swaziland."
+    },
+    {
+      "annee": 1925,
+      "texte": "Inauguration de la tour Perret de Grenoble, première tour en béton armé."
+    },
+    {
+      "annee": 1916,
+      "texte": "Fondation à Memphis de Piggly Wiggly, la première épicerie libre-service."
+    },
+    {
+      "annee": 1870,
+      "texte": "Au Wyoming, Louisa Ann Swain devient la première femme à voter légalement aux États-Unis."
+    }
+  ]
+}

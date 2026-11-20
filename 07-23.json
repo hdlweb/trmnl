@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1888,
+      "texte": "Naissance de Raymond Chandler, romancier et scénariste américain."
+    },
+    {
+      "annee": 1928,
+      "texte": "Naissance de Vera Rubin, astronome américaine."
+    },
+    {
+      "annee": 1962,
+      "texte": "Naissance d'Alain Lefèvre, pianiste et compositeur québécois."
+    },
+    {
+      "annee": 1840,
+      "texte": "Le Parlement du Royaume-Uni adopte l'Acte d'Union, qui crée la province du Canada."
+    },
+    {
+      "annee": 1903,
+      "texte": "Ford vend sa première automobile."
+    },
+    {
+      "annee": 1995,
+      "texte": "Découverte de la comète Hale-Bopp."
+    },
+    {
+      "annee": 2015,
+      "texte": "Annonce de Kepler-452 b, première planète tellurique trouvée dans la zone habitable d'une étoile de type solaire."
+    },
+    {
+      "annee": 1999,
+      "texte": "Lancement de la navette Columbia : Eileen Collins devient la première femme commandante d'une navette spatiale."
+    }
+  ]
+}

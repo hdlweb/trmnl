@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1933,
+      "texte": "Naissance de Gilles Archambault, journaliste et romancier canadien."
+    },
+    {
+      "annee": 1749,
+      "texte": "Naissance de Jean-Baptiste Joseph Delambre, astronome et mathématicien français."
+    },
+    {
+      "annee": 1972,
+      "texte": "Naissance de N. K. Jemisin, écrivaine américaine de science-fiction et de fantasy."
+    },
+    {
+      "annee": 1991,
+      "texte": "Des randonneurs découvrent dans les Alpes italiennes Ötzi, l'« homme des glaces », mort depuis 5 000 ans."
+    },
+    {
+      "annee": 1979,
+      "texte": "Signature à Berne de la convention relative à la conservation de la vie sauvage et du milieu naturel de l'Europe."
+    },
+    {
+      "annee": 1893,
+      "texte": "La Nouvelle-Zélande devient le premier pays à instaurer le suffrage universel, grâce au mouvement de Kate Sheppard."
+    },
+    {
+      "annee": 1970,
+      "texte": "Premier festival de Glastonbury, à la ferme de Michael Eavis, en Angleterre."
+    },
+    {
+      "annee": 1982,
+      "texte": "Scott Fahlman publie les premières émoticônes connues, :-) et :-(."
+    }
+  ]
+}

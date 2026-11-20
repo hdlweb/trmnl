@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1933,
+      "texte": "Naissance de Cormac McCarthy, romancier et scénariste américain."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance de Jacques Delors, économiste et homme politique français, président de la Commission européenne."
+    },
+    {
+      "annee": 1955,
+      "texte": "Naissance de René-Daniel Dubois, scénariste et dramaturge québécois."
+    },
+    {
+      "annee": 1969,
+      "texte": "Le module lunaire Eagle d'Apollo 11 se pose sur la mer de la Tranquillité, sur la Lune."
+    },
+    {
+      "annee": 1976,
+      "texte": "L'atterrisseur Viking 1 réussit le premier atterrissage opérationnel sur Mars."
+    },
+    {
+      "annee": 1954,
+      "texte": "Signature des accords de Genève, qui mettent fin à la guerre d'Indochine."
+    },
+    {
+      "annee": 1871,
+      "texte": "La Colombie-Britannique se joint à la Confédération canadienne."
+    },
+    {
+      "annee": 1807,
+      "texte": "Claude et Nicéphore Niépce obtiennent le brevet du Pyréolophore, un des premiers moteurs à combustion interne."
+    }
+  ]
+}

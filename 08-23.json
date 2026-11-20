@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1769,
+      "texte": "Naissance de Georges Cuvier, paléontologue et naturaliste français."
+    },
+    {
+      "annee": 1741,
+      "texte": "Naissance de Jean-François de La Pérouse, explorateur français."
+    },
+    {
+      "annee": 1921,
+      "texte": "Naissance de Kenneth Arrow, économiste américain, prix Nobel d'économie en 1972."
+    },
+    {
+      "annee": 1961,
+      "texte": "Naissance d'Alexandre Desplat, compositeur français."
+    },
+    {
+      "annee": 1989,
+      "texte": "La « voie balte » : une chaîne humaine relie la Lituanie, la Lettonie et l'Estonie pour réclamer leur indépendance."
+    },
+    {
+      "annee": 2023,
+      "texte": "La sonde indienne Chandrayaan-3 se pose sur la Lune, près du pôle Sud lunaire."
+    },
+    {
+      "annee": 1966,
+      "texte": "Lunar Orbiter 1 prend la première photo de la Terre depuis l'orbite lunaire."
+    },
+    {
+      "annee": 1541,
+      "texte": "Lors de son troisième voyage, Jacques Cartier débarque près de Québec."
+    }
+  ]
+}

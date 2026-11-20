@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1771,
+      "texte": "Naissance de Walter Scott, romancier et poète écossais."
+    },
+    {
+      "annee": 1892,
+      "texte": "Naissance de Louis de Broglie, physicien français, prix Nobel de physique en 1929."
+    },
+    {
+      "annee": 1896,
+      "texte": "Naissance de Gerty Cori, biochimiste américaine, prix Nobel de médecine en 1947."
+    },
+    {
+      "annee": 1954,
+      "texte": "Naissance de Stieg Larsson, journaliste et écrivain suédois."
+    },
+    {
+      "annee": 1977,
+      "texte": "Le radiotélescope Big Ear, en Ohio, capte un signal radio intrigant, surnommé le signal « Wow! »."
+    },
+    {
+      "annee": 1969,
+      "texte": "Ouverture du festival de Woodstock, qui rassemble plus de 400 000 personnes pour « la paix et la musique »."
+    },
+    {
+      "annee": 1947,
+      "texte": "Jawaharlal Nehru devient le premier premier ministre de l'Inde."
+    },
+    {
+      "annee": 1914,
+      "texte": "Inauguration du canal de Panama, après plus de trente ans de travaux."
+    }
+  ]
+}

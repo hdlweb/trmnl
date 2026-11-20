@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1899,
+      "texte": "Naissance de Jorge Luis Borges, écrivain et poète argentin."
+    },
+    {
+      "annee": 1922,
+      "texte": "Naissance de René Lévesque, journaliste et homme politique, premier ministre du Québec de 1976 à 1985."
+    },
+    {
+      "annee": 1920,
+      "texte": "Naissance d'Alex Colville, artiste peintre canadien."
+    },
+    {
+      "annee": 1957,
+      "texte": "Naissance de Stephen Fry, auteur, humoriste et acteur britannique."
+    },
+    {
+      "annee": 2006,
+      "texte": "Pluton perd son statut de planète et devient une planète naine."
+    },
+    {
+      "annee": 1821,
+      "texte": "Le traité de Córdoba met fin à la guerre d'indépendance du Mexique."
+    },
+    {
+      "annee": 2016,
+      "texte": "Annonce de la découverte de Proxima Centauri b, l'exoplanète la plus proche de la Terre."
+    },
+    {
+      "annee": 1989,
+      "texte": "Tadeusz Mazowiecki devient le premier chef de gouvernement non communiste d'Europe centrale et de l'Est."
+    }
+  ]
+}

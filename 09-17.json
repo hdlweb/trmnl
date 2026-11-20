@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1743,
+      "texte": "Naissance de Nicolas de Condorcet, philosophe, mathématicien et homme politique français."
+    },
+    {
+      "annee": 1826,
+      "texte": "Naissance de Bernhard Riemann, mathématicien allemand."
+    },
+    {
+      "annee": 1931,
+      "texte": "Naissance de Jean-Claude Carrière, écrivain et scénariste français."
+    },
+    {
+      "annee": 1822,
+      "texte": "Jean-François Champollion déchiffre pour la première fois des hiéroglyphes égyptiens."
+    },
+    {
+      "annee": 1978,
+      "texte": "À Camp David, Anouar el-Sadate et Menahem Begin signent un accord de paix au Proche-Orient."
+    },
+    {
+      "annee": 1849,
+      "texte": "Harriet Tubman s'enfuit de l'esclavage, au Maryland. Elle aidera ensuite d'autres esclaves à s'échapper."
+    },
+    {
+      "annee": 1958,
+      "texte": "Début de la parution de « Tintin au Tibet », l'album préféré d'Hergé."
+    },
+    {
+      "annee": 1543,
+      "texte": "Publication à Stockholm de l'Abckiria de Mikael Agricola, premier livre en finnois."
+    }
+  ]
+}

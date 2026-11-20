@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1834,
+      "texte": "Naissance d'Edgar Degas, peintre et sculpteur français."
+    },
+    {
+      "annee": 1947,
+      "texte": "Naissance de Brian May, guitariste, auteur-compositeur et astrophysicien britannique."
+    },
+    {
+      "annee": 1960,
+      "texte": "Naissance d'Atom Egoyan, réalisateur et scénariste canadien d'origine égyptienne."
+    },
+    {
+      "annee": 1947,
+      "texte": "Naissance d'André Forcier, réalisateur et scénariste québécois."
+    },
+    {
+      "annee": 1900,
+      "texte": "Mise en service de la première ligne du métro de Paris."
+    },
+    {
+      "annee": 1848,
+      "texte": "Ouverture de la convention de Seneca Falls, première convention sur les droits des femmes aux États-Unis."
+    },
+    {
+      "annee": 1843,
+      "texte": "Lancement du SS Great Britain, premier navire de haute mer à coque de fer et à hélice."
+    },
+    {
+      "annee": 1977,
+      "texte": "Transmission du premier signal du système de positionnement GPS, depuis le satellite NTS-2."
+    }
+  ]
+}

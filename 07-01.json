@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1646,
+      "texte": "Naissance de Gottfried Wilhelm Leibniz, mathématicien et philosophe allemand."
+    },
+    {
+      "annee": 1818,
+      "texte": "Naissance d'Ignace Semmelweis, médecin obstétricien hongrois."
+    },
+    {
+      "annee": 1958,
+      "texte": "Naissance de Louise Penny, romancière canadienne."
+    },
+    {
+      "annee": 1867,
+      "texte": "Le Canada est créé par l'entrée en vigueur de l'Acte de l'Amérique du Nord britannique."
+    },
+    {
+      "annee": 1980,
+      "texte": "« Ô Canada » devient officiellement l'hymne national du Canada."
+    },
+    {
+      "annee": 1979,
+      "texte": "Sony lance le Walkman, baladeur qui change la façon d'écouter de la musique."
+    },
+    {
+      "annee": 1903,
+      "texte": "Départ de la première édition du Tour de France."
+    },
+    {
+      "annee": 1997,
+      "texte": "Fin du bail de Hong Kong : le territoire britannique passe sous souveraineté chinoise."
+    }
+  ]
+}

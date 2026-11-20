@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1948,
+      "texte": "Naissance de George R. R. Martin, romancier américain."
+    },
+    {
+      "annee": 1842,
+      "texte": "Naissance de James Dewar, chimiste et physicien britannique."
+    },
+    {
+      "annee": 1899,
+      "texte": "Naissance de Leo Strauss, philosophe allemand naturalisé américain."
+    },
+    {
+      "annee": 1946,
+      "texte": "Ouverture du premier Festival de Cannes, retardé de sept ans par la guerre."
+    },
+    {
+      "annee": 1519,
+      "texte": "Magellan part de Sanlúcar de Barrameda pour l'expédition qui réalisera le premier tour du monde."
+    },
+    {
+      "annee": 1913,
+      "texte": "Le slip apparaît pour la première fois comme sous-vêtement, dans la revue L'Illustration."
+    },
+    {
+      "annee": 1893,
+      "texte": "Charles Duryea et son frère essaient la première automobile à essence construite aux États-Unis."
+    },
+    {
+      "annee": 1967,
+      "texte": "Lancement du paquebot Queen Elizabeth 2 à Clydebank, en Écosse."
+    }
+  ]
+}

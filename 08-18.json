@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1750,
+      "texte": "Naissance d'Antonio Salieri, compositeur italien."
+    },
+    {
+      "annee": 1906,
+      "texte": "Naissance de Marcel Carné, cinéaste français."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance de Pierre Grondin, chirurgien québécois, pionnier de la transplantation cardiaque au Canada."
+    },
+    {
+      "annee": 1932,
+      "texte": "Naissance de Luc Montagnier, virologue français, prix Nobel de médecine en 2008."
+    },
+    {
+      "annee": 1877,
+      "texte": "L'astronome américain Asaph Hall découvre Phobos, la plus grosse des deux lunes de Mars."
+    },
+    {
+      "annee": 1868,
+      "texte": "L'astronome français Pierre Janssen découvre l'hélium."
+    },
+    {
+      "annee": 1976,
+      "texte": "La sonde soviétique Luna 24 se pose sur la Lune."
+    }
+  ]
+}

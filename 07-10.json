@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1856,
+      "texte": "Naissance de Nikola Tesla, inventeur et ingénieur en électricité."
+    },
+    {
+      "annee": 1871,
+      "texte": "Naissance de Marcel Proust, écrivain français."
+    },
+    {
+      "annee": 1830,
+      "texte": "Naissance de Camille Pissarro, peintre impressionniste français."
+    },
+    {
+      "annee": 1931,
+      "texte": "Naissance d'Alice Munro, écrivaine canadienne, prix Nobel de littérature en 2013."
+    },
+    {
+      "annee": 1921,
+      "texte": "Naissance de Harvey Ball, graphiste américain, inventeur du smiley."
+    },
+    {
+      "annee": 1895,
+      "texte": "Naissance de Carl Orff, compositeur allemand de « Carmina Burana »."
+    },
+    {
+      "annee": 1888,
+      "texte": "Naissance de Giorgio De Chirico, peintre italien."
+    },
+    {
+      "annee": 1920,
+      "texte": "Arthur Meighen devient premier ministre du Canada."
+    }
+  ]
+}

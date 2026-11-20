@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1872,
+      "texte": "Naissance de Roald Amundsen, explorateur polaire norvégien."
+    },
+    {
+      "annee": 1796,
+      "texte": "Naissance de Jean-Baptiste Corot, peintre français."
+    },
+    {
+      "annee": 1661,
+      "texte": "Naissance de Pierre Le Moyne d'Iberville, navigateur, militaire et explorateur canadien."
+    },
+    {
+      "annee": 1969,
+      "texte": "Lancement d'Apollo 11, la mission qui posera les premiers astronautes sur la Lune."
+    },
+    {
+      "annee": 1994,
+      "texte": "Les fragments de la comète Shoemaker-Levy 9 commencent à s'écraser sur Jupiter."
+    },
+    {
+      "annee": 1951,
+      "texte": "Publication de « The Catcher in the Rye », roman de J. D. Salinger."
+    },
+    {
+      "annee": 1536,
+      "texte": "Jacques Cartier rentre à Saint-Malo, au retour de sa deuxième expédition au Canada."
+    },
+    {
+      "annee": 1661,
+      "texte": "La banque suédoise Stockholms Banco émet les premiers billets de banque d'Europe."
+    }
+  ]
+}

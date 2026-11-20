@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1899,
+      "texte": "Naissance d'Alfred Hitchcock, cinéaste britannique."
+    },
+    {
+      "annee": 1888,
+      "texte": "Naissance de John Logie Baird, ingénieur écossais, pionnier de la télévision."
+    },
+    {
+      "annee": 1918,
+      "texte": "Naissance de Frederick Sanger, chimiste britannique, prix Nobel de chimie en 1958 et en 1980."
+    },
+    {
+      "annee": 1814,
+      "texte": "Naissance d'Anders Jonas Ångström, astronome et physicien suédois."
+    },
+    {
+      "annee": 2014,
+      "texte": "L'Iranienne Maryam Mirzakhani devient la première femme à recevoir la médaille Fields."
+    },
+    {
+      "annee": 1532,
+      "texte": "Promulgation de l'édit qui rattache définitivement le duché de Bretagne à la couronne de France."
+    },
+    {
+      "annee": 1876,
+      "texte": "« Das Rheingold » ouvre le premier cycle de l'Anneau de Wagner, au premier festival de Bayreuth."
+    },
+    {
+      "annee": 1913,
+      "texte": "Harry Brearley produit pour la première fois de l'acier inoxydable, au Royaume-Uni."
+    }
+  ]
+}

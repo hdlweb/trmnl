@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1645,
+      "texte": "Naissance de Jean de La Bruyère, écrivain et moraliste français."
+    },
+    {
+      "annee": 1895,
+      "texte": "Naissance d'Albert Cohen, écrivain suisse de langue française."
+    },
+    {
+      "annee": 1934,
+      "texte": "Naissance de Pierre Richard, acteur et réalisateur français."
+    },
+    {
+      "annee": 1954,
+      "texte": "Naissance de James Cameron, cinéaste canadien."
+    },
+    {
+      "annee": 1920,
+      "texte": "Naissance de Charles Bukowski, écrivain allemand naturalisé américain."
+    },
+    {
+      "annee": 1896,
+      "texte": "Près de Dawson City, George Carmack et Skookum Jim découvrent de l'or : début de la ruée vers l'or du Klondike."
+    },
+    {
+      "annee": 1930,
+      "texte": "Ouverture à Hamilton, en Ontario, des premiers Jeux de l'Empire britannique."
+    },
+    {
+      "annee": 2016,
+      "texte": "La Chine lance le premier satellite de communication quantique."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1645,
+      "texte": "Naissance de Louis Jolliet, explorateur canadien."
+    },
+    {
+      "annee": 1866,
+      "texte": "Naissance de H. G. Wells, écrivain britannique."
+    },
+    {
+      "annee": 1947,
+      "texte": "Naissance de Stephen King, écrivain américain."
+    },
+    {
+      "annee": 1874,
+      "texte": "Naissance de Gustav Holst, compositeur britannique."
+    },
+    {
+      "annee": 1937,
+      "texte": "Première parution de « The Hobbit » de J. R. R. Tolkien."
+    },
+    {
+      "annee": 1792,
+      "texte": "Mise en place de la Convention nationale et abolition de la royauté en France."
+    },
+    {
+      "annee": 1897,
+      "texte": "En réponse à la lettre d'une fillette, le New York Sun publie l'éditorial « Yes, Virginia, there is a Santa Claus »."
+    },
+    {
+      "annee": 2003,
+      "texte": "Fin de mission pour la sonde Galileo, envoyée s'écraser dans l'atmosphère de Jupiter."
+    }
+  ]
+}

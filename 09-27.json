@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1627,
+      "texte": "Naissance de Jacques-Bénigne Bossuet, évêque et écrivain français."
+    },
+    {
+      "annee": 1951,
+      "texte": "Naissance de Michel Rivard, auteur-compositeur-interprète québécois, fondateur du groupe Beau Dommage."
+    },
+    {
+      "annee": 1943,
+      "texte": "Naissance de Randy Bachman, musicien canadien des groupes The Guess Who et Bachman-Turner Overdrive."
+    },
+    {
+      "annee": 1908,
+      "texte": "Début de la production de la Ford Model T, à Détroit."
+    },
+    {
+      "annee": 1825,
+      "texte": "Inauguration du chemin de fer Stockton-Darlington, premier chemin de fer public à locomotives à vapeur."
+    },
+    {
+      "annee": 1983,
+      "texte": "Richard Stallman annonce le projet GNU, premier système d'exploitation libre."
+    },
+    {
+      "annee": 1540,
+      "texte": "Le pape reconnaît la Compagnie de Jésus par la bulle Regimini militantis Ecclesiae."
+    },
+    {
+      "annee": 2007,
+      "texte": "La NASA lance la sonde Dawn vers la ceinture d'astéroïdes."
+    }
+  ]
+}

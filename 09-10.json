@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1897,
+      "texte": "Naissance de Georges Bataille, écrivain et philosophe français."
+    },
+    {
+      "annee": 1933,
+      "texte": "Naissance de Karl Lagerfeld, grand couturier et photographe allemand."
+    },
+    {
+      "annee": 1937,
+      "texte": "Naissance de Jared Diamond, biologiste, géographe et auteur américain."
+    },
+    {
+      "annee": 2002,
+      "texte": "La Suisse adhère à l'ONU."
+    },
+    {
+      "annee": 1915,
+      "texte": "Lancement de l'hebdomadaire satirique Le Canard enchaîné."
+    },
+    {
+      "annee": 1984,
+      "texte": "Le généticien britannique Alec Jeffreys découvre par hasard le principe de l'empreinte génétique."
+    },
+    {
+      "annee": 1960,
+      "texte": "Pieds nus, Abebe Bikila gagne le marathon de Rome : premier champion olympique d'Afrique subsaharienne."
+    },
+    {
+      "annee": 2024,
+      "texte": "Lancement de Polaris Dawn, premier vol spatial privé comprenant une sortie dans l'espace."
+    }
+  ]
+}

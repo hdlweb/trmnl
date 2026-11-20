@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1683,
+      "texte": "Naissance de Jean-Philippe Rameau, compositeur français."
+    },
+    {
+      "annee": 1897,
+      "texte": "Naissance de William Faulkner, écrivain américain, prix Nobel de littérature."
+    },
+    {
+      "annee": 1906,
+      "texte": "Naissance de Dmitri Chostakovitch, compositeur russe."
+    },
+    {
+      "annee": 1949,
+      "texte": "Naissance de Pedro Almodóvar, réalisateur espagnol."
+    },
+    {
+      "annee": 1513,
+      "texte": "En traversant l'isthme de Panama, Vasco Núñez de Balboa est le premier Européen à voir l'océan Pacifique."
+    },
+    {
+      "annee": 1981,
+      "texte": "Sandra Day O'Connor devient la première femme juge à la Cour suprême des États-Unis."
+    },
+    {
+      "annee": 1956,
+      "texte": "Inauguration de TAT-1, le premier câble téléphonique sous-marin transatlantique."
+    },
+    {
+      "annee": 1890,
+      "texte": "Création du parc national de Sequoia, en Californie, pour protéger les séquoias géants."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1817,
+      "texte": "Naissance d'Henry David Thoreau, essayiste, philosophe et poète américain."
+    },
+    {
+      "annee": 1813,
+      "texte": "Naissance de Claude Bernard, médecin et physiologiste français."
+    },
+    {
+      "annee": 1884,
+      "texte": "Naissance d'Amedeo Modigliani, peintre et sculpteur italien."
+    },
+    {
+      "annee": 1904,
+      "texte": "Naissance de Pablo Neruda, poète chilien, prix Nobel de littérature en 1971."
+    },
+    {
+      "annee": 1854,
+      "texte": "Naissance de George Eastman, inventeur et industriel américain, fondateur de Kodak."
+    },
+    {
+      "annee": 1849,
+      "texte": "Naissance de William Osler, médecin canadien."
+    },
+    {
+      "annee": 1997,
+      "texte": "Naissance de Malala Yousafzai, militante pakistanaise des droits des femmes, prix Nobel de la paix en 2014."
+    },
+    {
+      "annee": 1962,
+      "texte": "Les Rolling Stones donnent leur premier concert public, au Marquee Club de Londres."
+    }
+  ]
+}

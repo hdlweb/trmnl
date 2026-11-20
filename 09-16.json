@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1953,
+      "texte": "Naissance de Nancy Huston, romancière et essayiste canadienne."
+    },
+    {
+      "annee": 1886,
+      "texte": "Naissance de Jean Arp, sculpteur et peintre alsacien."
+    },
+    {
+      "annee": 1893,
+      "texte": "Naissance d'Albert Szent-Györgyi, scientifique hongrois, prix Nobel de médecine en 1937."
+    },
+    {
+      "annee": 1987,
+      "texte": "Signature du protocole de Montréal sur la protection de la couche d'ozone."
+    },
+    {
+      "annee": 1908,
+      "texte": "Fondation du constructeur automobile américain General Motors."
+    },
+    {
+      "annee": 1620,
+      "texte": "Le Mayflower quitte Plymouth, en Angleterre, pour le Nouveau Monde."
+    },
+    {
+      "annee": 1979,
+      "texte": "Le Sugarhill Gang sort son premier single, « Rapper's Delight »."
+    },
+    {
+      "annee": 1959,
+      "texte": "Démonstration en direct à la télévision du Xerox 914, le premier photocopieur à succès."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1889,
+      "texte": "Naissance de Jean Cocteau, écrivain, cinéaste, dessinateur et académicien français."
+    },
+    {
+      "annee": 1943,
+      "texte": "Naissance de Robbie Robertson, musicien et compositeur canadien du groupe The Band."
+    },
+    {
+      "annee": 1946,
+      "texte": "Naissance de Pierre-Marc Johnson, médecin et homme politique, premier ministre du Québec."
+    },
+    {
+      "annee": 1687,
+      "texte": "Isaac Newton publie ses « Principia », où il décrit les lois du mouvement et la gravitation universelle."
+    },
+    {
+      "annee": 1954,
+      "texte": "Elvis Presley enregistre son premier disque, « That's All Right », chez Sun Records, à Memphis."
+    },
+    {
+      "annee": 1996,
+      "texte": "Naissance de la brebis Dolly, premier mammifère cloné à partir d'une cellule adulte."
+    },
+    {
+      "annee": 1946,
+      "texte": "À la piscine Molitor, à Paris, Micheline Bernardini présente le premier bikini moderne."
+    },
+    {
+      "annee": 1841,
+      "texte": "Thomas Cook organise sa première excursion organisée, entre Leicester et Loughborough."
+    }
+  ]
+}

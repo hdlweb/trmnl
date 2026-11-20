@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1870,
+      "texte": "Naissance de Maria Montessori, médecin et pédagogue italienne."
+    },
+    {
+      "annee": 1821,
+      "texte": "Naissance de Hermann von Helmholtz, physicien allemand."
+    },
+    {
+      "annee": 1896,
+      "texte": "Naissance de Félix-Antoine Savard, prêtre catholique et écrivain québécois."
+    },
+    {
+      "annee": 1903,
+      "texte": "Naissance de Vladimir Jankélévitch, philosophe français."
+    },
+    {
+      "annee": 1957,
+      "texte": "La fédération de Malaisie devient indépendante de l'Empire britannique."
+    },
+    {
+      "annee": 1962,
+      "texte": "Trinité-et-Tobago devient indépendant de l'Empire britannique."
+    },
+    {
+      "annee": 1994,
+      "texte": "Dans le processus de paix nord-irlandais, l'IRA provisoire déclare un cessez-le-feu complet."
+    },
+    {
+      "annee": 1897,
+      "texte": "Thomas Edison obtient le brevet du kinétoscope, ancêtre du projecteur de cinéma."
+    }
+  ]
+}

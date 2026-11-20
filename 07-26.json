@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1856,
+      "texte": "Naissance de George Bernard Shaw, dramaturge irlandais, prix Nobel de littérature en 1925."
+    },
+    {
+      "annee": 1894,
+      "texte": "Naissance d'Aldous Huxley, écrivain et philosophe britannique."
+    },
+    {
+      "annee": 1928,
+      "texte": "Naissance de Stanley Kubrick, réalisateur américain."
+    },
+    {
+      "annee": 1919,
+      "texte": "Naissance de James Lovelock, chimiste et biologiste britannique."
+    },
+    {
+      "annee": 1847,
+      "texte": "Le Liberia est la première colonie africaine à déclarer son indépendance."
+    },
+    {
+      "annee": 1887,
+      "texte": "Louis-Lazare Zamenhof publie à Varsovie le premier ouvrage décrivant l'espéranto, langue internationale construite."
+    },
+    {
+      "annee": 2016,
+      "texte": "Solar Impulse 2 devient le premier avion solaire à faire le tour du monde."
+    }
+  ]
+}

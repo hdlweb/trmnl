@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1494,
+      "texte": "Naissance de François Ier, roi de France."
+    },
+    {
+      "annee": 1897,
+      "texte": "Naissance d'Irène Joliot-Curie, physicienne française, prix Nobel de chimie en 1935."
+    },
+    {
+      "annee": 1943,
+      "texte": "Naissance de Michael Ondaatje, romancier et poète canadien."
+    },
+    {
+      "annee": 1957,
+      "texte": "Naissance de Hans Zimmer, compositeur allemand."
+    },
+    {
+      "annee": 1990,
+      "texte": "Signature du traité de Moscou, qui permet la réunification allemande quelques jours plus tard."
+    },
+    {
+      "annee": 1962,
+      "texte": "À l'université Rice, John F. Kennedy prononce son discours « We choose to go to the Moon »."
+    },
+    {
+      "annee": 1992,
+      "texte": "À bord de la navette Endeavour, Mae Jemison devient la première femme noire dans l'espace."
+    },
+    {
+      "annee": 1958,
+      "texte": "Chez Texas Instruments, Jack Kilby fait la démonstration du premier circuit intégré fonctionnel."
+    }
+  ]
+}

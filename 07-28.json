@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1866,
+      "texte": "Naissance de Beatrix Potter, écrivaine et illustratrice britannique."
+    },
+    {
+      "annee": 1902,
+      "texte": "Naissance de Karl Popper, philosophe des sciences autrichien."
+    },
+    {
+      "annee": 1937,
+      "texte": "Naissance de Francis Veber, réalisateur et scénariste français."
+    },
+    {
+      "annee": 1951,
+      "texte": "Naissance de Santiago Calatrava, architecte et ingénieur espagnol."
+    },
+    {
+      "annee": 1973,
+      "texte": "Naissance de Marc Dupré, auteur-compositeur et chanteur québécois."
+    },
+    {
+      "annee": 1821,
+      "texte": "Le Pérou se déclare indépendant de l'Espagne."
+    },
+    {
+      "annee": 1939,
+      "texte": "À Sutton Hoo, en Angleterre, des archéologues découvrent le célèbre casque d'une sépulture à bateau du VIIe siècle."
+    },
+    {
+      "annee": 1866,
+      "texte": "À 18 ans, Vinnie Ream devient la première femme à recevoir une commande du gouvernement américain pour une statue, celle de Lincoln."
+    }
+  ]
+}

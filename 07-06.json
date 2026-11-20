@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1907,
+      "texte": "Naissance de Frida Kahlo, peintre mexicaine."
+    },
+    {
+      "annee": 1952,
+      "texte": "Naissance de Hilary Mantel, écrivaine britannique."
+    },
+    {
+      "annee": 1946,
+      "texte": "Naissance de Peter Singer, philosophe australien."
+    },
+    {
+      "annee": 1935,
+      "texte": "Naissance de Tenzin Gyatso, 14e dalaï-lama, chef spirituel du Tibet."
+    },
+    {
+      "annee": 1885,
+      "texte": "Louis Pasteur réussit son vaccin contre la rage sur le jeune Joseph Meister, mordu par un chien enragé."
+    },
+    {
+      "annee": 1919,
+      "texte": "Le dirigeable britannique R34 se pose à New York : première traversée de l'Atlantique en dirigeable."
+    },
+    {
+      "annee": 1957,
+      "texte": "Althea Gibson remporte Wimbledon et devient la première athlète noire à y triompher."
+    },
+    {
+      "annee": 1827,
+      "texte": "Signature du traité de Londres pour la pacification de la Grèce."
+    }
+  ]
+}

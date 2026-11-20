@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1927,
+      "texte": "Naissance de Simone Veil, femme politique française, présidente du Parlement européen."
+    },
+    {
+      "annee": 1932,
+      "texte": "Naissance d'Hubert Reeves, astrophysicien canadien."
+    },
+    {
+      "annee": 1934,
+      "texte": "Naissance de Wole Soyinka, écrivain nigérian, prix Nobel de littérature en 1986."
+    },
+    {
+      "annee": 1944,
+      "texte": "Naissance d'Ernő Rubik, architecte hongrois, inventeur du Rubik's Cube."
+    },
+    {
+      "annee": 1885,
+      "texte": "Le Rijksmuseum d'Amsterdam ouvre ses portes dans son bâtiment actuel."
+    },
+    {
+      "annee": 1930,
+      "texte": "Ouverture en Uruguay de la première Coupe du monde de football."
+    },
+    {
+      "annee": 1956,
+      "texte": "Début de l'atelier de Dartmouth, première conférence sur l'intelligence artificielle."
+    },
+    {
+      "annee": 1925,
+      "texte": "Découverte en Tchécoslovaquie de la Vénus de Dolní Věstonice, vieille d'au moins 24 000 ans."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1841,
+      "texte": "Naissance d'Antonín Dvořák, compositeur tchèque."
+    },
+    {
+      "annee": 1830,
+      "texte": "Naissance de Frédéric Mistral, poète français, prix Nobel de littérature en 1904."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance de Peter Sellers, acteur et humoriste britannique."
+    },
+    {
+      "annee": 1924,
+      "texte": "Naissance de Mimi Parent, peintre canadienne."
+    },
+    {
+      "annee": 1951,
+      "texte": "Signature du traité de San Francisco, traité de paix avec le Japon."
+    },
+    {
+      "annee": 1966,
+      "texte": "Première diffusion de la série « Star Trek », avec l'épisode « The Man Trap »."
+    },
+    {
+      "annee": 2016,
+      "texte": "La NASA lance OSIRIS-REx, qui rapportera en 2023 des échantillons de l'astéroïde Bennou."
+    },
+    {
+      "annee": 1565,
+      "texte": "Fondation de Saint Augustine, en Floride, plus ancienne ville d'origine européenne des États-Unis continentaux."
+    }
+  ]
+}

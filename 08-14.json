@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1777,
+      "texte": "Naissance de Hans Christian Ørsted, physicien et chimiste danois."
+    },
+    {
+      "annee": 1945,
+      "texte": "Naissance de Wim Wenders, cinéaste allemand."
+    },
+    {
+      "annee": 1947,
+      "texte": "Naissance de Danielle Steel, romancière américaine."
+    },
+    {
+      "annee": 1980,
+      "texte": "Début de la grève des chantiers navals de Gdańsk, qui mènera à la création du syndicat Solidarność."
+    },
+    {
+      "annee": 1962,
+      "texte": "Les équipes française et italienne qui creusent le tunnel du Mont-Blanc se rejoignent."
+    },
+    {
+      "annee": 1952,
+      "texte": "L'expression « tiers-monde », inventée par Alfred Sauvy, apparaît pour la première fois dans la presse."
+    },
+    {
+      "annee": 1941,
+      "texte": "Après une rencontre secrète à Terre-Neuve, Churchill et Roosevelt publient la Charte de l'Atlantique."
+    },
+    {
+      "annee": 1893,
+      "texte": "La France devient le premier pays à imposer l'immatriculation des véhicules à moteur."
+    }
+  ]
+}

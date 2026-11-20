@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1748,
+      "texte": "Naissance de Jacques-Louis David, peintre français."
+    },
+    {
+      "annee": 1797,
+      "texte": "Naissance de Mary Shelley, romancière britannique."
+    },
+    {
+      "annee": 1871,
+      "texte": "Naissance d'Ernest Rutherford, physicien et chimiste néo-zélandais, prix Nobel de chimie en 1908."
+    },
+    {
+      "annee": 1907,
+      "texte": "Naissance de John Mauchly, physicien américain, pionnier de l'informatique."
+    },
+    {
+      "annee": 1963,
+      "texte": "Mise en place du téléphone rouge, ligne directe entre le Kremlin et la Maison-Blanche."
+    },
+    {
+      "annee": 1967,
+      "texte": "Thurgood Marshall devient le premier juge afro-américain de la Cour suprême des États-Unis."
+    },
+    {
+      "annee": 1909,
+      "texte": "Charles Doolittle Walcott découvre les fossiles des schistes de Burgess, au Canada."
+    },
+    {
+      "annee": 1984,
+      "texte": "Premier vol de la navette spatiale Discovery."
+    }
+  ]
+}

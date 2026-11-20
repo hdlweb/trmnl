@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1883,
+      "texte": "Naissance de Franz Kafka, écrivain tchèque."
+    },
+    {
+      "annee": 1854,
+      "texte": "Naissance de Leoš Janáček, compositeur tchèque."
+    },
+    {
+      "annee": 1870,
+      "texte": "Naissance de R. B. Bennett, 11e premier ministre du Canada, de 1930 à 1935."
+    },
+    {
+      "annee": 1608,
+      "texte": "Samuel de Champlain fonde l'Habitation de Québec."
+    },
+    {
+      "annee": 1886,
+      "texte": "Test public de la Benz Patent-Motorwagen de Carl Benz, première automobile de l'histoire."
+    },
+    {
+      "annee": 1880,
+      "texte": "Parution du premier numéro de la revue Science, créée par Thomas Edison."
+    },
+    {
+      "annee": 1905,
+      "texte": "La Chambre des députés vote la loi de séparation des Églises et de l'État, en France."
+    },
+    {
+      "annee": 1973,
+      "texte": "À la fin de sa tournée, David Bowie annonce par surprise qu'il abandonne son personnage de Ziggy Stardust."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1902,
+      "texte": "Naissance de Paul Dirac, physicien et mathématicien britannique, prix Nobel de physique en 1933."
+    },
+    {
+      "annee": 1931,
+      "texte": "Naissance de Roger Penrose, physicien et mathématicien britannique, lauréat du prix Nobel."
+    },
+    {
+      "annee": 1952,
+      "texte": "Naissance de Jostein Gaarder, écrivain et philosophe norvégien."
+    },
+    {
+      "annee": 1967,
+      "texte": "Fondation de l'Association des nations de l'Asie du Sud-Est (ASEAN)."
+    },
+    {
+      "annee": 1786,
+      "texte": "Jacques Balmat et Michel Paccard réussissent la première ascension du mont Blanc."
+    },
+    {
+      "annee": 1908,
+      "texte": "Au Mans, Wilbur Wright effectue le premier vol public des frères Wright."
+    },
+    {
+      "annee": 1969,
+      "texte": "Sur un passage piéton de Londres, Iain Macmillan prend la photo de la pochette de l'album « Abbey Road » des Beatles."
+    }
+  ]
+}

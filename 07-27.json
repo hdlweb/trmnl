@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1824,
+      "texte": "Naissance d'Alexandre Dumas fils, romancier, dramaturge et académicien français."
+    },
+    {
+      "annee": 1910,
+      "texte": "Naissance de Julien Gracq, écrivain français."
+    },
+    {
+      "annee": 1929,
+      "texte": "Naissance de Jean Baudrillard, sociologue et philosophe français."
+    },
+    {
+      "annee": 1605,
+      "texte": "Fondation de Port-Royal, en Acadie : les Français sont les premiers Européens à s'implanter dans ce qui deviendra le Canada."
+    },
+    {
+      "annee": 1953,
+      "texte": "Signature à Panmunjeom de l'armistice qui met fin aux combats de la guerre de Corée."
+    },
+    {
+      "annee": 1866,
+      "texte": "Achèvement du premier câble télégraphique transatlantique permanent, entre l'Irlande et Terre-Neuve."
+    },
+    {
+      "annee": 1921,
+      "texte": "À l'Université de Toronto, l'équipe de Frederick Banting prouve que l'insuline régule le taux de sucre dans le sang."
+    },
+    {
+      "annee": 1949,
+      "texte": "Premier vol du de Havilland Comet, premier avion de ligne à réaction."
+    }
+  ]
+}

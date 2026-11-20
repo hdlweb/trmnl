@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1887,
+      "texte": "Naissance d'Erwin Schrödinger, physicien autrichien, prix Nobel de physique en 1933."
+    },
+    {
+      "annee": 1881,
+      "texte": "Naissance de Cecil B. DeMille, cinéaste américain."
+    },
+    {
+      "annee": 1941,
+      "texte": "Naissance de Réjean Ducharme, écrivain, dramaturge et scénariste québécois."
+    },
+    {
+      "annee": 1981,
+      "texte": "Présentation de l'IBM PC."
+    },
+    {
+      "annee": 1978,
+      "texte": "Signature d'un traité de paix et d'amitié entre la Chine et le Japon."
+    },
+    {
+      "annee": 2018,
+      "texte": "La NASA lance la sonde Parker, conçue pour atteindre la couronne solaire et l'étudier."
+    },
+    {
+      "annee": 1990,
+      "texte": "Au Dakota du Sud, Sue Hendrickson découvre « Sue », l'un des squelettes de Tyrannosaurus rex les plus complets."
+    },
+    {
+      "annee": 1865,
+      "texte": "Le chirurgien britannique Joseph Lister réalise la première opération antiseptique."
+    }
+  ]
+}

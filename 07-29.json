@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1805,
+      "texte": "Naissance d'Alexis de Tocqueville, philosophe politique, historien et écrivain français."
+    },
+    {
+      "annee": 1905,
+      "texte": "Naissance de Dag Hammarskjöld, diplomate suédois, secrétaire général des Nations unies."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance de Míkis Theodorákis, compositeur grec."
+    },
+    {
+      "annee": 1836,
+      "texte": "À Paris, Adolphe Thiers inaugure l'arc de triomphe de l'Étoile, voulu par Napoléon Ier."
+    },
+    {
+      "annee": 1958,
+      "texte": "Le président Eisenhower signe la loi qui crée la NASA, l'agence spatiale américaine."
+    },
+    {
+      "annee": 1954,
+      "texte": "Publication de « The Fellowship of the Ring », première partie de « The Lord of the Rings » de Tolkien."
+    },
+    {
+      "annee": 2005,
+      "texte": "Des astronomes annoncent la découverte de la planète naine Éris."
+    },
+    {
+      "annee": 1899,
+      "texte": "Signature de la première convention de La Haye."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1860,
+      "texte": "Naissance de Gustav Mahler, compositeur et chef d'orchestre autrichien."
+    },
+    {
+      "annee": 1752,
+      "texte": "Naissance de Joseph Marie Jacquard, inventeur français du métier à tisser Jacquard."
+    },
+    {
+      "annee": 1901,
+      "texte": "Naissance de Vittorio De Sica, acteur et cinéaste italien."
+    },
+    {
+      "annee": 1907,
+      "texte": "Naissance de Robert A. Heinlein, écrivain américain de science-fiction."
+    },
+    {
+      "annee": 1910,
+      "texte": "Naissance de Doris McCarthy, artiste peintre canadienne."
+    },
+    {
+      "annee": 1928,
+      "texte": "Le pain tranché est vendu pour la première fois, par une boulangerie de Chillicothe, au Missouri."
+    },
+    {
+      "annee": 1981,
+      "texte": "Ronald Reagan nomme Sandra Day O'Connor, première femme à la Cour suprême des États-Unis."
+    },
+    {
+      "annee": 1534,
+      "texte": "Jacques Cartier établit son premier contact avec des Autochtones de ce qui est aujourd'hui le Canada."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1743,
+      "texte": "Naissance d'Antoine Lavoisier, chimiste français."
+    },
+    {
+      "annee": 1880,
+      "texte": "Naissance de Guillaume Apollinaire, poète et écrivain français."
+    },
+    {
+      "annee": 1910,
+      "texte": "Naissance de Mère Teresa, religieuse albano-indienne, sainte catholique, prix Nobel de la paix en 1979."
+    },
+    {
+      "annee": 1914,
+      "texte": "Naissance de Julio Cortázar, écrivain argentin."
+    },
+    {
+      "annee": 1977,
+      "texte": "L'Assemblée nationale du Québec adopte la Charte de la langue française."
+    },
+    {
+      "annee": 1789,
+      "texte": "Adoption de la Déclaration des droits de l'homme et du citoyen, à Versailles."
+    },
+    {
+      "annee": 1920,
+      "texte": "Adoption officielle du XIXe amendement de la Constitution américaine, qui garantit le droit de vote des femmes."
+    },
+    {
+      "annee": 1968,
+      "texte": "Les Beatles sortent « Hey Jude », alors le plus long single à atteindre la tête des ventes britanniques."
+    }
+  ]
+}

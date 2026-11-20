@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1898,
+      "texte": "Naissance d'Henry Moore, sculpteur britannique."
+    },
+    {
+      "annee": 1945,
+      "texte": "Naissance de Patrick Modiano, écrivain français, prix Nobel de littérature en 2014."
+    },
+    {
+      "annee": 1970,
+      "texte": "Naissance de Christopher Nolan, réalisateur, producteur et scénariste britannique."
+    },
+    {
+      "annee": 1940,
+      "texte": "Naissance de Clive Sinclair, entrepreneur et inventeur britannique, fondateur de Sinclair Research."
+    },
+    {
+      "annee": 1980,
+      "texte": "L'indépendance du Vanuatu met fin au condominium franco-britannique."
+    },
+    {
+      "annee": 1962,
+      "texte": "Inauguration de la route Transcanadienne, alors la plus longue route nationale du monde."
+    },
+    {
+      "annee": 2020,
+      "texte": "Lancement de la mission Mars 2020 de la NASA, depuis Cap Canaveral."
+    },
+    {
+      "annee": 1932,
+      "texte": "Première de « Flowers and Trees » de Walt Disney, premier dessin animé en Technicolor et premier à remporter un Oscar."
+    }
+  ]
+}

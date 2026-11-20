@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1899,
+      "texte": "Naissance d'Ernest Hemingway, écrivain et journaliste américain, prix Nobel de littérature."
+    },
+    {
+      "annee": 1911,
+      "texte": "Naissance de Marshall McLuhan, philosophe et sociologue canadien."
+    },
+    {
+      "annee": 1926,
+      "texte": "Naissance de Norman Jewison, réalisateur, scénariste et producteur canadien."
+    },
+    {
+      "annee": 1923,
+      "texte": "Naissance de Rudolph Marcus, chimiste américain d'origine québécoise, prix Nobel de chimie en 1992."
+    },
+    {
+      "annee": 1969,
+      "texte": "À 2 h 56 UTC, Neil Armstrong devient le premier homme à marcher sur la Lune, suivi de Buzz Aldrin."
+    },
+    {
+      "annee": 1831,
+      "texte": "À Bruxelles, Léopold Ier prête serment et devient le premier roi des Belges."
+    },
+    {
+      "annee": 1983,
+      "texte": "Record de froid sur Terre : −89,2 °C à la base antarctique Vostok."
+    },
+    {
+      "annee": 2007,
+      "texte": "Parution de « Harry Potter and the Deathly Hallows », dernier tome de la série, vendu à 15 millions d'exemplaires en 24 heures."
+    }
+  ]
+}

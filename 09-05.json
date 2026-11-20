@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1638,
+      "texte": "Naissance de Louis XIV, dit le Roi-Soleil, roi de France de 1643 à 1715."
+    },
+    {
+      "annee": 1774,
+      "texte": "Naissance de Caspar David Friedrich, peintre allemand."
+    },
+    {
+      "annee": 1946,
+      "texte": "Naissance de Freddie Mercury, auteur-compositeur-interprète britannique du groupe Queen."
+    },
+    {
+      "annee": 1912,
+      "texte": "Naissance de John Cage, compositeur américain."
+    },
+    {
+      "annee": 1960,
+      "texte": "Le poète Léopold Sédar Senghor est élu premier président du Sénégal."
+    },
+    {
+      "annee": 1905,
+      "texte": "Le traité de Portsmouth, négocié par Theodore Roosevelt, met fin à la guerre russo-japonaise."
+    },
+    {
+      "annee": 1977,
+      "texte": "La NASA lance la sonde Voyager 1, aujourd'hui l'engin spatial le plus éloigné de la Terre."
+    },
+    {
+      "annee": 1774,
+      "texte": "Le premier Congrès continental se réunit à Philadelphie."
+    }
+  ]
+}

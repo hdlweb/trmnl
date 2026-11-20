@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1819,
+      "texte": "Naissance de Léon Foucault, physicien et astronome français."
+    },
+    {
+      "annee": 1895,
+      "texte": "Naissance de John Diefenbaker, premier ministre du Canada de 1957 à 1963."
+    },
+    {
+      "annee": 1709,
+      "texte": "Naissance de Samuel Johnson, lexicographe et écrivain anglais."
+    },
+    {
+      "annee": 1752,
+      "texte": "Naissance d'Adrien-Marie Legendre, mathématicien français."
+    },
+    {
+      "annee": 1981,
+      "texte": "L'Assemblée nationale vote la loi sur l'abolition de la peine de mort en France."
+    },
+    {
+      "annee": 1851,
+      "texte": "Première publication du quotidien The New York Times."
+    },
+    {
+      "annee": 1837,
+      "texte": "Fondation à New York de Tiffany & Co., alors une boutique de papeterie et de fantaisies."
+    },
+    {
+      "annee": 1928,
+      "texte": "Juan de la Cierva réussit la première traversée de la Manche en autogire."
+    }
+  ]
+}

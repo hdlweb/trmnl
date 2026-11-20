@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1882,
+      "texte": "Naissance d'Edward Hopper, peintre américain."
+    },
+    {
+      "annee": 1898,
+      "texte": "Naissance d'Alexander Calder, sculpteur et peintre américain."
+    },
+    {
+      "annee": 1888,
+      "texte": "Naissance de Selman Waksman, microbiologiste américain, prix Nobel de médecine en 1952."
+    },
+    {
+      "annee": 1784,
+      "texte": "Naissance de Friedrich Wilhelm Bessel, mathématicien et astronome allemand."
+    },
+    {
+      "annee": 1894,
+      "texte": "Paris-Rouen, première compétition automobile de l'histoire."
+    },
+    {
+      "annee": 1997,
+      "texte": "Première parution du manga « One Piece » d'Eiichiro Oda, la série de mangas la plus vendue de l'histoire."
+    },
+    {
+      "annee": 1933,
+      "texte": "L'aviateur Wiley Post réalise le premier tour du monde en avion en solitaire, en 7 jours et 18 heures."
+    },
+    {
+      "annee": 2019,
+      "texte": "L'Inde lance Chandrayaan-2, sa deuxième mission d'exploration lunaire."
+    }
+  ]
+}

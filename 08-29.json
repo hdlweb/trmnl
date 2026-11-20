@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1632,
+      "texte": "Naissance de John Locke, philosophe anglais."
+    },
+    {
+      "annee": 1780,
+      "texte": "Naissance de Jean-Auguste-Dominique Ingres, peintre français."
+    },
+    {
+      "annee": 1862,
+      "texte": "Naissance de Maurice Maeterlinck, écrivain belge, prix Nobel de littérature en 1911."
+    },
+    {
+      "annee": 1959,
+      "texte": "Naissance de Chris Hadfield, astronaute canadien."
+    },
+    {
+      "annee": 1982,
+      "texte": "L'élément chimique 109, le meitnérium, est synthétisé pour la première fois à Darmstadt, en Allemagne."
+    },
+    {
+      "annee": 1885,
+      "texte": "Gottlieb Daimler fait breveter la Reitwagen, première motocyclette à moteur à combustion interne."
+    },
+    {
+      "annee": 1831,
+      "texte": "Michael Faraday démontre pour la première fois l'induction électromagnétique."
+    },
+    {
+      "annee": 1997,
+      "texte": "Lancement de Netflix, alors service de location de DVD par Internet."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1918,
+      "texte": "Naissance de Leonard Bernstein, pianiste, compositeur et chef d'orchestre américain."
+    },
+    {
+      "annee": 1958,
+      "texte": "Naissance de Tim Burton, cinéaste américain."
+    },
+    {
+      "annee": 1900,
+      "texte": "Naissance de Hans Adolf Krebs, médecin et biochimiste, prix Nobel de médecine en 1957."
+    },
+    {
+      "annee": 1944,
+      "texte": "Libération de Paris."
+    },
+    {
+      "annee": 2012,
+      "texte": "La sonde Voyager 1 devient le premier objet humain à entrer dans l'espace interstellaire."
+    },
+    {
+      "annee": 1991,
+      "texte": "Linus Torvalds annonce la première version de ce qui deviendra Linux."
+    },
+    {
+      "annee": 1609,
+      "texte": "Galilée présente son premier télescope aux dirigeants de Venise."
+    },
+    {
+      "annee": 1958,
+      "texte": "Momofuku Ando commercialise les premières nouilles instantanées, les Chikin Ramen."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1888,
+      "texte": "Naissance de T. S. Eliot, poète et dramaturge britannique, prix Nobel de littérature."
+    },
+    {
+      "annee": 1898,
+      "texte": "Naissance de George Gershwin, pianiste et compositeur américain."
+    },
+    {
+      "annee": 1791,
+      "texte": "Naissance de Théodore Géricault, peintre français."
+    },
+    {
+      "annee": 1907,
+      "texte": "La Nouvelle-Zélande devient un dominion, étape symbolique vers son indépendance."
+    },
+    {
+      "annee": 2008,
+      "texte": "Le Suisse Yves Rossy traverse la Manche avec une aile propulsée par des réacteurs."
+    },
+    {
+      "annee": 1960,
+      "texte": "À Chicago, premier débat télévisé entre deux candidats à la présidence, John F. Kennedy et Richard Nixon."
+    },
+    {
+      "annee": 1983,
+      "texte": "L'officier soviétique Stanislav Petrov identifie une fausse alerte d'attaque nucléaire et évite une riposte."
+    }
+  ]
+}

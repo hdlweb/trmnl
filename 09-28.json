@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1803,
+      "texte": "Naissance de Prosper Mérimée, écrivain et historien français."
+    },
+    {
+      "annee": 1841,
+      "texte": "Naissance de Georges Clemenceau, médecin, journaliste et homme politique français."
+    },
+    {
+      "annee": 1852,
+      "texte": "Naissance d'Henri Moissan, chimiste français, prix Nobel de chimie en 1906."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance de Seymour Cray, ingénieur américain, fondateur de Cray, pionnier des superordinateurs."
+    },
+    {
+      "annee": 1791,
+      "texte": "Promulgation en France de la loi sur l'émancipation des Juifs."
+    },
+    {
+      "annee": 1972,
+      "texte": "En pleine guerre froide, l'équipe canadienne de hockey bat l'équipe soviétique lors de la Série du siècle."
+    },
+    {
+      "annee": 1924,
+      "texte": "Des aviateurs de l'armée américaine se posent à Seattle : premier tour du monde aérien."
+    },
+    {
+      "annee": 2008,
+      "texte": "Falcon 1 devient la première fusée à carburant liquide développée par le privé à placer une charge en orbite."
+    }
+  ]
+}

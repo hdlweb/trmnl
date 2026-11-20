@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1868,
+      "texte": "Naissance de Henrietta Swan Leavitt, astronome américaine."
+    },
+    {
+      "annee": 1938,
+      "texte": "Naissance de Bill Withers, auteur-compositeur-interprète américain."
+    },
+    {
+      "annee": 2012,
+      "texte": "Le CERN annonce la découverte du boson de Higgs."
+    },
+    {
+      "annee": 1776,
+      "texte": "Le Congrès continental des Treize Colonies approuve la Déclaration d'indépendance des États-Unis."
+    },
+    {
+      "annee": 1634,
+      "texte": "Fondation de Trois-Rivières, en Nouvelle-France, par Laviolette."
+    },
+    {
+      "annee": 1617,
+      "texte": "Arrivée en Nouvelle-France de Louis Hébert et Marie Rollet, premiers colons français à s'établir au Canada."
+    },
+    {
+      "annee": 1997,
+      "texte": "La sonde Pathfinder de la NASA se pose sur Mars."
+    },
+    {
+      "annee": 1855,
+      "texte": "Première édition du recueil de poèmes « Leaves of Grass » de Walt Whitman, à Brooklyn."
+    }
+  ]
+}

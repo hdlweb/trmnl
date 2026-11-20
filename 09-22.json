@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1791,
+      "texte": "Naissance de Michael Faraday, physicien et chimiste britannique."
+    },
+    {
+      "annee": 1907,
+      "texte": "Naissance de Maurice Blanchot, écrivain et philosophe français."
+    },
+    {
+      "annee": 1885,
+      "texte": "Naissance d'Erich von Stroheim, acteur et cinéaste américain."
+    },
+    {
+      "annee": 1601,
+      "texte": "Naissance d'Anne d'Autriche, reine de France et régente."
+    },
+    {
+      "annee": 1968,
+      "texte": "Fin des travaux de déplacement des temples d'Abou Simbel, en Égypte."
+    },
+    {
+      "annee": 1792,
+      "texte": "Début de la Première République française, premier jour du calendrier républicain."
+    },
+    {
+      "annee": 2018,
+      "texte": "Deux micro-robots japonais, MINERVA-II-1 et 2, se posent sur Ryugu : premiers rovers sur un astéroïde."
+    },
+    {
+      "annee": 1869,
+      "texte": "Création à Munich de « Das Rheingold », premier des quatre opéras de l'Anneau du Nibelung de Wagner."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1770,
+      "texte": "Naissance de Georg Wilhelm Friedrich Hegel, philosophe allemand."
+    },
+    {
+      "annee": 1890,
+      "texte": "Naissance de Man Ray, photographe et peintre américain."
+    },
+    {
+      "annee": 1858,
+      "texte": "Naissance de Giuseppe Peano, mathématicien italien."
+    },
+    {
+      "annee": 1928,
+      "texte": "Signature du pacte Briand-Kellogg, par lequel les pays signataires renoncent à la guerre."
+    },
+    {
+      "annee": 1664,
+      "texte": "Colbert fonde la Compagnie française des Indes orientales."
+    },
+    {
+      "annee": 1955,
+      "texte": "Parution de la première édition du Livre Guinness des records."
+    },
+    {
+      "annee": 1859,
+      "texte": "À Titusville, en Pennsylvanie, Edwin Drake fore le premier puits de pétrole, qui lance la ruée vers l'or noir."
+    },
+    {
+      "annee": 1927,
+      "texte": "Cinq Canadiennes demandent à la Cour suprême si le mot « personnes » de la Constitution inclut les femmes."
+    }
+  ]
+}

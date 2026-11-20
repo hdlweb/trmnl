@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1897,
+      "texte": "Naissance d'Enid Blyton, romancière britannique."
+    },
+    {
+      "annee": 1921,
+      "texte": "Naissance d'Alex Haley, historien et écrivain américain."
+    },
+    {
+      "annee": 1922,
+      "texte": "Naissance de Mavis Gallant, écrivaine québécoise."
+    },
+    {
+      "annee": 1960,
+      "texte": "Le Tchad, ancienne colonie de l'Afrique-Équatoriale française, devient indépendant."
+    },
+    {
+      "annee": 1792,
+      "texte": "Instauration du suffrage universel masculin en France."
+    },
+    {
+      "annee": 1999,
+      "texte": "Éclipse totale de Soleil en Europe et en Asie, une des plus observées de l'histoire."
+    },
+    {
+      "annee": 1973,
+      "texte": "Dans le Bronx, une fête animée par DJ Kool Herc est considérée comme la naissance du hip-hop."
+    },
+    {
+      "annee": 1942,
+      "texte": "L'actrice Hedy Lamarr et le compositeur George Antheil font breveter un système de transmission à saut de fréquence."
+    }
+  ]
+}

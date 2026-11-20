@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1547,
+      "texte": "Naissance de Miguel de Cervantes, écrivain espagnol."
+    },
+    {
+      "annee": 1901,
+      "texte": "Naissance d'Enrico Fermi, physicien italien, prix Nobel de physique en 1938."
+    },
+    {
+      "annee": 1899,
+      "texte": "Naissance de László Biró, inventeur du stylo à bille."
+    },
+    {
+      "annee": 1943,
+      "texte": "Naissance de Lech Wałęsa, syndicaliste polonais, prix Nobel de la paix, président de la Pologne."
+    },
+    {
+      "annee": 1959,
+      "texte": "Naissance de Jon Fosse, écrivain et dramaturge norvégien."
+    },
+    {
+      "annee": 1954,
+      "texte": "Création du CERN, l'Organisation européenne pour la recherche nucléaire."
+    },
+    {
+      "annee": 1555,
+      "texte": "La paix d'Augsbourg entre États luthériens et catholiques met une pause aux conflits religieux dans l'Empire."
+    },
+    {
+      "annee": 1964,
+      "texte": "Première parution de Mafalda, l'héroïne de bande dessinée de Quino, en Argentine."
+    }
+  ]
+}

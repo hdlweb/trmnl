@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1916,
+      "texte": "Naissance de Roald Dahl, romancier, poète et scénariste britannique."
+    },
+    {
+      "annee": 1874,
+      "texte": "Naissance d'Arnold Schönberg, compositeur autrichien."
+    },
+    {
+      "annee": 1924,
+      "texte": "Naissance de Maurice Jarre, compositeur français."
+    },
+    {
+      "annee": 1941,
+      "texte": "Naissance d'Óscar Arias, président du Costa Rica, prix Nobel de la paix en 1987."
+    },
+    {
+      "annee": 1993,
+      "texte": "Signature des accords d'Oslo à Washington, une avancée dans le processus de paix israélo-palestinien."
+    },
+    {
+      "annee": 1985,
+      "texte": "Sortie au Japon de Super Mario Bros., un des jeux vidéo les plus influents de l'histoire."
+    },
+    {
+      "annee": 1956,
+      "texte": "IBM présente le 305 RAMAC, premier ordinateur commercial à disque dur."
+    },
+    {
+      "annee": 1994,
+      "texte": "À Toulouse, premier vol du Beluga d'Airbus, l'avion-cargo le plus volumineux au monde."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1887,
+      "texte": "Naissance de Blaise Cendrars, romancier et poète helvético-français."
+    },
+    {
+      "annee": 1940,
+      "texte": "Naissance d'Annie Ernaux, écrivaine française, prix Nobel de littérature en 2022."
+    },
+    {
+      "annee": 1875,
+      "texte": "Naissance d'Edgar Rice Burroughs, romancier américain."
+    },
+    {
+      "annee": 1864,
+      "texte": "Ouverture de la conférence de Charlottetown, qui mènera à l'union des colonies britanniques en une seule nation."
+    },
+    {
+      "annee": 1905,
+      "texte": "La Saskatchewan et l'Alberta deviennent les huitième et neuvième provinces canadiennes."
+    },
+    {
+      "annee": 1902,
+      "texte": "Sortie du « Voyage dans la Lune » de Georges Méliès, premier film de science-fiction."
+    },
+    {
+      "annee": 1952,
+      "texte": "Première publication de « The Old Man and the Sea » d'Ernest Hemingway, qui recevra le prix Pulitzer."
+    },
+    {
+      "annee": 1878,
+      "texte": "Emma Nutt devient la première téléphoniste au monde, recrutée par Alexander Graham Bell à Boston."
+    }
+  ]
+}

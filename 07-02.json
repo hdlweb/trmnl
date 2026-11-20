@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1877,
+      "texte": "Naissance de Hermann Hesse, écrivain suisse, prix Nobel de littérature en 1946."
+    },
+    {
+      "annee": 1923,
+      "texte": "Naissance de Wisława Szymborska, poétesse polonaise, prix Nobel de littérature en 1996."
+    },
+    {
+      "annee": 1821,
+      "texte": "Naissance de Charles Tupper, médecin et homme politique, 6e premier ministre du Canada."
+    },
+    {
+      "annee": 1876,
+      "texte": "Naissance de Harriet Brooks, physicienne nucléaire canadienne."
+    },
+    {
+      "annee": 1964,
+      "texte": "Le président Lyndon B. Johnson signe le Civil Rights Act, qui interdit la ségrégation dans les lieux publics."
+    },
+    {
+      "annee": 1900,
+      "texte": "L'Orchestre philharmonique d'Helsinki joue pour la première fois en public « Finlandia » de Jean Sibelius."
+    },
+    {
+      "annee": 1698,
+      "texte": "L'ingénieur Thomas Savery dépose le brevet de sa machine à vapeur pour pomper l'eau des mines de charbon."
+    },
+    {
+      "annee": 1985,
+      "texte": "Lancement de la sonde européenne Giotto vers la comète de Halley."
+    }
+  ]
+}

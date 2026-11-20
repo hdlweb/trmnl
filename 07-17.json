@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1894,
+      "texte": "Naissance de Georges Lemaître, prêtre, astronome et physicien belge."
+    },
+    {
+      "annee": 1899,
+      "texte": "Naissance de James Cagney, acteur et danseur américain."
+    },
+    {
+      "annee": 1954,
+      "texte": "Naissance d'Angela Merkel, chimiste et femme politique, chancelière d'Allemagne de 2005 à 2021."
+    },
+    {
+      "annee": 1975,
+      "texte": "Naissance de Terence Tao, mathématicien australien et américain."
+    },
+    {
+      "annee": 1955,
+      "texte": "Ouverture de Disneyland, à Anaheim, en Californie."
+    },
+    {
+      "annee": 1998,
+      "texte": "Adoption du Statut de Rome, qui crée la Cour pénale internationale."
+    },
+    {
+      "annee": 1975,
+      "texte": "Premier rendez-vous orbital américano-soviétique : les capsules Soyouz 19 et Apollo s'arriment."
+    },
+    {
+      "annee": 1976,
+      "texte": "Élisabeth II proclame à Montréal l'ouverture des Jeux de la XXIe Olympiade."
+    }
+  ]
+}

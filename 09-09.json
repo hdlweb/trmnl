@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1737,
+      "texte": "Naissance de Luigi Galvani, médecin et physicien italien."
+    },
+    {
+      "annee": 1908,
+      "texte": "Naissance de Cesare Pavese, écrivain italien."
+    },
+    {
+      "annee": 1941,
+      "texte": "Naissance de Dennis Ritchie, informaticien américain, créateur du langage C."
+    },
+    {
+      "annee": 1668,
+      "texte": "Molière crée « L'Avare » au théâtre du Palais-Royal."
+    },
+    {
+      "annee": 1886,
+      "texte": "Signature de la convention de Berne pour la protection des œuvres littéraires et artistiques."
+    },
+    {
+      "annee": 1892,
+      "texte": "Edward Emerson Barnard découvre Amalthée, lune de Jupiter, la dernière trouvée par observation à l'œil."
+    },
+    {
+      "annee": 1971,
+      "texte": "Sortie d'« Imagine », le deuxième album solo de John Lennon."
+    },
+    {
+      "annee": 1969,
+      "texte": "Entrée en vigueur de la Loi sur les langues officielles : le français devient l'égal de l'anglais au gouvernement fédéral."
+    }
+  ]
+}

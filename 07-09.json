@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1933,
+      "texte": "Naissance d'Oliver Sacks, neurologue et écrivain britannique."
+    },
+    {
+      "annee": 1937,
+      "texte": "Naissance de David Hockney, peintre, décorateur et photographe britannique."
+    },
+    {
+      "annee": 1956,
+      "texte": "Naissance de Tom Hanks, acteur, réalisateur et producteur américain."
+    },
+    {
+      "annee": 1819,
+      "texte": "Naissance d'Elias Howe, inventeur américain, pionnier de la machine à coudre."
+    },
+    {
+      "annee": 1993,
+      "texte": "Le Parlement du Canada adopte la Loi sur le Nunavut, qui mènera à la création du territoire en 1999."
+    },
+    {
+      "annee": 1793,
+      "texte": "La loi contre l'esclavage du Haut-Canada interdit l'importation d'esclaves."
+    },
+    {
+      "annee": 1979,
+      "texte": "La sonde spatiale Voyager 2 survole Jupiter."
+    },
+    {
+      "annee": 1981,
+      "texte": "Nintendo lance le jeu d'arcade Donkey Kong, où apparaît pour la première fois Mario."
+    }
+  ]
+}

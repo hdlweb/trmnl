@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1862,
+      "texte": "Naissance de Gustav Klimt, peintre et illustrateur autrichien."
+    },
+    {
+      "annee": 1918,
+      "texte": "Naissance d'Ingmar Bergman, metteur en scène et réalisateur suédois."
+    },
+    {
+      "annee": 1933,
+      "texte": "Naissance de Robert Bourassa, économiste et homme politique, premier ministre du Québec."
+    },
+    {
+      "annee": 1789,
+      "texte": "Prise de la Bastille, à Paris : un des moments clés de la Révolution française."
+    },
+    {
+      "annee": 1789,
+      "texte": "Alexander Mackenzie achève l'exploration d'un grand fleuve qu'il croit être le passage du Nord-Ouest : le fleuve Mackenzie."
+    },
+    {
+      "annee": 1795,
+      "texte": "La Convention adopte une première fois « La Marseillaise » comme hymne national français."
+    },
+    {
+      "annee": 1865,
+      "texte": "Edward Whymper et son équipe réussissent la première ascension du Cervin."
+    },
+    {
+      "annee": 2015,
+      "texte": "La sonde New Horizons de la NASA réalise le premier survol de Pluton."
+    }
+  ]
+}

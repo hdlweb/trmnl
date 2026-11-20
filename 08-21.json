@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1789,
+      "texte": "Naissance d'Augustin Louis Cauchy, mathématicien français."
+    },
+    {
+      "annee": 1725,
+      "texte": "Naissance de Jean-Baptiste Greuze, peintre et dessinateur français."
+    },
+    {
+      "annee": 1938,
+      "texte": "Naissance de Kenny Rogers, chanteur, compositeur et acteur américain."
+    },
+    {
+      "annee": 1961,
+      "texte": "Naissance de Stephen Hillenburg, dessinateur américain, créateur de « SpongeBob SquarePants »."
+    },
+    {
+      "annee": 1959,
+      "texte": "Hawaï devient le 50e État des États-Unis."
+    },
+    {
+      "annee": 1911,
+      "texte": "La Joconde est volée au Louvre par Vincenzo Peruggia, un ouvrier italien."
+    },
+    {
+      "annee": 1858,
+      "texte": "Premier des débats entre Abraham Lincoln et Stephen A. Douglas, à Ottawa, dans l'Illinois."
+    },
+    {
+      "annee": 1888,
+      "texte": "William Seward Burroughs fait breveter la première machine à additionner réussie des États-Unis."
+    }
+  ]
+}

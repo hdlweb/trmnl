@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1524,
+      "texte": "Naissance de Pierre de Ronsard, poète français."
+    },
+    {
+      "annee": 1816,
+      "texte": "Naissance de Carl Zeiss, opticien allemand."
+    },
+    {
+      "annee": 1885,
+      "texte": "Naissance de D. H. Lawrence, poète et romancier britannique."
+    },
+    {
+      "annee": 1935,
+      "texte": "Naissance d'Arvo Pärt, compositeur estonien."
+    },
+    {
+      "annee": 1984,
+      "texte": "Au Stade olympique de Montréal, Céline Dion, 16 ans, chante pour la paix lors d'une messe du pape Jean-Paul II."
+    },
+    {
+      "annee": 1893,
+      "texte": "À Chicago, Swami Vivekananda présente l'hindouisme au premier Parlement des religions du monde."
+    },
+    {
+      "annee": 1789,
+      "texte": "Alexander Hamilton devient le premier secrétaire au Trésor des États-Unis."
+    },
+    {
+      "annee": 2019,
+      "texte": "Annonce de la découverte de la comète 2I/Borissov, deuxième objet interstellaire connu."
+    }
+  ]
+}

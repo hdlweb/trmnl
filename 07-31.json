@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1919,
+      "texte": "Naissance de Primo Levi, chimiste et écrivain italien."
+    },
+    {
+      "annee": 1965,
+      "texte": "Naissance de J. K. Rowling, écrivaine britannique. Son personnage Harry Potter est aussi né un 31 juillet."
+    },
+    {
+      "annee": 1928,
+      "texte": "Naissance de Gilles Carle, réalisateur et scénariste canadien."
+    },
+    {
+      "annee": 1912,
+      "texte": "Naissance de Milton Friedman, économiste américain, prix Nobel d'économie en 1976."
+    },
+    {
+      "annee": 1991,
+      "texte": "Signature à Moscou du traité START, qui prévoit une réduction de 30 % des armes nucléaires stratégiques."
+    },
+    {
+      "annee": 1954,
+      "texte": "Une équipe italienne atteint pour la première fois le sommet du K2, la deuxième plus haute montagne du monde."
+    },
+    {
+      "annee": 1971,
+      "texte": "Les astronautes d'Apollo 15 sont les premiers à rouler sur la Lune à bord d'un rover lunaire."
+    },
+    {
+      "annee": 1790,
+      "texte": "Délivrance du premier brevet américain, à Samuel Hopkins, pour un procédé de fabrication de potasse."
+    }
+  ]
+}

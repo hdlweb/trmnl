@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1744,
+      "texte": "Naissance de Jean-Baptiste de Lamarck, naturaliste français."
+    },
+    {
+      "annee": 1916,
+      "texte": "Naissance d'Anne Hébert, écrivaine, poétesse, dramaturge et scénariste québécoise."
+    },
+    {
+      "annee": 1818,
+      "texte": "Naissance de Maria Mitchell, astronome américaine."
+    },
+    {
+      "annee": 1965,
+      "texte": "Naissance de Sam Mendes, réalisateur britannique."
+    },
+    {
+      "annee": 1975,
+      "texte": "Signature à Helsinki des accords sur la sécurité et la coopération en Europe, qui favorisent la détente."
+    },
+    {
+      "annee": 1774,
+      "texte": "Le scientifique britannique Joseph Priestley isole l'oxygène."
+    },
+    {
+      "annee": 1911,
+      "texte": "Harriet Quimby devient la première femme à obtenir un brevet de pilote de l'Aero Club of America."
+    },
+    {
+      "annee": 1892,
+      "texte": "Jef Denyn donne le premier concert de carillon au monde, à Malines, en Belgique."
+    }
+  ]
+}

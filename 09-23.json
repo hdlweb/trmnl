@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1865,
+      "texte": "Naissance de Suzanne Valadon, modèle et peintre française."
+    },
+    {
+      "annee": 1937,
+      "texte": "Naissance de Jacques Poulin, écrivain et traducteur canadien."
+    },
+    {
+      "annee": 1949,
+      "texte": "Naissance de Bruce Springsteen, chanteur, compositeur et guitariste américain."
+    },
+    {
+      "annee": 1926,
+      "texte": "Naissance de John Coltrane, saxophoniste de jazz américain."
+    },
+    {
+      "annee": 1913,
+      "texte": "L'aviateur Roland Garros réussit la première traversée aérienne sans escale de la Méditerranée."
+    },
+    {
+      "annee": 1905,
+      "texte": "Par le traité de Karlstad, la Norvège et la Suède dissolvent pacifiquement leur union."
+    },
+    {
+      "annee": 1846,
+      "texte": "Johann Galle confirme l'existence de Neptune, prédite par Le Verrier et Adams."
+    },
+    {
+      "annee": 2002,
+      "texte": "Sortie de la première version du navigateur Web Mozilla Firefox."
+    }
+  ]
+}

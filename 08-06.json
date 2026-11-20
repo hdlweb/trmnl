@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1881,
+      "texte": "Naissance d'Alexander Fleming, codécouvreur de la pénicilline, prix Nobel de médecine en 1945."
+    },
+    {
+      "annee": 1868,
+      "texte": "Naissance de Paul Claudel, dramaturge, poète et académicien français."
+    },
+    {
+      "annee": 1809,
+      "texte": "Naissance d'Alfred Tennyson, poète britannique."
+    },
+    {
+      "annee": 2012,
+      "texte": "Le rover Curiosity se pose dans le cratère Gale, sur Mars."
+    },
+    {
+      "annee": 1908,
+      "texte": "Découverte de la Vénus de Willendorf, en Autriche."
+    },
+    {
+      "annee": 2014,
+      "texte": "La sonde européenne Rosetta atteint la comète Tchourioumov-Guérassimenko."
+    },
+    {
+      "annee": 1647,
+      "texte": "Arrivée à Québec de Pierre Tremblay, ancêtre des Tremblay d'Amérique."
+    }
+  ]
+}

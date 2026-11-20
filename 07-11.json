@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1899,
+      "texte": "Naissance d'E. B. White, essayiste et écrivain américain."
+    },
+    {
+      "annee": 1767,
+      "texte": "Naissance de John Quincy Adams, 6e président des États-Unis."
+    },
+    {
+      "annee": 1927,
+      "texte": "Naissance de Theodore Maiman, physicien américano-canadien."
+    },
+    {
+      "annee": 2021,
+      "texte": "Virgin Galactic envoie son fondateur, Richard Branson, dans l'espace."
+    },
+    {
+      "annee": 1972,
+      "texte": "Début du championnat du monde d'échecs entre Bobby Fischer et Boris Spassky."
+    },
+    {
+      "annee": 1893,
+      "texte": "Kōkichi Mikimoto obtient la première perle de culture."
+    },
+    {
+      "annee": 1616,
+      "texte": "Samuel de Champlain revient à Québec."
+    },
+    {
+      "annee": 1801,
+      "texte": "L'astronome Jean-Louis Pons découvre sa première comète. Il en découvrira 37, plus que quiconque."
+    }
+  ]
+}

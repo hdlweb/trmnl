@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1924,
+      "texte": "Naissance de Truman Capote, écrivain américain."
+    },
+    {
+      "annee": 1928,
+      "texte": "Naissance d'Elie Wiesel, écrivain américain d'origine roumaine, prix Nobel de la paix en 1986."
+    },
+    {
+      "annee": 1944,
+      "texte": "Naissance de Diane Dufresne, chanteuse, comédienne et peintre québécoise."
+    },
+    {
+      "annee": 1882,
+      "texte": "Naissance de Hans Geiger, physicien allemand."
+    },
+    {
+      "annee": 1791,
+      "texte": "Première représentation de « La Flûte enchantée » de Mozart, à Vienne."
+    },
+    {
+      "annee": 2016,
+      "texte": "Fin de mission pour la sonde Rosetta, qui se pose sur la comète Tchouri."
+    },
+    {
+      "annee": 1882,
+      "texte": "Mise en service de la Vulcan Street Plant, première centrale hydroélectrique commerciale d'Edison, au Wisconsin."
+    },
+    {
+      "annee": 1960,
+      "texte": "Première diffusion des « Flintstones », la première comédie animée en heure de grande écoute."
+    }
+  ]
+}

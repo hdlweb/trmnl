@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1850,
+      "texte": "Naissance de Guy de Maupassant, écrivain français."
+    },
+    {
+      "annee": 1802,
+      "texte": "Naissance de Niels Henrik Abel, mathématicien norvégien."
+    },
+    {
+      "annee": 1930,
+      "texte": "Naissance de Neil Armstrong, astronaute américain, premier homme à marcher sur la Lune."
+    },
+    {
+      "annee": 1877,
+      "texte": "Naissance de Tom Thomson, peintre canadien."
+    },
+    {
+      "annee": 1914,
+      "texte": "Installation à Cleveland du premier feu de circulation électrique."
+    },
+    {
+      "annee": 1884,
+      "texte": "Pose de la première pierre de la statue de la Liberté, à l'entrée du port de New York."
+    },
+    {
+      "annee": 1888,
+      "texte": "Bertha Benz fait le premier long trajet en automobile, de Mannheim à Pforzheim."
+    },
+    {
+      "annee": 1993,
+      "texte": "Sortie de « Magic: The Gathering », le premier jeu de cartes à collectionner."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1914,
+      "texte": "Naissance de Félix Leclerc, poète, chanteur et auteur-compositeur québécois."
+    },
+    {
+      "annee": 1834,
+      "texte": "Naissance d'Auguste Bartholdi, sculpteur français, concepteur de la statue de la Liberté."
+    },
+    {
+      "annee": 1942,
+      "texte": "Naissance d'Isabel Allende, écrivaine chilienne."
+    },
+    {
+      "annee": 1923,
+      "texte": "Naissance de Shimon Peres, homme politique, président de l'État d'Israël de 2007 à 2014."
+    },
+    {
+      "annee": 1932,
+      "texte": "Le physicien américain Carl David Anderson découvre le positon, la première antiparticule."
+    },
+    {
+      "annee": 1986,
+      "texte": "Sortie de « Castle in the Sky », premier film du studio Ghibli."
+    },
+    {
+      "annee": 1873,
+      "texte": "Mise en service du premier tramway à câble de San Francisco, sur Clay Street."
+    },
+    {
+      "annee": 1790,
+      "texte": "Fin du premier recensement des États-Unis : 3 929 214 habitants."
+    }
+  ]
+}

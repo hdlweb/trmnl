@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1918,
+      "texte": "Naissance de Nelson Mandela, avocat et homme politique sud-africain, prix Nobel de la paix."
+    },
+    {
+      "annee": 1853,
+      "texte": "Naissance de Hendrik Lorentz, physicien néerlandais, prix Nobel de physique en 1902."
+    },
+    {
+      "annee": 1921,
+      "texte": "Naissance de John Glenn, astronaute et homme politique américain."
+    },
+    {
+      "annee": 1926,
+      "texte": "Naissance de Margaret Laurence, écrivaine canadienne."
+    },
+    {
+      "annee": 1922,
+      "texte": "Naissance de Thomas Kuhn, philosophe et historien des sciences américain."
+    },
+    {
+      "annee": 1976,
+      "texte": "Aux Jeux olympiques de Montréal, Nadia Comăneci obtient la première note parfaite de 10 en gymnastique."
+    },
+    {
+      "annee": 1992,
+      "texte": "Une photo du groupe Les Horribles Cernettes devient la première photo publiée sur le Web."
+    },
+    {
+      "annee": 1812,
+      "texte": "Les traités d'Örebro mettent fin aux guerres anglo-russe et anglo-suédoise."
+    }
+  ]
+}

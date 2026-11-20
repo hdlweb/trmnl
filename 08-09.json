@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1776,
+      "texte": "Naissance d'Amedeo Avogadro, chimiste et physicien italien."
+    },
+    {
+      "annee": 1899,
+      "texte": "Naissance de P. L. Travers, romancière australienne."
+    },
+    {
+      "annee": 1914,
+      "texte": "Naissance de Tove Jansson, écrivaine, peintre et illustratrice finlandaise."
+    },
+    {
+      "annee": 1930,
+      "texte": "Naissance de Jacques Parizeau, économiste et homme politique, premier ministre du Québec de 1994 à 1996."
+    },
+    {
+      "annee": 1842,
+      "texte": "Le traité Webster-Ashburton règle la frontière entre le Maine et le Nouveau-Brunswick."
+    },
+    {
+      "annee": 1934,
+      "texte": "Début de la publication du « Lotus bleu », cinquième album des aventures de Tintin, d'Hergé."
+    },
+    {
+      "annee": 1956,
+      "texte": "Environ 20 000 femmes marchent sur Pretoria contre l'application des laissez-passer aux femmes noires."
+    },
+    {
+      "annee": 1974,
+      "texte": "Richard Nixon devient le premier président des États-Unis à démissionner, à la suite du scandale du Watergate."
+    }
+  ]
+}

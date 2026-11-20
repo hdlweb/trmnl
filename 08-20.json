@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1890,
+      "texte": "Naissance de H. P. Lovecraft, écrivain américain."
+    },
+    {
+      "annee": 1910,
+      "texte": "Naissance d'Eero Saarinen, architecte et designer américain, concepteur de la Gateway Arch."
+    },
+    {
+      "annee": 1942,
+      "texte": "Naissance d'Isaac Hayes, chanteur, compositeur et producteur américain."
+    },
+    {
+      "annee": 1977,
+      "texte": "La NASA lance la sonde Voyager 2."
+    },
+    {
+      "annee": 1975,
+      "texte": "La NASA lance la sonde Viking 1 vers Mars."
+    },
+    {
+      "annee": 1998,
+      "texte": "La Cour suprême du Canada rend son avis dans le Renvoi relatif à la sécession du Québec."
+    },
+    {
+      "annee": 1920,
+      "texte": "La première station de radio commerciale, 8MK, commence à émettre à Détroit."
+    },
+    {
+      "annee": 2018,
+      "texte": "La NASA confirme la présence de glace d'eau sur la Lune."
+    }
+  ]
+}

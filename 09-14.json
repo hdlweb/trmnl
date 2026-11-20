@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1769,
+      "texte": "Naissance d'Alexander von Humboldt, naturaliste et explorateur allemand."
+    },
+    {
+      "annee": 1937,
+      "texte": "Naissance de Renzo Piano, architecte italien."
+    },
+    {
+      "annee": 1926,
+      "texte": "Naissance de Michel Butor, écrivain français."
+    },
+    {
+      "annee": 2015,
+      "texte": "Les projets LIGO et Virgo observent pour la première fois des ondes gravitationnelles."
+    },
+    {
+      "annee": 1960,
+      "texte": "Naissance de l'OPEP."
+    },
+    {
+      "annee": 1752,
+      "texte": "L'Empire britannique adopte le calendrier grégorien : le lendemain du 2 septembre est le 14."
+    },
+    {
+      "annee": 1901,
+      "texte": "À 42 ans, Theodore Roosevelt devient le plus jeune président des États-Unis."
+    },
+    {
+      "annee": 1984,
+      "texte": "Joe Kittinger est le premier à traverser seul l'Atlantique en ballon à gaz."
+    }
+  ]
+}

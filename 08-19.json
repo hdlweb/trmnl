@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1848,
+      "texte": "Naissance de Gustave Caillebotte, peintre français."
+    },
+    {
+      "annee": 1924,
+      "texte": "Naissance de Willard Boyle, physicien canadien, lauréat du prix Nobel."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance de Claude Gauvreau, poète et dramaturge québécois."
+    },
+    {
+      "annee": 1930,
+      "texte": "Naissance de Frank McCourt, enseignant et écrivain américain."
+    },
+    {
+      "annee": 1919,
+      "texte": "Par le traité de Rawalpindi, l'Afghanistan obtient son indépendance du Royaume-Uni."
+    },
+    {
+      "annee": 1960,
+      "texte": "Lancement de Spoutnik 5 : les chiennes Belka et Strelka sont les premiers animaux mis en orbite et ramenés vivants."
+    },
+    {
+      "annee": 1964,
+      "texte": "Lancement de Syncom 3, premier satellite de communication géostationnaire."
+    },
+    {
+      "annee": 1897,
+      "texte": "Le Bersey Electric Cab devient le premier taxi électrique de Londres."
+    }
+  ]
+}

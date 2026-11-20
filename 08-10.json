@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1889,
+      "texte": "Naissance de Charles Darrow, inventeur américain du jeu Monopoly."
+    },
+    {
+      "annee": 1912,
+      "texte": "Naissance de Jorge Amado, écrivain brésilien."
+    },
+    {
+      "annee": 1962,
+      "texte": "Naissance de Suzanne Collins, écrivaine américaine."
+    },
+    {
+      "annee": 1874,
+      "texte": "Naissance de Herbert Hoover, ingénieur et homme politique, 31e président des États-Unis."
+    },
+    {
+      "annee": 1793,
+      "texte": "Inauguration du musée du Louvre, à Paris, avec une exposition de 537 tableaux."
+    },
+    {
+      "annee": 1844,
+      "texte": "L'astronome Friedrich Wilhelm Bessel déduit que Sirius, l'étoile la plus brillante du ciel, a un compagnon invisible."
+    },
+    {
+      "annee": 1990,
+      "texte": "La sonde Magellan atteint Vénus."
+    }
+  ]
+}

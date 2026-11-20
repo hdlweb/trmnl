@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1802,
+      "texte": "Naissance d'Alexandre Dumas père, écrivain français."
+    },
+    {
+      "annee": 1860,
+      "texte": "Naissance d'Alfons Mucha, peintre et illustrateur tchèque de l'Art nouveau."
+    },
+    {
+      "annee": 1899,
+      "texte": "Naissance du chef Dan George, acteur amérindien né au Canada."
+    },
+    {
+      "annee": 1922,
+      "texte": "Naissance de Madeleine Ferron, écrivaine québécoise."
+    },
+    {
+      "annee": 1967,
+      "texte": "Du balcon de l'hôtel de ville de Montréal, Charles de Gaulle lance « Vive le Québec libre ! »."
+    },
+    {
+      "annee": 1534,
+      "texte": "À Gaspé, Jacques Cartier plante une croix et prend possession du territoire au nom du roi de France."
+    },
+    {
+      "annee": 1911,
+      "texte": "Hiram Bingham redécouvre le Machu Picchu, la « cité perdue des Incas »."
+    },
+    {
+      "annee": 1929,
+      "texte": "Entrée en vigueur du pacte Briand-Kellogg, qui renonce à la guerre comme instrument de politique étrangère."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1811,
+      "texte": "Naissance d'Elisha Otis, inventeur de l'ascenseur."
+    },
+    {
+      "annee": 1920,
+      "texte": "Naissance de P. D. James, romancière britannique."
+    },
+    {
+      "annee": 1903,
+      "texte": "Naissance d'Habib Bourguiba, premier président de la République tunisienne."
+    },
+    {
+      "annee": 1529,
+      "texte": "La paix des Dames, signée à Cambrai par Louise de Savoie et Marguerite d'Autriche, met fin à la septième guerre d'Italie."
+    },
+    {
+      "annee": 1960,
+      "texte": "Le Niger devient indépendant de la France."
+    },
+    {
+      "annee": 1936,
+      "texte": "Jesse Owens remporte la première de ses quatre médailles d'or aux Jeux de Berlin."
+    },
+    {
+      "annee": 1958,
+      "texte": "Le sous-marin nucléaire USS Nautilus devient le premier navire à passer sous le pôle Nord."
+    },
+    {
+      "annee": 1977,
+      "texte": "Tandy annonce le TRS-80, un des premiers ordinateurs personnels produits en série."
+    }
+  ]
+}

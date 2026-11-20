@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1938,
+      "texte": "Naissance de Paul Martin, avocat et homme politique, premier ministre du Canada de 2003 à 2006."
+    },
+    {
+      "annee": 1841,
+      "texte": "Naissance de Louis Le Prince, inventeur français, pionnier du cinéma."
+    },
+    {
+      "annee": 1833,
+      "texte": "Naissance d'Edward Burne-Jones, peintre britannique préraphaélite."
+    },
+    {
+      "annee": 1963,
+      "texte": "Lors de la marche sur Washington, Martin Luther King prononce son discours « I Have a Dream »."
+    },
+    {
+      "annee": 1913,
+      "texte": "Inauguration du palais de la Paix, à La Haye."
+    },
+    {
+      "annee": 1789,
+      "texte": "William Herschel découvre Encelade, une lune de Saturne."
+    },
+    {
+      "annee": 1993,
+      "texte": "La sonde Galileo survole l'astéroïde Ida, dont on découvrira la lune Dactyl, première lune d'astéroïde connue."
+    },
+    {
+      "annee": 1845,
+      "texte": "Parution du premier numéro du magazine Scientific American."
+    }
+  ]
+}

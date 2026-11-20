@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1953,
+      "texte": "Naissance de Herta Müller, romancière allemande d'origine roumaine, prix Nobel de littérature en 2009."
+    },
+    {
+      "annee": 1953,
+      "texte": "Naissance de Robert Thirsk, astronaute canadien."
+    },
+    {
+      "annee": 1959,
+      "texte": "Naissance de Jonathan Franzen, romancier et essayiste américain."
+    },
+    {
+      "annee": 1945,
+      "texte": "L'Indonésie, ancienne colonie des Indes orientales néerlandaises, proclame son indépendance."
+    },
+    {
+      "annee": 1959,
+      "texte": "Miles Davis publie « Kind of Blue », un des disques de jazz les plus vendus et les plus acclamés."
+    },
+    {
+      "annee": 1945,
+      "texte": "Première publication d'« Animal Farm », la fable satirique de George Orwell."
+    },
+    {
+      "annee": 1943,
+      "texte": "Ouverture de la conférence de Québec entre Churchill, Roosevelt et Mackenzie King."
+    },
+    {
+      "annee": 1978,
+      "texte": "Le Double Eagle II se pose près de Paris : premier ballon à traverser l'Atlantique."
+    }
+  ]
+}

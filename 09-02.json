@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1838,
+      "texte": "Naissance de Liliʻuokalani, reine d'Hawaï de 1891 à 1893, dernière souveraine de l'archipel."
+    },
+    {
+      "annee": 1853,
+      "texte": "Naissance de Wilhelm Ostwald, chimiste allemand, lauréat du prix Nobel."
+    },
+    {
+      "annee": 1894,
+      "texte": "Naissance de Joseph Roth, écrivain et journaliste autrichien."
+    },
+    {
+      "annee": 1936,
+      "texte": "Naissance d'Andrew Grove, ingénieur américain d'origine hongroise, cofondateur d'Intel."
+    },
+    {
+      "annee": 1996,
+      "texte": "Claudie André-Deshays, première Française dans l'espace, revient sur Terre après seize jours de vol."
+    },
+    {
+      "annee": 1789,
+      "texte": "Fondation du département du Trésor des États-Unis."
+    },
+    {
+      "annee": 2008,
+      "texte": "Google lance son navigateur Web Google Chrome."
+    },
+    {
+      "annee": 2023,
+      "texte": "L'Inde lance Aditya-L1, sa première mission d'observation du Soleil."
+    }
+  ]
+}

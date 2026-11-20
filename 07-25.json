@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1920,
+      "texte": "Naissance de Rosalind Franklin, physico-chimiste britannique, qui a contribué à la recherche sur l'ADN."
+    },
+    {
+      "annee": 1905,
+      "texte": "Naissance d'Elias Canetti, écrivain d'origine bulgare, lauréat du prix Nobel."
+    },
+    {
+      "annee": 1930,
+      "texte": "Naissance d'Alice Parizeau, romancière, journaliste et essayiste québécoise d'origine polonaise."
+    },
+    {
+      "annee": 1593,
+      "texte": "Henri IV abjure le protestantisme et se convertit au catholicisme pour la seconde fois."
+    },
+    {
+      "annee": 1978,
+      "texte": "Naissance de Louise Joy Brown, premier bébé conçu par fécondation in vitro."
+    },
+    {
+      "annee": 1984,
+      "texte": "À bord de Saliout 7, Svetlana Savitskaïa devient la première femme à sortir dans l'espace."
+    },
+    {
+      "annee": 1893,
+      "texte": "Inauguration du canal de Corinthe, en Grèce, qui relie la mer Ionienne à la mer Égée."
+    },
+    {
+      "annee": 1788,
+      "texte": "Mozart termine sa Symphonie no 40 en sol mineur."
+    }
+  ]
+}

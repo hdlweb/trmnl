@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1533,
+      "texte": "Naissance d'Élisabeth Ire, reine d'Angleterre de 1558 à 1603."
+    },
+    {
+      "annee": 1707,
+      "texte": "Naissance de Georges-Louis Leclerc de Buffon, scientifique français."
+    },
+    {
+      "annee": 1909,
+      "texte": "Naissance d'Elia Kazan, réalisateur et metteur en scène américain."
+    },
+    {
+      "annee": 1912,
+      "texte": "Naissance de David Packard, ingénieur américain, cofondateur de Hewlett-Packard."
+    },
+    {
+      "annee": 1822,
+      "texte": "Indépendance du Brésil vis-à-vis du Portugal."
+    },
+    {
+      "annee": 1923,
+      "texte": "Création d'Interpol, l'Organisation internationale de police criminelle."
+    },
+    {
+      "annee": 1986,
+      "texte": "Desmond Tutu devient le premier Noir à diriger l'Église anglicane d'Afrique australe."
+    },
+    {
+      "annee": 1927,
+      "texte": "Philo Farnsworth met au point le premier système de télévision entièrement électronique."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1862,
+      "texte": "Naissance de Claude Debussy, compositeur français."
+    },
+    {
+      "annee": 1920,
+      "texte": "Naissance de Ray Bradbury, écrivain américain de science-fiction."
+    },
+    {
+      "annee": 1647,
+      "texte": "Naissance de Denis Papin, mathématicien et physicien français."
+    },
+    {
+      "annee": 1935,
+      "texte": "Naissance d'Annie Proulx, écrivaine américaine."
+    },
+    {
+      "annee": 1915,
+      "texte": "Naissance de James Hillier, scientifique d'origine canadienne, coconcepteur du microscope électronique."
+    },
+    {
+      "annee": 1864,
+      "texte": "La première convention de Genève crée de façon permanente la Croix-Rouge internationale."
+    },
+    {
+      "annee": 1851,
+      "texte": "Le yacht America remporte la course qui deviendra l'America's Cup, près de l'île de Wight."
+    },
+    {
+      "annee": 2006,
+      "texte": "Grigori Perelman reçoit la médaille Fields pour sa preuve de la conjecture de Poincaré, mais la refuse."
+    }
+  ]
+}

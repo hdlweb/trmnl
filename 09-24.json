@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1896,
+      "texte": "Naissance de F. Scott Fitzgerald, romancier et nouvelliste américain."
+    },
+    {
+      "annee": 1892,
+      "texte": "Naissance d'Adélard Godbout, agronome et homme politique, premier ministre du Québec."
+    },
+    {
+      "annee": 1870,
+      "texte": "Naissance de Georges Claude, physicien et chimiste français, inventeur de l'éclairage au néon."
+    },
+    {
+      "annee": 1878,
+      "texte": "Naissance de Charles-Ferdinand Ramuz, écrivain et poète suisse."
+    },
+    {
+      "annee": 2023,
+      "texte": "La capsule d'OSIRIS-REx rapporte sur Terre des échantillons de l'astéroïde Bénou."
+    },
+    {
+      "annee": 2014,
+      "texte": "La sonde indienne Mars Orbiter Mission se place en orbite autour de Mars, dès la première tentative."
+    },
+    {
+      "annee": 1906,
+      "texte": "Theodore Roosevelt fait de la Devils Tower, au Wyoming, le premier monument national des États-Unis."
+    },
+    {
+      "annee": 1852,
+      "texte": "Le dirigeable d'Henri Giffard, premier aéronef motorisé à passagers, vole de Paris à Trappes."
+    }
+  ]
+}

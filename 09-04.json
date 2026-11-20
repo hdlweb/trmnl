@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1768,
+      "texte": "Naissance de François-René de Chateaubriand, écrivain, homme politique et diplomate français."
+    },
+    {
+      "annee": 1824,
+      "texte": "Naissance d'Anton Bruckner, organiste et compositeur autrichien."
+    },
+    {
+      "annee": 1892,
+      "texte": "Naissance de Darius Milhaud, compositeur français."
+    },
+    {
+      "annee": 1870,
+      "texte": "Proclamation de la Troisième République en France."
+    },
+    {
+      "annee": 1781,
+      "texte": "Fondation de Los Angeles par 44 colons espagnols."
+    },
+    {
+      "annee": 2012,
+      "texte": "Pauline Marois devient la première femme élue première ministre du Québec."
+    },
+    {
+      "annee": 1888,
+      "texte": "George Eastman dépose la marque Kodak et fait breveter son appareil photo à pellicule en rouleau."
+    },
+    {
+      "annee": 1882,
+      "texte": "La centrale de Pearl Street, à New York, devient la première à fournir de l'électricité à des clients payants."
+    }
+  ]
+}

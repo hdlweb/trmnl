@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1875,
+      "texte": "Naissance de Ferdinand Porsche, ingénieur autrichien, concepteur de la Volkswagen Coccinelle."
+    },
+    {
+      "annee": 1929,
+      "texte": "Naissance d'Armand Vaillancourt, sculpteur et peintre canadien."
+    },
+    {
+      "annee": 1953,
+      "texte": "Naissance de Jean-Pierre Jeunet, réalisateur français."
+    },
+    {
+      "annee": 1940,
+      "texte": "Naissance d'Eduardo Galeano, écrivain et journaliste uruguayen."
+    },
+    {
+      "annee": 1976,
+      "texte": "La sonde américaine Viking 2 se pose sur Mars, à Utopia Planitia."
+    },
+    {
+      "annee": 1967,
+      "texte": "Lors du Dagen H, la Suède passe en une nuit de la conduite à gauche à la conduite à droite."
+    },
+    {
+      "annee": 1953,
+      "texte": "Entrée en vigueur de la Convention européenne des droits de l'homme."
+    },
+    {
+      "annee": 1901,
+      "texte": "À Melbourne, le drapeau de l'Australie flotte pour la première fois."
+    }
+  ]
+}

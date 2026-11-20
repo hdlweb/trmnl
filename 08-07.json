@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1904,
+      "texte": "Naissance de Ralph Bunche, politologue et diplomate américain, prix Nobel de la paix en 1950."
+    },
+    {
+      "annee": 1933,
+      "texte": "Naissance d'Elinor Ostrom, économiste américaine, première femme prix Nobel d'économie."
+    },
+    {
+      "annee": 1867,
+      "texte": "Naissance d'Emil Nolde, peintre expressionniste allemand."
+    },
+    {
+      "annee": 1976,
+      "texte": "La sonde spatiale Viking 2 entre en orbite autour de Mars."
+    },
+    {
+      "annee": 1960,
+      "texte": "La Côte d'Ivoire devient indépendante."
+    },
+    {
+      "annee": 1944,
+      "texte": "IBM présente à Harvard le Mark I, premier calculateur commandé par programme."
+    },
+    {
+      "annee": 1909,
+      "texte": "Alice Huyler Ramsey devient la première femme à traverser les États-Unis en automobile, en 59 jours."
+    },
+    {
+      "annee": 1962,
+      "texte": "La pharmacologue d'origine canadienne Frances Kelsey est décorée pour avoir refusé d'autoriser la thalidomide aux États-Unis."
+    }
+  ]
+}
