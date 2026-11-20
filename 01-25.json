@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1924,
+      "texte": "Ouverture à Chamonix, dans les Alpes françaises, des premiers Jeux olympiques d'hiver."
+    },
+    {
+      "annee": 1890,
+      "texte": "La journaliste américaine Nellie Bly achève son tour du monde par terre et par mer en 72 jours, un record pour l'époque."
+    },
+    {
+      "annee": 2004,
+      "texte": "Le robot Opportunity se pose sur Mars et roule jusque dans le cratère Eagle, sur Meridiani Planum."
+    },
+    {
+      "annee": 1736,
+      "texte": "Naissance de Joseph-Louis Lagrange, mathématicien et astronome italo-français."
+    },
+    {
+      "annee": 1759,
+      "texte": "Naissance de Robert Burns, poète et parolier écossais."
+    },
+    {
+      "annee": 1949,
+      "texte": "Première remise des prix Emmy aux États-Unis, au Hollywood Athletic Club."
+    },
+    {
+      "annee": 1961,
+      "texte": "À Washington, John F. Kennedy tient la première conférence de presse présidentielle télévisée en direct."
+    },
+    {
+      "annee": 1791,
+      "texte": "Le Parlement britannique adopte l'Acte constitutionnel, qui divise l'ancienne province de Québec en Haut-Canada et Bas-Canada."
+    }
+  ]
+}

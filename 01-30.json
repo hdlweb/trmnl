@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1882,
+      "texte": "Naissance de Franklin D. Roosevelt, juriste et homme politique, 32e président des États-Unis."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance de Douglas Engelbart, informaticien américain, inventeur de la souris d'ordinateur."
+    },
+    {
+      "annee": 1951,
+      "texte": "Naissance de Phil Collins, batteur de Genesis, auteur-compositeur, interprète et acteur britannique."
+    },
+    {
+      "annee": 1880,
+      "texte": "Inauguration du premier chemin de fer sur la glace du Saint-Laurent, entre Montréal et Longueuil. Il sera en service jusqu'en 1883."
+    },
+    {
+      "annee": 1826,
+      "texte": "Inauguration du pont suspendu de Menai, considéré comme le premier pont suspendu moderne au monde, au pays de Galles."
+    },
+    {
+      "annee": 1858,
+      "texte": "Premier concert du Hallé à Manchester, qui marque la fondation de cet orchestre professionnel."
+    },
+    {
+      "annee": 1847,
+      "texte": "Le Britannique James Bruce, lord Elgin, entre en fonction comme gouverneur général du Canada."
+    },
+    {
+      "annee": 1911,
+      "texte": "Le destroyer USS Terry réalise le premier sauvetage en mer d'un aviateur, Douglas McCurdy, près de La Havane."
+    }
+  ]
+}

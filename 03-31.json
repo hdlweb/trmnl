@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1596,
+      "texte": "Naissance de René Descartes, philosophe, mathématicien et physicien français."
+    },
+    {
+      "annee": 1685,
+      "texte": "Naissance de Jean-Sébastien Bach, organiste et compositeur allemand."
+    },
+    {
+      "annee": 1732,
+      "texte": "Naissance de Joseph Haydn, compositeur autrichien."
+    },
+    {
+      "annee": 1914,
+      "texte": "Naissance d'Octavio Paz, poète et diplomate mexicain, prix Nobel de littérature."
+    },
+    {
+      "annee": 1889,
+      "texte": "Inauguration à Paris de la tour Eiffel."
+    },
+    {
+      "annee": 1949,
+      "texte": "Le dominion de Terre-Neuve se joint à la Confédération et devient la 10e province du Canada."
+    },
+    {
+      "annee": 1854,
+      "texte": "Signature de la convention de Kanagawa, qui ouvre les ports japonais de Shimoda et de Hakodate au commerce américain."
+    },
+    {
+      "annee": 1951,
+      "texte": "Remington Rand livre le premier ordinateur UNIVAC I au Bureau du recensement des États-Unis."
+    }
+  ]
+}

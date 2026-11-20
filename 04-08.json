@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1938,
+      "texte": "Naissance de Kofi Annan, diplomate ghanéen, secrétaire général des Nations unies, prix Nobel de la paix."
+    },
+    {
+      "annee": 1911,
+      "texte": "Naissance d'Emil Cioran, philosophe roumain."
+    },
+    {
+      "annee": 1924,
+      "texte": "Naissance de Frédéric Back, réalisateur et scénariste québécois d'origine allemande."
+    },
+    {
+      "annee": 1904,
+      "texte": "La France et le Royaume-Uni signent l'Entente cordiale, après des siècles de conflits intermittents."
+    },
+    {
+      "annee": 1911,
+      "texte": "Le physicien néerlandais Kamerlingh Onnes découvre la supraconductivité."
+    },
+    {
+      "annee": 1820,
+      "texte": "La Vénus de Milo, statue grecque antique, est mise au jour sur l'île de Milos, en mer Égée."
+    },
+    {
+      "annee": 2024,
+      "texte": "Une éclipse solaire est visible à travers le Mexique, les États-Unis et le Canada."
+    },
+    {
+      "annee": 1904,
+      "texte": "Le Longacre Square, à Manhattan, est rebaptisé Times Square, d'après l'édifice du New York Times."
+    }
+  ]
+}

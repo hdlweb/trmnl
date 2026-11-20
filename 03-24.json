@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1820,
+      "texte": "Naissance d'Edmond Becquerel, physicien français, découvreur de l'effet photovoltaïque en 1839."
+    },
+    {
+      "annee": 1834,
+      "texte": "Naissance de William Morris, écrivain, poète, peintre et designer britannique."
+    },
+    {
+      "annee": 1911,
+      "texte": "Naissance de Joseph Barbera, réalisateur et producteur américain de dessins animés, cofondateur de Hanna-Barbera."
+    },
+    {
+      "annee": 1882,
+      "texte": "Le bactériologiste allemand Robert Koch annonce la découverte du bacille de la tuberculose."
+    },
+    {
+      "annee": 1603,
+      "texte": "Les couronnes d'Angleterre et d'Écosse sont réunies par l'accession au trône de Jacques Ier, à la mort d'Élisabeth Ire."
+    },
+    {
+      "annee": 1837,
+      "texte": "Le Canada donne le droit de vote aux Noirs."
+    },
+    {
+      "annee": 1896,
+      "texte": "Alexandre Popov réalise la première liaison radioélectrique en morse."
+    },
+    {
+      "annee": 2002,
+      "texte": "Halle Berry devient la première Afro-Américaine à remporter l'Oscar de la meilleure actrice, pour « Monster's Ball »."
+    }
+  ]
+}

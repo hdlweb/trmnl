@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1855,
+      "texte": "Naissance de Percival Lowell, astronome et mathématicien américain."
+    },
+    {
+      "annee": 1941,
+      "texte": "Naissance de Mahmoud Darwich, poète palestinien."
+    },
+    {
+      "annee": 1781,
+      "texte": "Depuis son jardin de Bath, William Herschel découvre Uranus, qu'il prend d'abord pour une comète."
+    },
+    {
+      "annee": 2013,
+      "texte": "Jorge Mario Bergoglio est élu pape sous le nom de François, premier pape jésuite et premier originaire des Amériques."
+    },
+    {
+      "annee": 1963,
+      "texte": "Adoption du lys blanc comme emblème floral du Québec."
+    },
+    {
+      "annee": 1995,
+      "texte": "Sortie de « Pour que tu m'aimes encore », succès de Céline Dion, sur un album conçu avec Jean-Jacques Goldman."
+    },
+    {
+      "annee": 2013,
+      "texte": "Inauguration d'ALMA, le plus grand radiotélescope du monde, dans le désert d'Atacama, au Chili."
+    },
+    {
+      "annee": 1845,
+      "texte": "Première du concerto pour violon de Felix Mendelssohn à Leipzig, avec Ferdinand David comme soliste."
+    }
+  ]
+}

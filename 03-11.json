@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1811,
+      "texte": "Naissance d'Urbain Le Verrier, mathématicien, astronome et homme politique français."
+    },
+    {
+      "annee": 1921,
+      "texte": "Naissance d'Astor Piazzolla, compositeur argentin, père du tango moderne."
+    },
+    {
+      "annee": 1952,
+      "texte": "Naissance de Douglas Adams, écrivain et dramaturge britannique."
+    },
+    {
+      "annee": 1848,
+      "texte": "Louis-Hippolyte La Fontaine et Robert Baldwin deviennent les premiers chefs de la Province du Canada élus sous un gouvernement responsable."
+    },
+    {
+      "annee": 1851,
+      "texte": "Première de l'opéra « Rigoletto » de Verdi à La Fenice, à Venise."
+    },
+    {
+      "annee": 1702,
+      "texte": "Le Daily Courant, considéré comme le premier quotidien anglais, commence à paraître."
+    },
+    {
+      "annee": 1984,
+      "texte": "Sortie de « Nausicaä of the Valley of the Wind », film d'animation de Hayao Miyazaki."
+    },
+    {
+      "annee": 2006,
+      "texte": "Michelle Bachelet devient la première femme présidente du Chili."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1802,
+      "texte": "Naissance de Victor Hugo, écrivain, poète et dramaturge français."
+    },
+    {
+      "annee": 1829,
+      "texte": "Naissance de Levi Strauss, inventeur du blue-jean et fondateur de Levi Strauss & Co."
+    },
+    {
+      "annee": 1908,
+      "texte": "Naissance de Tex Avery, réalisateur de films d'animation américain."
+    },
+    {
+      "annee": 1786,
+      "texte": "Naissance de François Arago, mathématicien, astronome, physicien et homme politique français."
+    },
+    {
+      "annee": 2008,
+      "texte": "Inauguration de la réserve mondiale de semences du Svalbard."
+    },
+    {
+      "annee": 1935,
+      "texte": "Près de Daventry, en Angleterre, Robert Watson-Watt fait la première démonstration du radar."
+    },
+    {
+      "annee": 1917,
+      "texte": "L'Original Dixieland Jass Band enregistre « Livery Stable Blues », le tout premier disque de jazz mis en vente."
+    },
+    {
+      "annee": 1606,
+      "texte": "L'expédition de Willem Janszoon est la première expédition européenne à mettre le pied en Australie, alors confondue avec la Nouvelle-Guinée."
+    }
+  ]
+}

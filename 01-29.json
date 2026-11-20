@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1635,
+      "texte": "Le roi Louis XIII signe les lettres patentes qui fondent l'Académie française et ses 40 sièges."
+    },
+    {
+      "annee": 1886,
+      "texte": "Karl Benz fait breveter la première automobile à essence réussie."
+    },
+    {
+      "annee": 1845,
+      "texte": "« The Raven » d'Edgar Allan Poe paraît dans The Evening Mirror, à New York, première publication signée de son nom."
+    },
+    {
+      "annee": 1860,
+      "texte": "Naissance d'Anton Tchekhov, nouvelliste, dramaturge et médecin russe."
+    },
+    {
+      "annee": 1866,
+      "texte": "Naissance de Romain Rolland, écrivain français, prix Nobel de littérature en 1915."
+    },
+    {
+      "annee": 1926,
+      "texte": "Naissance d'Abdus Salam, physicien pakistanais, prix Nobel de physique en 1979."
+    },
+    {
+      "annee": 1907,
+      "texte": "Charles Curtis, du Kansas, citoyen de la nation Kaw, devient le premier sénateur amérindien des États-Unis."
+    },
+    {
+      "annee": 1936,
+      "texte": "Annonce des premiers membres intronisés au Temple de la renommée du baseball."
+    }
+  ]
+}

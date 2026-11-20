@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1868,
+      "texte": "Naissance de W. E. B. Du Bois, sociologue, historien et militant afro-américain."
+    },
+    {
+      "annee": 1879,
+      "texte": "Naissance de Kasimir Malevitch, peintre, dessinateur, sculpteur et théoricien russe."
+    },
+    {
+      "annee": 1949,
+      "texte": "Naissance de Marc Garneau, ingénieur, astronaute et homme politique canadien."
+    },
+    {
+      "annee": 1680,
+      "texte": "Naissance de Jean-Baptiste Le Moyne de Bienville, explorateur et gouverneur de la Louisiane."
+    },
+    {
+      "annee": 1909,
+      "texte": "Le Silver Dart réalise le premier vol motorisé au Canada et dans l'Empire britannique."
+    },
+    {
+      "annee": 1905,
+      "texte": "À Chicago, l'avocat Paul Harris et trois entrepreneurs fondent le Rotary, premier club service au monde."
+    },
+    {
+      "annee": 1987,
+      "texte": "Observation de la supernova SN 1987A dans le Grand Nuage de Magellan, la première que les astronomes modernes ont pu étudier en détail."
+    },
+    {
+      "annee": 1954,
+      "texte": "À Pittsburgh, début de la première vaccination de masse d'enfants contre la polio, avec le vaccin de Salk."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1588,
+      "texte": "Naissance de Thomas Hobbes, philosophe anglais."
+    },
+    {
+      "annee": 1732,
+      "texte": "Naissance de Jean-Honoré Fragonard, peintre français."
+    },
+    {
+      "annee": 1856,
+      "texte": "Naissance de Booker T. Washington, enseignant et écrivain afro-américain, militant pour les droits des Noirs."
+    },
+    {
+      "annee": 1920,
+      "texte": "Naissance d'Arthur Hailey, écrivain canadien d'origine britannique."
+    },
+    {
+      "annee": 1795,
+      "texte": "Par le traité de Bâle, le royaume de Prusse se retire de la guerre contre la France."
+    },
+    {
+      "annee": 1710,
+      "texte": "Le Statute of Anne, première loi britannique sur le droit d'auteur, reçoit la sanction royale."
+    },
+    {
+      "annee": 1974,
+      "texte": "Publication de « Carrie », le premier roman de Stephen King."
+    },
+    {
+      "annee": 1998,
+      "texte": "Ouverture du pont du détroit d'Akashi, au Japon, alors le plus long pont suspendu du monde."
+    }
+  ]
+}

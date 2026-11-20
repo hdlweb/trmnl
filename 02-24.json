@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1932,
+      "texte": "Naissance de Michel Legrand, pianiste, compositeur et chef d'orchestre français."
+    },
+    {
+      "annee": 1709,
+      "texte": "Naissance de Jacques de Vaucanson, ingénieur français."
+    },
+    {
+      "annee": 1918,
+      "texte": "Déclaration d'indépendance de l'Estonie."
+    },
+    {
+      "annee": 1663,
+      "texte": "Louis XIV dissout la Compagnie des Cent-Associés, qui a failli à coloniser la Nouvelle-France, et rattache la colonie à la Couronne."
+    },
+    {
+      "annee": 1803,
+      "texte": "Par l'arrêt Marbury v. Madison, la Cour suprême des États-Unis établit le principe du contrôle de la constitutionnalité des lois."
+    },
+    {
+      "annee": 1607,
+      "texte": "Création à Mantoue de « L'Orfeo » de Claudio Monteverdi, considéré comme un des premiers opéras."
+    },
+    {
+      "annee": 1920,
+      "texte": "Nancy Astor devient la première femme à prendre la parole à la Chambre des communes du Royaume-Uni."
+    },
+    {
+      "annee": 1942,
+      "texte": "Première émission de Voice of America."
+    }
+  ]
+}

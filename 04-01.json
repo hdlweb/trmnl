@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1873,
+      "texte": "Naissance de Sergueï Rachmaninov, compositeur et pianiste russe."
+    },
+    {
+      "annee": 1868,
+      "texte": "Naissance d'Edmond Rostand, poète et dramaturge français."
+    },
+    {
+      "annee": 1929,
+      "texte": "Naissance de Milan Kundera, écrivain français d'origine tchèque."
+    },
+    {
+      "annee": 1940,
+      "texte": "Naissance de Wangari Maathai, biologiste et militante kényane, prix Nobel de la paix en 2004."
+    },
+    {
+      "annee": 1999,
+      "texte": "Création du territoire canadien du Nunavut. Ses 25 000 habitants sont en majorité des Inuits."
+    },
+    {
+      "annee": 1976,
+      "texte": "Steve Jobs et Steve Wozniak fondent la société d'informatique Apple."
+    },
+    {
+      "annee": 1878,
+      "texte": "À Bernissart, en Belgique, des mineurs découvrent 29 squelettes d'iguanodons à 322 mètres de profondeur."
+    },
+    {
+      "annee": 2026,
+      "texte": "La mission Artemis II décolle : premier vol habité au-delà de l'orbite terrestre basse depuis Apollo 17, en 1972."
+    }
+  ]
+}

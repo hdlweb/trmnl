@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1475,
+      "texte": "Naissance de Michel-Ange, peintre, sculpteur, poète et architecte italien."
+    },
+    {
+      "annee": 1927,
+      "texte": "Naissance de Gabriel García Márquez, écrivain colombien, prix Nobel de littérature en 1982."
+    },
+    {
+      "annee": 1806,
+      "texte": "Naissance d'Elizabeth Barrett Browning, poétesse britannique."
+    },
+    {
+      "annee": 1787,
+      "texte": "Naissance de Joseph von Fraunhofer, physicien et astronome allemand."
+    },
+    {
+      "annee": 1917,
+      "texte": "Naissance de Will Eisner, illustrateur et éditeur américain."
+    },
+    {
+      "annee": 1957,
+      "texte": "Le Royaume-Uni octroie l'indépendance à la Côte-de-l'Or, qui devient le Ghana."
+    },
+    {
+      "annee": 2015,
+      "texte": "La sonde spatiale Dawn de la NASA se place en orbite autour de la planète naine Cérès."
+    },
+    {
+      "annee": 1853,
+      "texte": "Première de l'opéra « La traviata » de Verdi à La Fenice, à Venise. Jugée ratée, elle poussera Verdi à réviser l'œuvre."
+    }
+  ]
+}

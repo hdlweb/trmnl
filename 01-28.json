@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1887,
+      "texte": "Début de la construction de la tour Eiffel, prévue au départ comme une simple attraction démontable."
+    },
+    {
+      "annee": 1958,
+      "texte": "Le groupe danois Lego dépose au Danemark le brevet de ses briques de construction en plastique."
+    },
+    {
+      "annee": 1916,
+      "texte": "Le Manitoba adopte une loi qui accorde, pour la première fois, le droit de vote à des Canadiennes."
+    },
+    {
+      "annee": 1754,
+      "texte": "Dans une lettre à un ami, Horace Walpole invente le mot « serendipity », tiré du conte persan des Trois Princes de Serendip."
+    },
+    {
+      "annee": 1873,
+      "texte": "Naissance de Colette, romancière et journaliste française."
+    },
+    {
+      "annee": 1912,
+      "texte": "Naissance de Jackson Pollock, peintre américain."
+    },
+    {
+      "annee": 1884,
+      "texte": "Naissance d'Auguste Piccard, physicien et explorateur suisse."
+    },
+    {
+      "annee": 1568,
+      "texte": "L'édit de Torda, en Transylvanie, permet aux communautés de choisir librement leurs prédicateurs : un acte de tolérance religieuse inédit."
+    }
+  ]
+}

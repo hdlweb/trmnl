@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1824,
+      "texte": "Naissance de Bedřich Smetana, pianiste et compositeur tchèque."
+    },
+    {
+      "annee": 1904,
+      "texte": "Naissance du Dr Seuss, écrivain, poète et illustrateur américain de livres pour enfants."
+    },
+    {
+      "annee": 1931,
+      "texte": "Naissance de Mikhaïl Gorbatchev, dernier président soviétique, prix Nobel de la paix en 1990."
+    },
+    {
+      "annee": 1942,
+      "texte": "Naissance de John Irving, romancier et scénariste américain."
+    },
+    {
+      "annee": 1969,
+      "texte": "L'avion supersonique franco-britannique Concorde effectue son premier vol d'essai à Toulouse."
+    },
+    {
+      "annee": 1965,
+      "texte": "Sortie en salle de « The Sound of Music », qui sera le film le plus lucratif jusqu'en 1971."
+    },
+    {
+      "annee": 1995,
+      "texte": "Des chercheurs du Fermilab, en Illinois, annoncent la découverte du quark top, la plus massive des particules élémentaires observées."
+    },
+    {
+      "annee": 1791,
+      "texte": "Claude Chappe et ses frères font la première démonstration du télégraphe optique, près de Paris."
+    }
+  ]
+}

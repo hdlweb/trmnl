@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1810,
+      "texte": "Naissance de Frédéric Chopin, compositeur et pianiste polonais."
+    },
+    {
+      "annee": 1904,
+      "texte": "Naissance de Glenn Miller, tromboniste, compositeur et chef d'orchestre américain."
+    },
+    {
+      "annee": 1946,
+      "texte": "Naissance de Gerry Boulet, auteur-compositeur et interprète québécois."
+    },
+    {
+      "annee": 1872,
+      "texte": "Le président Ulysses S. Grant autorise la création du parc national de Yellowstone, premier parc national au monde."
+    },
+    {
+      "annee": 1633,
+      "texte": "Samuel de Champlain obtient de Richelieu le titre de commandant de Québec."
+    },
+    {
+      "annee": 1999,
+      "texte": "Entrée en vigueur de la Convention sur l'interdiction des mines antipersonnel, signée à Ottawa en 1997 par 133 pays."
+    },
+    {
+      "annee": 1936,
+      "texte": "Achèvement du barrage Hoover, sur le fleuve Colorado, à la frontière de l'Arizona et du Nevada."
+    }
+  ]
+}

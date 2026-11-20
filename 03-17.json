@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1834,
+      "texte": "Naissance de Gottlieb Daimler, ingénieur allemand, cofondateur de Daimler-Motoren-Gesellschaft."
+    },
+    {
+      "annee": 1948,
+      "texte": "Naissance de William Gibson, écrivain et scénariste américano-canadien."
+    },
+    {
+      "annee": 1861,
+      "texte": "Proclamation du royaume d'Italie à Turin, à la suite du Risorgimento."
+    },
+    {
+      "annee": 1852,
+      "texte": "Annibale de Gasparis découvre Psyché, l'un des plus gros astéroïdes jamais observés, avec 250 kilomètres de diamètre."
+    },
+    {
+      "annee": 1969,
+      "texte": "Golda Meir devient la première femme première ministre d'Israël."
+    },
+    {
+      "annee": 1958,
+      "texte": "Les États-Unis lancent le premier satellite alimenté à l'énergie solaire, aussi le premier à tenir une orbite de longue durée."
+    },
+    {
+      "annee": 1950,
+      "texte": "Des chercheurs de Berkeley annoncent la création de l'élément 98, qu'ils nomment « californium »."
+    },
+    {
+      "annee": 1862,
+      "texte": "Inauguration du premier chemin de fer de Finlande, entre Helsinki et Hämeenlinna."
+    }
+  ]
+}

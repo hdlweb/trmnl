@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1756,
+      "texte": "Naissance de Wolfgang Amadeus Mozart, pianiste et compositeur autrichien."
+    },
+    {
+      "annee": 1832,
+      "texte": "Naissance de Lewis Carroll, écrivain, poète, photographe et mathématicien britannique."
+    },
+    {
+      "annee": 1931,
+      "texte": "Naissance de Mordecai Richler, écrivain, essayiste et scénariste canadien."
+    },
+    {
+      "annee": 1973,
+      "texte": "Signature des accords de paix de Paris, qui mettent fin à la guerre du Vietnam."
+    },
+    {
+      "annee": 1967,
+      "texte": "L'URSS, les États-Unis et le Royaume-Uni signent le traité de l'espace, qui y interdit les armes nucléaires et réserve la Lune à des fins pacifiques."
+    },
+    {
+      "annee": 1980,
+      "texte": "Avec l'aide de responsables canadiens, six diplomates américains réussissent à s'échapper d'Iran : c'est l'opération dite « Canadian Caper »."
+    },
+    {
+      "annee": 1814,
+      "texte": "Naissance d'Eugène Viollet-le-Duc, architecte français."
+    },
+    {
+      "annee": 1785,
+      "texte": "Fondation de l'Université de Géorgie, première université publique créée par un État américain."
+    }
+  ]
+}

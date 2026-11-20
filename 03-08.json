@@ -1,0 +1,28 @@
+{
+  "evenements": [
+    {
+      "annee": 1714,
+      "texte": "Naissance de Carl Philipp Emanuel Bach, compositeur allemand, deuxième fils de Jean-Sébastien Bach."
+    },
+    {
+      "annee": 1879,
+      "texte": "Naissance d'Otto Hahn, chimiste allemand, prix Nobel de chimie en 1944."
+    },
+    {
+      "annee": 1886,
+      "texte": "Naissance d'Edward Calvin Kendall, chimiste américain, découvreur de la cortisone et prix Nobel de médecine en 1950."
+    },
+    {
+      "annee": 1978,
+      "texte": "BBC Radio 4 commence la diffusion de « The Hitchhiker's Guide to the Galaxy », série de science-fiction de Douglas Adams."
+    },
+    {
+      "annee": 1910,
+      "texte": "La Française Élisa Deroche (Raymonde de Laroche) devient la première femme à obtenir son brevet de pilote."
+    },
+    {
+      "annee": 1702,
+      "texte": "Anne devient reine d'Angleterre, d'Écosse et d'Irlande."
+    }
+  ]
+}

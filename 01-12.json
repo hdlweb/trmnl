@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1876,
+      "texte": "Naissance de Jack London, romancier et journaliste américain."
+    },
+    {
+      "annee": 1949,
+      "texte": "Naissance de Haruki Murakami, romancier, nouvelliste et essayiste japonais."
+    },
+    {
+      "annee": 1907,
+      "texte": "Naissance de Sergueï Korolev, ingénieur aéronautique soviétique."
+    },
+    {
+      "annee": 1963,
+      "texte": "Naissance de François Girard, réalisateur et scénariste québécois."
+    },
+    {
+      "annee": 1926,
+      "texte": "L'Institut Pasteur annonce la découverte d'un sérum contre le tétanos."
+    },
+    {
+      "annee": 1895,
+      "texte": "Fondation au Royaume-Uni du National Trust, organisme de protection du patrimoine."
+    },
+    {
+      "annee": 1932,
+      "texte": "Hattie Caraway devient la première femme élue au Sénat des États-Unis."
+    },
+    {
+      "annee": 2007,
+      "texte": "La comète McNaught atteint son périhélie et devient la plus brillante depuis plus de 40 ans, visible même en plein jour."
+    }
+  ]
+}

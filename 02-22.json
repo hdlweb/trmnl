@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1732,
+      "texte": "Naissance de George Washington, général et homme politique, 1er président des États-Unis."
+    },
+    {
+      "annee": 1788,
+      "texte": "Naissance d'Arthur Schopenhauer, philosophe allemand."
+    },
+    {
+      "annee": 1857,
+      "texte": "Naissance de Heinrich Hertz, ingénieur et physicien allemand."
+    },
+    {
+      "annee": 1900,
+      "texte": "Naissance de Luis Buñuel, cinéaste espagnol."
+    },
+    {
+      "annee": 1903,
+      "texte": "Naissance de Morley Callaghan, écrivain et dramaturge canadien."
+    },
+    {
+      "annee": 2017,
+      "texte": "Annonce de la découverte de sept exoplanètes de taille terrestre autour de l'étoile TRAPPIST-1, dont certaines dans sa zone habitable."
+    },
+    {
+      "annee": 1997,
+      "texte": "En Écosse, l'Institut Roslin présente la brebis Dolly, premier mammifère cloné à partir d'une cellule adulte."
+    },
+    {
+      "annee": 1632,
+      "texte": "Le grand-duc de Toscane Ferdinand II de Médicis reçoit le premier exemplaire imprimé du « Dialogue sur les deux grands systèmes du monde » de Galilée."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1807,
+      "texte": "Naissance de Henry Wadsworth Longfellow, poète américain."
+    },
+    {
+      "annee": 1899,
+      "texte": "Naissance de Charles Best, médecin américano-canadien, codécouvreur de l'insuline."
+    },
+    {
+      "annee": 1902,
+      "texte": "Naissance de John Steinbeck, écrivain et scénariste américain, prix Nobel de littérature en 1962."
+    },
+    {
+      "annee": 1913,
+      "texte": "Naissance de Paul Ricœur, philosophe français."
+    },
+    {
+      "annee": 1940,
+      "texte": "Martin Kamen et Sam Ruben découvrent le carbone 14, aujourd'hui à la base de la datation des échantillons archéologiques et géologiques."
+    },
+    {
+      "annee": 1996,
+      "texte": "Sortie des premiers jeux de la franchise Pokémon, Pocket Monsters Rouge et Vert."
+    },
+    {
+      "annee": 1925,
+      "texte": "Le Norvégien Thor Bjørklund dépose le brevet du rabot à fromage."
+    },
+    {
+      "annee": 1617,
+      "texte": "La Suède et la Russie signent le traité de Stolbovo, qui met fin à la guerre d'Ingrie."
+    }
+  ]
+}

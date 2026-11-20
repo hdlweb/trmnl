@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1913,
+      "texte": "Naissance de Jules Léger, diplomate québécois, gouverneur général du Canada de 1974 à 1979."
+    },
+    {
+      "annee": 1914,
+      "texte": "Naissance de Marguerite Duras, romancière, scénariste et réalisatrice française."
+    },
+    {
+      "annee": 1928,
+      "texte": "Naissance de Maya Angelou, écrivaine, poète et essayiste américaine."
+    },
+    {
+      "annee": 1932,
+      "texte": "Naissance d'Andreï Tarkovski, cinéaste russe."
+    },
+    {
+      "annee": 1960,
+      "texte": "Le Sénégal devient indépendant de la France."
+    },
+    {
+      "annee": 1975,
+      "texte": "Bill Gates et Paul Allen fondent Microsoft à Albuquerque, au Nouveau-Mexique."
+    },
+    {
+      "annee": 1887,
+      "texte": "À Argonia, au Kansas, Susanna M. Salter devient la première femme élue mairesse aux États-Unis."
+    },
+    {
+      "annee": 1796,
+      "texte": "Georges Cuvier donne le premier cours de paléontologie."
+    }
+  ]
+}

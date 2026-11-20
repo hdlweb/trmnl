@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1745,
+      "texte": "Naissance d'Alessandro Volta, physicien italien, inventeur de la pile électrique."
+    },
+    {
+      "annee": 1929,
+      "texte": "Naissance d'André Mathieu, pianiste et compositeur québécois."
+    },
+    {
+      "annee": 1931,
+      "texte": "Naissance de Toni Morrison, écrivaine américaine, lauréate des prix Pulitzer et Nobel de littérature."
+    },
+    {
+      "annee": 1932,
+      "texte": "Naissance de Miloš Forman, réalisateur tchèque."
+    },
+    {
+      "annee": 1930,
+      "texte": "En étudiant des photos prises en janvier, l'astronome américain Clyde Tombaugh découvre la planète naine Pluton."
+    },
+    {
+      "annee": 1977,
+      "texte": "Premier vol d'essai de la navette spatiale Enterprise de la NASA, portée sur le dos d'un Boeing 747."
+    },
+    {
+      "annee": 2021,
+      "texte": "L'astromobile Perseverance et l'hélicoptère Ingenuity, de la mission Mars 2020 de la NASA, se posent sur Mars, dans le cratère Jezero."
+    },
+    {
+      "annee": 1921,
+      "texte": "Le Français Étienne Œhmichen fait décoller un hélicoptère pour la première fois."
+    }
+  ]
+}

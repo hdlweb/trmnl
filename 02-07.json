@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1812,
+      "texte": "Naissance de Charles Dickens, romancier et critique britannique."
+    },
+    {
+      "annee": 1867,
+      "texte": "Naissance de Laura Ingalls Wilder, romancière américaine."
+    },
+    {
+      "annee": 1992,
+      "texte": "Signature du traité de Maastricht, qui mène à la création de l'Union européenne."
+    },
+    {
+      "annee": 1984,
+      "texte": "Durant la mission STS-41-B, Bruce McCandless et Robert Stewart réalisent la première sortie dans l'espace sans câble."
+    },
+    {
+      "annee": 1940,
+      "texte": "Sortie de « Pinocchio » de Walt Disney, premier long métrage d'animation à remporter un Oscar en compétition."
+    },
+    {
+      "annee": 1914,
+      "texte": "Sortie de « Kid Auto Races at Venice », premier film où apparaît le personnage de Charlot, joué par Charlie Chaplin."
+    },
+    {
+      "annee": 1979,
+      "texte": "Pluton passe à l'intérieur de l'orbite de Neptune, pour la première fois depuis la découverte des deux planètes."
+    },
+    {
+      "annee": 2014,
+      "texte": "Annonce de la découverte des empreintes d'Happisburgh, en Angleterre, les plus vieilles traces de pas d'hominidés connues hors d'Afrique."
+    }
+  ]
+}

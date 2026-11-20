@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1879,
+      "texte": "Naissance d'Albert Einstein, physicien allemand naturalisé américain, prix Nobel de physique en 1921."
+    },
+    {
+      "annee": 1804,
+      "texte": "Naissance de Johann Strauss père, compositeur et chef d'orchestre autrichien."
+    },
+    {
+      "annee": 1926,
+      "texte": "Naissance de François Morel, pianiste, chef d'orchestre et compositeur québécois."
+    },
+    {
+      "annee": 2025,
+      "texte": "Mark Carney devient premier ministre du Canada."
+    },
+    {
+      "annee": 1986,
+      "texte": "La sonde spatiale européenne Giotto passe à 575 km de la comète de Halley."
+    },
+    {
+      "annee": 1885,
+      "texte": "Première de « The Mikado », l'opérette de Gilbert et Sullivan, au Savoy Theatre de Londres."
+    },
+    {
+      "annee": 1794,
+      "texte": "Eli Whitney reçoit un brevet pour son égreneuse de coton, le « cotton gin »."
+    },
+    {
+      "annee": 1931,
+      "texte": "Première à Bombay d'« Alam Ara », le premier film parlant indien."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1797,
+      "texte": "Naissance de Franz Schubert, pianiste et compositeur autrichien."
+    },
+    {
+      "annee": 1961,
+      "texte": "Lors de la mission Mercury-Redstone 2, le chimpanzé Ham devient le premier hominidé envoyé dans l'espace."
+    },
+    {
+      "annee": 1966,
+      "texte": "Lancement de la sonde soviétique Luna 9, qui réussira trois jours plus tard le premier atterrissage sur la Lune."
+    },
+    {
+      "annee": 1862,
+      "texte": "Alvan Graham Clark découvre Sirius B, une naine blanche compagne de l'étoile Sirius."
+    },
+    {
+      "annee": 1923,
+      "texte": "Naissance de Norman Mailer, écrivain, journaliste et cinéaste américain."
+    },
+    {
+      "annee": 1937,
+      "texte": "Naissance de Philip Glass, musicien et compositeur américain."
+    },
+    {
+      "annee": 1895,
+      "texte": "Lord Rayleigh et William Ramsay annoncent à la Royal Society la découverte d'un nouvel élément chimique, l'argon."
+    }
+  ]
+}

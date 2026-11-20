@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1882,
+      "texte": "Naissance de James Joyce, romancier, nouvelliste et poète irlandais."
+    },
+    {
+      "annee": 1958,
+      "texte": "Naissance de Michel Marc Bouchard, dramaturge québécois."
+    },
+    {
+      "annee": 1887,
+      "texte": "À Punxsutawney, en Pennsylvanie, on célèbre pour la première fois le Jour de la marmotte."
+    },
+    {
+      "annee": 1913,
+      "texte": "Ouverture de la gare Grand Central à New York, la plus grande gare du monde par le nombre de quais."
+    },
+    {
+      "annee": 1709,
+      "texte": "Le marin écossais Alexander Selkirk est secouru après quatre ans sur une île déserte. Il inspirera « Robinson Crusoe » de Daniel Defoe."
+    },
+    {
+      "annee": 1990,
+      "texte": "Légalisation du Congrès national africain (ANC) en Afrique du Sud."
+    },
+    {
+      "annee": 2005,
+      "texte": "Le gouvernement du Canada présente la Loi sur le mariage civil, qui légalisera le mariage entre personnes de même sexe."
+    },
+    {
+      "annee": 1920,
+      "texte": "Le traité de Tartu met fin à la guerre d'indépendance de l'Estonie."
+    }
+  ]
+}

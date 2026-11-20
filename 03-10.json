@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1947,
+      "texte": "Naissance de Kim Campbell, avocate et femme politique, 19e première ministre du Canada."
+    },
+    {
+      "annee": 1931,
+      "texte": "Naissance de Georges Dor, auteur, compositeur, dramaturge, chanteur et poète québécois."
+    },
+    {
+      "annee": 1795,
+      "texte": "Naissance de Joseph Légaré, peintre québécois."
+    },
+    {
+      "annee": 1892,
+      "texte": "Naissance d'Arthur Honegger, compositeur franco-suisse."
+    },
+    {
+      "annee": 1876,
+      "texte": "Alexander Graham Bell réussit le premier essai d'un téléphone."
+    },
+    {
+      "annee": 1535,
+      "texte": "Tomás de Berlanga, évêque de Panama, découvre par hasard les îles Galápagos en route vers le Pérou."
+    },
+    {
+      "annee": 1977,
+      "texte": "Des astronomes découvrent les anneaux d'Uranus."
+    },
+    {
+      "annee": 1879,
+      "texte": "Inauguration du chemin de fer reliant Sorel et Drummondville."
+    }
+  ]
+}

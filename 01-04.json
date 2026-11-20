@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1809,
+      "texte": "Naissance de Louis Braille, inventeur français du système d'écriture pour les aveugles qui porte son nom."
+    },
+    {
+      "annee": 2010,
+      "texte": "Inauguration à Dubaï du Burj Khalifa, la tour de 828 mètres, plus haut bâtiment du monde, œuvre de l'architecte américain Adrian Smith."
+    },
+    {
+      "annee": 1948,
+      "texte": "La Birmanie accède à l'indépendance vis-à-vis du Royaume-Uni."
+    },
+    {
+      "annee": 1958,
+      "texte": "Spoutnik 1, premier satellite artificiel de l'histoire, rentre dans l'atmosphère et se désintègre."
+    },
+    {
+      "annee": 2004,
+      "texte": "Spirit, le premier des deux robots de la mission Mars Exploration Rover de la NASA, se pose avec succès sur Mars."
+    },
+    {
+      "annee": 1998,
+      "texte": "Une immense tempête de verglas frappe l'est du Canada et le nord-est des États-Unis jusqu'au 10 janvier, causant d'importants dégâts."
+    },
+    {
+      "annee": 2007,
+      "texte": "Nancy Pelosi devient la première femme présidente de la Chambre des représentants des États-Unis."
+    },
+    {
+      "annee": 1863,
+      "texte": "Le New-Yorkais James Plimpton obtient un brevet d'invention pour les patins à roulettes."
+    }
+  ]
+}

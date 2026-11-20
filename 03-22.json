@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1909,
+      "texte": "Naissance de Gabrielle Roy, écrivaine canadienne."
+    },
+    {
+      "annee": 1948,
+      "texte": "Naissance d'Andrew Lloyd Webber, compositeur britannique de comédies musicales."
+    },
+    {
+      "annee": 1912,
+      "texte": "Naissance d'Agnes Martin, artiste peintre canado-américaine."
+    },
+    {
+      "annee": 1894,
+      "texte": "La coupe Stanley de hockey sur glace est disputée pour la première fois, à Montréal."
+    },
+    {
+      "annee": 1997,
+      "texte": "La comète Hale-Bopp atteint son point le plus proche de la Terre, à 1,315 unité astronomique."
+    },
+    {
+      "annee": 1963,
+      "texte": "Les Beatles publient leur premier album, « Please Please Me »."
+    },
+    {
+      "annee": 1841,
+      "texte": "Promulgation en France de la loi interdisant le travail des enfants de moins de 8 ans."
+    },
+    {
+      "annee": 1993,
+      "texte": "Intel livre les premières puces Pentium, cadencées à 60 MHz."
+    }
+  ]
+}

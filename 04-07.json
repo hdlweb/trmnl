@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1770,
+      "texte": "Naissance de William Wordsworth, poète britannique."
+    },
+    {
+      "annee": 1891,
+      "texte": "Naissance d'Ole Kirk Christiansen, industriel danois, fondateur du groupe Lego."
+    },
+    {
+      "annee": 1939,
+      "texte": "Naissance de Francis Ford Coppola, réalisateur, producteur et scénariste américain."
+    },
+    {
+      "annee": 1919,
+      "texte": "Naissance de Roger Lemelin, écrivain québécois."
+    },
+    {
+      "annee": 1952,
+      "texte": "Naissance de Gilles Valiquette, auteur-compositeur et interprète québécois."
+    },
+    {
+      "annee": 1969,
+      "texte": "Publication de la première RFC, date symbolique de naissance d'Internet."
+    },
+    {
+      "annee": 1948,
+      "texte": "Les Nations unies créent l'Organisation mondiale de la santé."
+    },
+    {
+      "annee": 1795,
+      "texte": "La Première République française adopte le kilogramme et le gramme comme unités de masse."
+    }
+  ]
+}

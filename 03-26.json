@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1874,
+      "texte": "Naissance de Robert Frost, poète américain."
+    },
+    {
+      "annee": 1911,
+      "texte": "Naissance de Tennessee Williams, dramaturge et poète américain."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance de Pierre Boulez, compositeur et chef d'orchestre français."
+    },
+    {
+      "annee": 1931,
+      "texte": "Naissance de Leonard Nimoy, acteur et réalisateur américain."
+    },
+    {
+      "annee": 1953,
+      "texte": "Jonas Salk annonce le succès de l'essai de son vaccin contre la poliomyélite, le premier mis au point."
+    },
+    {
+      "annee": 1791,
+      "texte": "En France, l'Académie des sciences définit le mètre."
+    },
+    {
+      "annee": 1899,
+      "texte": "En Irak, l'archéologue allemand Robert Koldewey découvre les murailles de l'antique Babylone."
+    },
+    {
+      "annee": 1975,
+      "texte": "Entrée en vigueur de la Convention sur les armes biologiques, premier traité de désarmement à interdire toute une catégorie d'armes."
+    }
+  ]
+}

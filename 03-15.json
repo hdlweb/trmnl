@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1854,
+      "texte": "Naissance d'Emil von Behring, médecin allemand, prix Nobel de médecine en 1901."
+    },
+    {
+      "annee": 1943,
+      "texte": "Naissance de David Cronenberg, réalisateur et scénariste canadien."
+    },
+    {
+      "annee": 1944,
+      "texte": "Naissance de Francis Mankiewicz, réalisateur et scénariste québécois."
+    },
+    {
+      "annee": 1603,
+      "texte": "À Honfleur, Samuel de Champlain prend la mer en direction du Canada avec Gravé du Pont, marchand de Saint-Malo."
+    },
+    {
+      "annee": 1907,
+      "texte": "Premières élections législatives en Finlande : des femmes sont élues dans un Parlement pour la première fois."
+    },
+    {
+      "annee": 2004,
+      "texte": "Des astronomes américains annoncent la découverte de Sedna, le corps céleste le plus éloigné connu du Système solaire."
+    },
+    {
+      "annee": 1956,
+      "texte": "Première à New York de la comédie musicale « My Fair Lady », tirée de « Pygmalion » de George Bernard Shaw."
+    },
+    {
+      "annee": 1892,
+      "texte": "Jesse W. Reno fait breveter à New York le premier escalier mécanique."
+    }
+  ]
+}

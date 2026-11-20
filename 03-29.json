@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1902,
+      "texte": "Naissance de Marcel Aymé, écrivain, scénariste et dialoguiste français."
+    },
+    {
+      "annee": 1949,
+      "texte": "Naissance de Pauline Marois, femme politique, première ministre du Québec de 2012 à 2014."
+    },
+    {
+      "annee": 1943,
+      "texte": "Naissance de Vangelis, musicien grec et compositeur de musiques de films."
+    },
+    {
+      "annee": 1974,
+      "texte": "Des paysans de la province chinoise du Shaanxi découvrent l'armée de terre cuite du premier empereur de Chine, Qin Shi Huang."
+    },
+    {
+      "annee": 1974,
+      "texte": "La sonde Mariner 10 de la NASA devient la première à survoler Mercure."
+    },
+    {
+      "annee": 1982,
+      "texte": "Élisabeth II donne la sanction royale à la Loi de 1982 sur le Canada, qui permet le rapatriement de la Constitution."
+    },
+    {
+      "annee": 1867,
+      "texte": "La reine Victoria donne la sanction royale à l'Acte de l'Amérique du Nord britannique, qui crée le Canada le 1er juillet."
+    },
+    {
+      "annee": 1632,
+      "texte": "Signature du traité de Saint-Germain-en-Laye : la Nouvelle-France, prise par les Anglais en 1629, redevient française."
+    }
+  ]
+}

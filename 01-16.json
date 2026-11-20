@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1970,
+      "texte": "Le Canada annonce sa conversion au système métrique."
+    },
+    {
+      "annee": 1605,
+      "texte": "Publication à Madrid de la première partie de « Don Quichotte », de Miguel de Cervantes."
+    },
+    {
+      "annee": 1969,
+      "texte": "Soyouz 4 et Soyouz 5 réalisent le premier amarrage de vaisseaux habités en orbite et le premier transfert d'équipage de l'un à l'autre."
+    },
+    {
+      "annee": 1964,
+      "texte": "Première à Broadway de la comédie musicale « Hello, Dolly! », qui remportera dix prix Tony."
+    },
+    {
+      "annee": 1913,
+      "texte": "Le mathématicien indien Srinivasa Ramanujan écrit sa première lettre à G. H. Hardy, à Cambridge, début d'une longue correspondance."
+    },
+    {
+      "annee": 1901,
+      "texte": "Naissance de Frank Zamboni, homme d'affaires et inventeur américain."
+    },
+    {
+      "annee": 1933,
+      "texte": "Naissance de Susan Sontag, romancière, essayiste et critique américaine."
+    },
+    {
+      "annee": 2020,
+      "texte": "Le Sénat américain ratifie l'Accord Canada–États-Unis–Mexique, qui remplace l'ALENA."
+    }
+  ]
+}

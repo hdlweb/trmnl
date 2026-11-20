@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1875,
+      "texte": "Naissance d'Albert Schweitzer, médecin et philosophe alsacien, prix Nobel de la paix en 1952."
+    },
+    {
+      "annee": 1841,
+      "texte": "Naissance de Berthe Morisot, peintre française."
+    },
+    {
+      "annee": 1850,
+      "texte": "Naissance de Pierre Loti, officier de marine et écrivain français."
+    },
+    {
+      "annee": 1506,
+      "texte": "Découverte à Rome du groupe du Laocoon, considéré comme l'un des chefs-d'œuvre de l'art antique."
+    },
+    {
+      "annee": 1900,
+      "texte": "Création à Rome de « Tosca », l'opéra de Giacomo Puccini tiré de la pièce de Victorien Sardou."
+    },
+    {
+      "annee": 1973,
+      "texte": "Première retransmission en direct par satellite d'un concert dans le monde entier : Elvis Presley, à Honolulu, devant 1,5 milliard de téléspectateurs."
+    },
+    {
+      "annee": 1972,
+      "texte": "Margrethe II monte sur le trône du Danemark, première reine du pays depuis 1412."
+    },
+    {
+      "annee": 1784,
+      "texte": "Le Congrès des États-Unis ratifie le traité de Paris, qui met fin à la guerre d'indépendance."
+    }
+  ]
+}

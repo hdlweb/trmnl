@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1948,
+      "texte": "Le fleurdelisé est adopté comme drapeau officiel du Québec."
+    },
+    {
+      "annee": 1954,
+      "texte": "Les États-Unis lancent l'USS Nautilus, le premier sous-marin à propulsion nucléaire."
+    },
+    {
+      "annee": 1919,
+      "texte": "Réuni à Dublin, le Dáil Éireann adopte une déclaration d'indépendance de l'Irlande."
+    },
+    {
+      "annee": 1789,
+      "texte": "Publication à Boston de « The Power of Sympathy », de William Hill Brown, considéré comme le premier roman américain."
+    },
+    {
+      "annee": 1976,
+      "texte": "Début de l'exploitation commerciale du Concorde, avion supersonique franco-britannique."
+    },
+    {
+      "annee": 1981,
+      "texte": "La DeLorean Motor Company termine la première voiture de série DMC DeLorean, dans son usine d'Irlande du Nord."
+    },
+    {
+      "annee": 1793,
+      "texte": "Premier débat sur les langues à la Chambre d'assemblée du Bas-Canada : le procès-verbal sera tenu en français et en anglais."
+    },
+    {
+      "annee": 1911,
+      "texte": "Premier Rallye automobile de Monte-Carlo."
+    }
+  ]
+}

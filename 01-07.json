@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1914,
+      "texte": "Un premier navire franchit le canal de Panama."
+    },
+    {
+      "annee": 1610,
+      "texte": "Avec sa lunette, Galilée observe pour la première fois les satellites de Jupiter : Io, Europe, Ganymède et Callisto."
+    },
+    {
+      "annee": 1827,
+      "texte": "Naissance de Sandford Fleming, ingénieur et inventeur canadien d'origine écossaise, créateur de l'heure normale universelle."
+    },
+    {
+      "annee": 1899,
+      "texte": "Naissance de Francis Poulenc, pianiste et compositeur français."
+    },
+    {
+      "annee": 1955,
+      "texte": "La contralto Marian Anderson devient la première personne noire à chanter au Metropolitan Opera de New York."
+    },
+    {
+      "annee": 1939,
+      "texte": "La physicienne française Marguerite Perey identifie le francium, dernier élément découvert dans la nature plutôt que par synthèse."
+    },
+    {
+      "annee": 1927,
+      "texte": "Ouverture du premier service téléphonique commercial transatlantique, entre New York et Londres."
+    },
+    {
+      "annee": 1954,
+      "texte": "Expérience Georgetown-IBM : première démonstration publique d'un système de traduction automatique, au siège d'IBM à New York."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1658,
+      "texte": "Naissance d'Antoine de Lamothe-Cadillac, personnalité de la Nouvelle-France, gouverneur de la Louisiane."
+    },
+    {
+      "annee": 1887,
+      "texte": "Naissance de Heitor Villa-Lobos, guitariste et compositeur brésilien."
+    },
+    {
+      "annee": 1934,
+      "texte": "Naissance de Daniel Kahneman, économiste et psychologue israélien, lauréat du prix Nobel d'économie en 2002."
+    },
+    {
+      "annee": 1973,
+      "texte": "Naissance de Nelly Arcan, romancière québécoise."
+    },
+    {
+      "annee": 1982,
+      "texte": "La sonde spatiale soviétique Venera 14 se pose sur Vénus."
+    },
+    {
+      "annee": 1946,
+      "texte": "Dans un discours de Churchill, l'expression « rideau de fer » désigne pour la première fois la séparation entre l'Europe de l'Ouest et de l'Est."
+    },
+    {
+      "annee": 1872,
+      "texte": "George Westinghouse fait breveter le frein à air."
+    },
+    {
+      "annee": 1981,
+      "texte": "Sinclair Research lance le ZX81, ordinateur domestique britannique pionnier vendu à plus de 1,5 million d'exemplaires."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1892,
+      "texte": "Naissance de J. R. R. Tolkien, philologue, poète et écrivain britannique."
+    },
+    {
+      "annee": 1929,
+      "texte": "Naissance de Sergio Leone, réalisateur, producteur et scénariste italien."
+    },
+    {
+      "annee": 2019,
+      "texte": "La sonde chinoise Chang'e 4 devient le premier engin spatial à se poser sur la face cachée de la Lune et y dépose le rover Yutu-2."
+    },
+    {
+      "annee": 2009,
+      "texte": "Satoshi Nakamoto crée le premier bloc de la chaîne du bitcoin, le « bloc genèse »."
+    },
+    {
+      "annee": 1888,
+      "texte": "Mise en service de l'observatoire Lick, dont la lunette astronomique est alors la plus grande du monde."
+    },
+    {
+      "annee": 1957,
+      "texte": "La Hamilton Watch Company présente la première montre électrique."
+    },
+    {
+      "annee": 1521,
+      "texte": "À Rome, le pape Léon X excommunie Martin Luther."
+    },
+    {
+      "annee": 1938,
+      "texte": "Fondation aux États-Unis de l'organisme March of Dimes, pour recueillir des fonds pour la recherche sur la poliomyélite."
+    }
+  ]
+}

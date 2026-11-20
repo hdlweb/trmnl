@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1706,
+      "texte": "Naissance de Benjamin Franklin, éditeur, physicien, inventeur et homme politique américain."
+    },
+    {
+      "annee": 1820,
+      "texte": "Naissance d'Anne Brontë, romancière et poétesse britannique."
+    },
+    {
+      "annee": 1946,
+      "texte": "Première réunion du Conseil de sécurité des Nations unies."
+    },
+    {
+      "annee": 1562,
+      "texte": "En France, l'édit de Saint-Germain accorde une tolérance religieuse limitée aux protestants."
+    },
+    {
+      "annee": 1773,
+      "texte": "Lors du deuxième voyage de James Cook, le HMS Resolution devient le premier navire à franchir le cercle polaire antarctique."
+    },
+    {
+      "annee": 1912,
+      "texte": "L'explorateur britannique Robert Falcon Scott atteint le pôle Sud, devancé d'environ un mois par Roald Amundsen."
+    },
+    {
+      "annee": 1961,
+      "texte": "Dans son discours d'adieu, trois jours avant la fin de son mandat, Dwight D. Eisenhower met en garde contre le « complexe militaro-industriel »."
+    },
+    {
+      "annee": 1861,
+      "texte": "Thomas Crapper dépose un brevet pour des toilettes à chasse d'eau."
+    }
+  ]
+}

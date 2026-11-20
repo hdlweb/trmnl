@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1947,
+      "texte": "Pan American devient la première compagnie aérienne à proposer un billet pour un tour du monde."
+    },
+    {
+      "annee": 1912,
+      "texte": "Le géophysicien allemand Alfred Wegener présente sa théorie de la dérive des continents, précurseur de la tectonique des plaques."
+    },
+    {
+      "annee": 1907,
+      "texte": "À Rome, Maria Montessori ouvre sa première école pour les enfants d'ouvriers, selon la pédagogie qui porte aujourd'hui son nom."
+    },
+    {
+      "annee": 1941,
+      "texte": "Dans son discours sur l'état de l'Union, Roosevelt présente les « Four Freedoms », quatre libertés fondamentales dont tous devraient jouir."
+    },
+    {
+      "annee": 1832,
+      "texte": "Naissance de Gustave Doré, illustrateur, peintre et sculpteur français."
+    },
+    {
+      "annee": 1745,
+      "texte": "Naissance de Jacques-Étienne de Montgolfier, inventeur français, co-inventeur de la montgolfière."
+    },
+    {
+      "annee": 1883,
+      "texte": "Naissance de Khalil Gibran, poète, peintre et philosophe libano-américain."
+    },
+    {
+      "annee": 2025,
+      "texte": "Justin Trudeau annonce sa démission comme chef du Parti libéral et premier ministre du Canada, après neuf ans au pouvoir."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1785,
+      "texte": "À Paris, Lavoisier réussit à décomposer l'eau en hydrogène et en oxygène."
+    },
+    {
+      "annee": 1949,
+      "texte": "Les Communes adoptent la loi prévoyant l'entrée de Terre-Neuve dans le Canada."
+    },
+    {
+      "annee": 1881,
+      "texte": "Constitution de la Canadian Pacific Railway par une loi du Parlement, à Ottawa."
+    },
+    {
+      "annee": 1918,
+      "texte": "Le Conseil de Lituanie adopte à l'unanimité l'Acte d'indépendance, qui proclame la Lituanie État indépendant."
+    },
+    {
+      "annee": 1968,
+      "texte": "À Haleyville, en Alabama, mise en service du premier système d'appel d'urgence 9-1-1."
+    },
+    {
+      "annee": 1978,
+      "texte": "Création à Chicago du CBBS, le premier babillard électronique informatique."
+    },
+    {
+      "annee": 1834,
+      "texte": "Naissance d'Ernst Haeckel, biologiste, médecin et philosophe allemand."
+    }
+  ]
+}

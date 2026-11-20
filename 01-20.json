@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1775,
+      "texte": "Naissance d'André-Marie Ampère, physicien et mathématicien français."
+    },
+    {
+      "annee": 1930,
+      "texte": "Naissance de Buzz Aldrin, astronaute américain, deuxième être humain connu à avoir marché sur la Lune."
+    },
+    {
+      "annee": 1986,
+      "texte": "Paris et Londres s'entendent pour construire un tunnel sous la Manche."
+    },
+    {
+      "annee": 1961,
+      "texte": "John F. Kennedy devient le 35e président des États-Unis et prononce son discours d'investiture."
+    },
+    {
+      "annee": 1840,
+      "texte": "Jules Dumont d'Urville découvre la Terre Adélie, en Antarctique."
+    },
+    {
+      "annee": 2009,
+      "texte": "Barack Obama devient le 44e président des États-Unis, le premier président afro-américain du pays."
+    },
+    {
+      "annee": 1265,
+      "texte": "Premier parlement anglais réunissant des lords et des représentants des grandes villes, au palais de Westminster."
+    },
+    {
+      "annee": 2026,
+      "texte": "Mark Carney prononce à Davos son discours « Principes et pragmatisme »."
+    }
+  ]
+}

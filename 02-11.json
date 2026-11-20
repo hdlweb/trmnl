@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1847,
+      "texte": "Naissance de Thomas Edison, inventeur et industriel américain, qui a mis au point l'ampoule électrique et le phonographe."
+    },
+    {
+      "annee": 1990,
+      "texte": "Libération de Nelson Mandela après 27 ans d'incarcération, dont 17 à Robben Island."
+    },
+    {
+      "annee": 1929,
+      "texte": "Les accords du Latran mettent fin à la question romaine en créant l'État de la Cité du Vatican."
+    },
+    {
+      "annee": 1970,
+      "texte": "Avec le satellite Ōsumi, le Japon devient le quatrième pays à mettre un satellite en orbite."
+    },
+    {
+      "annee": 1826,
+      "texte": "Fondation de la London University, future University College London, première université laïque d'Angleterre."
+    },
+    {
+      "annee": 1938,
+      "texte": "La BBC diffuse une adaptation de la pièce « R.U.R. » de Karel Čapek, qui a créé le mot « robot » : la première science-fiction à la télévision."
+    },
+    {
+      "annee": 1800,
+      "texte": "Naissance d'Henry Fox Talbot, photographe britannique, inventeur du calotype."
+    }
+  ]
+}

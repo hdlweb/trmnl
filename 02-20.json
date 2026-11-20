@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1887,
+      "texte": "Naissance de Vincent Massey, avocat et homme politique, 18e gouverneur général du Canada."
+    },
+    {
+      "annee": 1844,
+      "texte": "Naissance de Ludwig Boltzmann, physicien et philosophe autrichien."
+    },
+    {
+      "annee": 1927,
+      "texte": "Naissance de Sidney Poitier, acteur et réalisateur américano-bahaméen."
+    },
+    {
+      "annee": 1912,
+      "texte": "Naissance de Pierre Boulle, écrivain français."
+    },
+    {
+      "annee": 1962,
+      "texte": "À bord de Friendship 7, John Glenn devient le premier Américain en orbite autour de la Terre : trois orbites en 4 h 55."
+    },
+    {
+      "annee": 1872,
+      "texte": "Ouverture à New York du Metropolitan Museum of Art, aujourd'hui le plus grand musée d'art des États-Unis."
+    },
+    {
+      "annee": 1959,
+      "texte": "Le gouvernement Diefenbaker annule le programme Avro CF-105 Arrow d'avions de chasse supersoniques, au milieu d'un vif débat politique."
+    },
+    {
+      "annee": 1816,
+      "texte": "Première à Rome de l'opéra « Le Barbier de Séville » de Gioachino Rossini, au Teatro Argentina, sous les huées du public."
+    }
+  ]
+}

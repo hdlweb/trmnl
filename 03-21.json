@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1768,
+      "texte": "Naissance de Joseph Fourier, mathématicien et physicien français."
+    },
+    {
+      "annee": 1839,
+      "texte": "Naissance de Modeste Moussorgski, compositeur russe."
+    },
+    {
+      "annee": 1904,
+      "texte": "Naissance de Jehane Benoît, gastronome, cuisinière, écrivaine et animatrice québécoise de radio et de télévision."
+    },
+    {
+      "annee": 1923,
+      "texte": "Naissance de Louis-Edmond Hamelin, géographe, professeur et écrivain québécois."
+    },
+    {
+      "annee": 1920,
+      "texte": "Naissance d'Éric Rohmer, réalisateur français."
+    },
+    {
+      "annee": 2006,
+      "texte": "Jack Dorsey envoie le premier message sur le réseau social Twitter."
+    },
+    {
+      "annee": 1985,
+      "texte": "L'athlète paraplégique canadien Rick Hansen entreprend le tour du monde en fauteuil roulant pour la recherche sur la moelle épinière."
+    }
+  ]
+}

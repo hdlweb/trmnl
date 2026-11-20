@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1844,
+      "texte": "Naissance de Nikolaï Rimski-Korsakov, compositeur et théoricien russe."
+    },
+    {
+      "annee": 1842,
+      "texte": "Naissance de Stéphane Mallarmé, poète et critique français."
+    },
+    {
+      "annee": 1858,
+      "texte": "Naissance de Rudolf Diesel, ingénieur allemand, inventeur du moteur Diesel."
+    },
+    {
+      "annee": 1936,
+      "texte": "Naissance de Frederik de Klerk, homme d'État sud-africain, prix Nobel de la paix en 1993."
+    },
+    {
+      "annee": 1987,
+      "texte": "« Le Déclin de l'empire américain », de Denys Arcand, rafle huit prix Génie à Toronto."
+    },
+    {
+      "annee": 1892,
+      "texte": "Le gouverneur général lord Stanley promet un trophée au meilleur club de hockey amateur du Canada : la future coupe Stanley."
+    },
+    {
+      "annee": 1965,
+      "texte": "Le cosmonaute soviétique Alexeï Leonov sort du vaisseau Voskhod 2 et devient le premier homme à marcher dans l'espace."
+    },
+    {
+      "annee": 1990,
+      "texte": "Premières élections libres en Allemagne de l'Est."
+    }
+  ]
+}

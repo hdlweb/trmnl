@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1809,
+      "texte": "Naissance de Charles Darwin, naturaliste, géologue et biologiste britannique."
+    },
+    {
+      "annee": 1809,
+      "texte": "Naissance d'Abraham Lincoln, avocat et homme politique, 16e président des États-Unis."
+    },
+    {
+      "annee": 1924,
+      "texte": "En Égypte, le sarcophage du pharaon Toutânkhamon est ouvert, quinze mois après sa découverte par l'équipe de Howard Carter."
+    },
+    {
+      "annee": 1924,
+      "texte": "Première à New York de « Rhapsody in Blue » de George Gershwin, à l'Aeolian Hall."
+    },
+    {
+      "annee": 2001,
+      "texte": "La sonde NEAR Shoemaker de la NASA se pose sur Éros et devient le premier engin spatial à atterrir sur un astéroïde."
+    },
+    {
+      "annee": 1941,
+      "texte": "Un homme est soigné avec de la pénicilline pour la première fois."
+    },
+    {
+      "annee": 1994,
+      "texte": "À Toronto, Victoria Matthews devient la première femme évêque de l'Église anglicane au Canada."
+    },
+    {
+      "annee": 2016,
+      "texte": "À La Havane, le pape François et le patriarche Kirill tiennent la première rencontre entre chefs des Églises catholique et orthodoxe russe."
+    }
+  ]
+}

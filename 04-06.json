@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1826,
+      "texte": "Naissance de Gustave Moreau, peintre, graveur et dessinateur français."
+    },
+    {
+      "annee": 1928,
+      "texte": "Naissance de James Watson, généticien et biochimiste américain, lauréat du prix Nobel."
+    },
+    {
+      "annee": 1929,
+      "texte": "Naissance d'André Previn, pianiste, chef d'orchestre et compositeur américain."
+    },
+    {
+      "annee": 1896,
+      "texte": "Ouverture à Athènes des premiers Jeux olympiques modernes."
+    },
+    {
+      "annee": 1652,
+      "texte": "Fondation de la ville du Cap par le Néerlandais Jan van Riebeeck."
+    },
+    {
+      "annee": 1974,
+      "texte": "ABBA remporte le concours Eurovision de la chanson pour la Suède avec « Waterloo »."
+    },
+    {
+      "annee": 1968,
+      "texte": "Pierre Elliott Trudeau remporte la direction du Parti libéral et devient peu après premier ministre du Canada."
+    },
+    {
+      "annee": 1965,
+      "texte": "Lancement d'Early Bird, premier satellite de télécommunications commercial placé en orbite géostationnaire."
+    }
+  ]
+}

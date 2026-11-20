@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1965,
+      "texte": "Naissance de Mark Carney, économiste et homme politique, premier ministre du Canada."
+    },
+    {
+      "annee": 1789,
+      "texte": "Naissance de Georg Simon Ohm, physicien et mathématicien allemand."
+    },
+    {
+      "annee": 1750,
+      "texte": "Naissance de Caroline Herschel, astronome britannique d'origine allemande."
+    },
+    {
+      "annee": 1839,
+      "texte": "Naissance de Sully Prudhomme, poète français, premier lauréat du prix Nobel de littérature, en 1901."
+    },
+    {
+      "annee": 1926,
+      "texte": "Naissance de Jerry Lewis, humoriste, acteur et réalisateur américain."
+    },
+    {
+      "annee": 1926,
+      "texte": "À Auburn, au Massachusetts, Robert Goddard lance la première fusée à carburant liquide. Son vol dure 2,5 secondes."
+    },
+    {
+      "annee": 1578,
+      "texte": "Le roi Henri III autorise la construction du pont Neuf, à Paris."
+    },
+    {
+      "annee": 1966,
+      "texte": "Lancement de Gemini 8, avec Neil Armstrong et David Scott, qui réalisera le premier amarrage de deux engins en orbite."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1678,
+      "texte": "Naissance d'Antonio Vivaldi, violoniste et compositeur italien."
+    },
+    {
+      "annee": 1789,
+      "texte": "À New York, première session du Congrès des États-Unis, qui déclare l'entrée en vigueur de la Constitution américaine."
+    },
+    {
+      "annee": 1933,
+      "texte": "Frances Perkins devient secrétaire au Travail des États-Unis, la première femme membre du Cabinet."
+    },
+    {
+      "annee": 1890,
+      "texte": "Inauguration du pont du Forth, pont ferroviaire reliant Édimbourg au Fife, devenu un symbole de l'Écosse."
+    },
+    {
+      "annee": 1837,
+      "texte": "Chicago obtient le statut de ville."
+    },
+    {
+      "annee": 1675,
+      "texte": "Le roi Charles II nomme John Flamsteed premier astronome royal d'Angleterre."
+    },
+    {
+      "annee": 2000,
+      "texte": "Sortie au Japon de la console PlayStation 2 de Sony."
+    },
+    {
+      "annee": 1917,
+      "texte": "Jeannette Rankin, du Montana, devient la première femme membre de la Chambre des représentants des États-Unis."
+    }
+  ]
+}

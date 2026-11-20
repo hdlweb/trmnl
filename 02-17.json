@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1781,
+      "texte": "Naissance de René Laennec, médecin français, créateur du diagnostic par auscultation et inventeur du stéthoscope."
+    },
+    {
+      "annee": 1904,
+      "texte": "Première de l'opéra « Madame Butterfly » de Giacomo Puccini à La Scala de Milan. Mal reçu, il sera révisé par le compositeur."
+    },
+    {
+      "annee": 1939,
+      "texte": "Ferdinand Porsche présente la Volkswagen type 1, dite « Coccinelle »."
+    },
+    {
+      "annee": 1834,
+      "texte": "Louis-Joseph Papineau, Elzéar Bédard et Augustin-Norbert Morin présentent les 92 résolutions à la Chambre d'assemblée du Bas-Canada."
+    },
+    {
+      "annee": 1965,
+      "texte": "Lester B. Pearson annonce que l'âge pour toucher la pension fédérale passera peu à peu de 70 à 65 ans au Canada."
+    },
+    {
+      "annee": 1959,
+      "texte": "Les États-Unis lancent Vanguard 2, le premier satellite météorologique, pour mesurer la répartition de la couverture nuageuse."
+    },
+    {
+      "annee": 1894,
+      "texte": "Le premier moteur diesel fonctionnel de Rudolf Diesel tourne pendant une minute."
+    },
+    {
+      "annee": 1913,
+      "texte": "Ouverture à New York de l'Armory Show, première grande exposition d'art moderne aux États-Unis : 1 600 toiles, d'Ingres à Picasso."
+    }
+  ]
+}

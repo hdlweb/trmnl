@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1828,
+      "texte": "Naissance de Henrik Ibsen, poète et dramaturge norvégien."
+    },
+    {
+      "annee": 1907,
+      "texte": "Naissance de Hugh MacLennan, écrivain, journaliste et enseignant québécois."
+    },
+    {
+      "annee": 1939,
+      "texte": "Naissance de Brian Mulroney, avocat et homme politique, 18e premier ministre du Canada."
+    },
+    {
+      "annee": 1989,
+      "texte": "Naissance de Xavier Dolan, réalisateur, scénariste et acteur québécois."
+    },
+    {
+      "annee": 1956,
+      "texte": "La Tunisie devient indépendante de la France, par la signature du protocole d'accord franco-tunisien."
+    },
+    {
+      "annee": 1852,
+      "texte": "Publication de « Uncle Tom's Cabin » de Harriet Beecher Stowe, qui marquera les mentalités sur l'esclavage aux États-Unis."
+    },
+    {
+      "annee": 1602,
+      "texte": "Fondation de la Compagnie néerlandaise des Indes orientales, la première entreprise à émettre des actions."
+    },
+    {
+      "annee": 1987,
+      "texte": "La zidovudine devient le premier traitement contre le VIH/sida approuvé par la FDA américaine."
+    }
+  ]
+}

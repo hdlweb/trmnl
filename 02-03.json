@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1809,
+      "texte": "Naissance de Felix Mendelssohn, pianiste, compositeur et chef d'orchestre allemand."
+    },
+    {
+      "annee": 1898,
+      "texte": "Naissance d'Alvar Aalto, architecte finlandais."
+    },
+    {
+      "annee": 1909,
+      "texte": "Naissance de Simone Weil, philosophe française."
+    },
+    {
+      "annee": 1966,
+      "texte": "La sonde soviétique Luna 9 réussit le premier atterrissage en douceur sur la Lune et prend les premières photos de sa surface."
+    },
+    {
+      "annee": 1958,
+      "texte": "La Belgique, les Pays-Bas et le Luxembourg signent le traité qui crée le Benelux."
+    },
+    {
+      "annee": 1986,
+      "texte": "Steve Jobs achète Pixar à Lucasfilm et en fait un studio d'animation par ordinateur indépendant."
+    },
+    {
+      "annee": 1690,
+      "texte": "La colonie du Massachusetts émet le premier papier-monnaie des Amériques."
+    },
+    {
+      "annee": 1830,
+      "texte": "Signature de la version définitive du traité de Londres, qui reconnaît l'indépendance de la Grèce."
+    }
+  ]
+}

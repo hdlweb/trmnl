@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1749,
+      "texte": "Naissance de Pierre-Simon de Laplace, mathématicien et astronome français."
+    },
+    {
+      "annee": 1882,
+      "texte": "Naissance d'Emmy Noether, mathématicienne et physicienne allemande."
+    },
+    {
+      "annee": 1910,
+      "texte": "Naissance d'Akira Kurosawa, réalisateur, producteur et scénariste japonais."
+    },
+    {
+      "annee": 1881,
+      "texte": "Naissance de Roger Martin du Gard, écrivain français, prix Nobel de littérature en 1937."
+    },
+    {
+      "annee": 1857,
+      "texte": "À New York, inauguration du premier ascenseur installé dans un grand magasin, construit par Elisha Otis."
+    },
+    {
+      "annee": 1782,
+      "texte": "Première édition des « Liaisons dangereuses » de Choderlos de Laclos : deux mille exemplaires, vendus en un mois."
+    },
+    {
+      "annee": 1965,
+      "texte": "La NASA lance Gemini 3, premier vol spatial américain à deux, avec Gus Grissom et John Young."
+    },
+    {
+      "annee": 1996,
+      "texte": "Lee Teng-hui est élu président lors de la première élection présidentielle directe à Taïwan."
+    }
+  ]
+}

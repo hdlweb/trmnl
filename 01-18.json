@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1689,
+      "texte": "Naissance de Montesquieu, juriste et philosophe français."
+    },
+    {
+      "annee": 1882,
+      "texte": "Naissance d'A. A. Milne, écrivain, poète et dramaturge britannique."
+    },
+    {
+      "annee": 1958,
+      "texte": "Willie O'Ree joue son premier match avec les Bruins de Boston et devient le premier joueur noir canadien de la LNH."
+    },
+    {
+      "annee": 1778,
+      "texte": "James Cook découvre l'archipel d'Hawaï, qu'il nomme « îles Sandwich »."
+    },
+    {
+      "annee": 1871,
+      "texte": "Formation de l'Empire allemand par l'unification des États allemands, sous l'autorité de l'empereur Guillaume Ier."
+    },
+    {
+      "annee": 1933,
+      "texte": "Naissance de Ray Dolby, ingénieur américain, fondateur des Laboratoires Dolby."
+    },
+    {
+      "annee": 1535,
+      "texte": "Francisco Pizarro fonde la ville de Lima, l'actuelle capitale du Pérou."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance de Gilles Deleuze, philosophe français."
+    }
+  ]
+}

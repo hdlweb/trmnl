@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1885,
+      "texte": "Naissance de Sacha Guitry, acteur, auteur dramatique et cinéaste français."
+    },
+    {
+      "annee": 1903,
+      "texte": "Naissance de Raymond Queneau, écrivain et poète français."
+    },
+    {
+      "annee": 1907,
+      "texte": "Naissance de W. H. Auden, poète et critique britannique."
+    },
+    {
+      "annee": 1972,
+      "texte": "Richard Nixon est le premier président américain à visiter la république populaire de Chine."
+    },
+    {
+      "annee": 1804,
+      "texte": "Au pays de Galles, pour la première fois de l'histoire, une locomotive à vapeur, construite par Richard Trevithick, remorque un train."
+    },
+    {
+      "annee": 1995,
+      "texte": "Steve Fossett atterrit à Leader, en Saskatchewan, et devient le premier à traverser seul le Pacifique en montgolfière."
+    },
+    {
+      "annee": 1947,
+      "texte": "À New York, Edwin H. Land présente le premier appareil photo instantané, le Polaroid, à l'Optical Society of America."
+    },
+    {
+      "annee": 1925,
+      "texte": "Premier numéro du magazine américain The New Yorker."
+    }
+  ]
+}

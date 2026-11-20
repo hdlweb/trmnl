@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1910,
+      "texte": "Naissance de Jacques Monod, biochimiste et généticien français, lauréat du prix Nobel."
+    },
+    {
+      "annee": 1944,
+      "texte": "Naissance d'Alice Walker, romancière, nouvelliste et poétesse américaine."
+    },
+    {
+      "annee": 1936,
+      "texte": "Naissance de Stompin' Tom Connors, chanteur et compositeur country et folk canadien."
+    },
+    {
+      "annee": 1885,
+      "texte": "Naissance d'Alban Berg, compositeur autrichien."
+    },
+    {
+      "annee": 1964,
+      "texte": "Les Beatles font leur première apparition à l'Ed Sullivan Show, devant un auditoire record de 73 millions de téléspectateurs aux États-Unis."
+    },
+    {
+      "annee": 1996,
+      "texte": "À Darmstadt, en Allemagne, des chercheurs du GSI créent pour la première fois l'élément chimique copernicium."
+    },
+    {
+      "annee": 1920,
+      "texte": "Le traité du Svalbard, signé à Paris, reconnaît la souveraineté de la Norvège sur cet archipel arctique et le démilitarise."
+    }
+  ]
+}

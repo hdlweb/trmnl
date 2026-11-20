@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1841,
+      "texte": "Naissance de Clément Ader, ingénieur aéronautique français."
+    },
+    {
+      "annee": 1891,
+      "texte": "Naissance de Max Ernst, peintre, sculpteur et poète."
+    },
+    {
+      "annee": 1755,
+      "texte": "Naissance de Jean Anthelme Brillat-Savarin, magistrat connu surtout comme gastronome et auteur culinaire français."
+    },
+    {
+      "annee": 1939,
+      "texte": "Naissance de Lise Thibault, animatrice et femme politique, 27e lieutenante-gouverneure du Québec."
+    },
+    {
+      "annee": 1647,
+      "texte": "Naissance de Maria Sibylla Merian, naturaliste et artiste peintre allemande."
+    },
+    {
+      "annee": 1968,
+      "texte": "Première à Washington de « 2001: A Space Odyssey », le film de science-fiction de Stanley Kubrick."
+    },
+    {
+      "annee": 1800,
+      "texte": "À Vienne, Ludwig van Beethoven dirige la création de sa Symphonie no 1."
+    },
+    {
+      "annee": 1991,
+      "texte": "Rita Johnston devient première ministre de la Colombie-Britannique, la première femme à diriger une province canadienne."
+    }
+  ]
+}

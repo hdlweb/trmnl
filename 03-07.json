@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1765,
+      "texte": "Naissance de Nicéphore Niépce, physicien français, considéré comme l'un des inventeurs de la photographie."
+    },
+    {
+      "annee": 1875,
+      "texte": "Naissance de Maurice Ravel, pianiste, compositeur et chef d'orchestre français."
+    },
+    {
+      "annee": 1872,
+      "texte": "Naissance de Piet Mondrian, peintre néerlandais."
+    },
+    {
+      "annee": 1936,
+      "texte": "Naissance de Georges Perec, écrivain français."
+    },
+    {
+      "annee": 1876,
+      "texte": "Alexander Graham Bell obtient aux États-Unis le brevet d'une invention qu'il appelle « téléphone »."
+    },
+    {
+      "annee": 1524,
+      "texte": "Le navigateur florentin Giovanni da Verrazzano prend pied en Amérique du Nord, près du cap Fear, pour le roi de France François Ier."
+    },
+    {
+      "annee": 2009,
+      "texte": "Lancement du télescope spatial Kepler, conçu pour découvrir des planètes semblables à la Terre autour d'autres étoiles."
+    },
+    {
+      "annee": 1985,
+      "texte": "Sortie de « We Are the World » de USA for Africa, écrite par Michael Jackson et Lionel Richie contre la famine en Éthiopie."
+    }
+  ]
+}

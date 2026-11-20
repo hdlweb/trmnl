@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1901,
+      "texte": "Naissance de Linus Pauling, chimiste américain, prix Nobel de chimie en 1954 et prix Nobel de la paix en 1962."
+    },
+    {
+      "annee": 1929,
+      "texte": "Naissance de Frank Gehry, architecte canado-américain."
+    },
+    {
+      "annee": 1928,
+      "texte": "Le physicien indien C. V. Raman découvre la diffusion Raman, qui fera de lui le premier Asiatique lauréat du prix Nobel de physique."
+    },
+    {
+      "annee": 1977,
+      "texte": "Création de Via Rail, société d'État distincte du Canadien National, pour assurer le service aux passagers."
+    },
+    {
+      "annee": 1838,
+      "texte": "Robert Nelson, chef des Patriotes, proclame l'indépendance du Bas-Canada."
+    },
+    {
+      "annee": 1957,
+      "texte": "Gaston Lagaffe, créé par Franquin, fait son entrée dans le journal Spirou. C'est le premier antihéros de la bande dessinée."
+    },
+    {
+      "annee": 2013,
+      "texte": "Benoît XVI renonce à la papauté, une première depuis près de 600 ans."
+    },
+    {
+      "annee": 1835,
+      "texte": "Elias Lönnrot signe la préface de la première version du Kalevala, l'épopée nationale finlandaise."
+    }
+  ]
+}

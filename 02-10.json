@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1763,
+      "texte": "Par la signature du traité de Paris, Louis XV renonce à la Nouvelle-France et récupère les Antilles, mettant fin à la guerre de Sept Ans."
+    },
+    {
+      "annee": 1841,
+      "texte": "Naissance de la province du Canada par la fusion du Bas et du Haut-Canada, prévue par l'Acte d'Union."
+    },
+    {
+      "annee": 1939,
+      "texte": "Naissance d'Adrienne Clarkson, journaliste et femme politique canadienne, 26e gouverneure générale du Canada."
+    },
+    {
+      "annee": 1947,
+      "texte": "Naissance de Louise Arbour, juriste canadienne, haute-commissaire des Nations unies aux droits de l'homme."
+    },
+    {
+      "annee": 1996,
+      "texte": "L'ordinateur Deep Blue d'IBM bat le champion du monde d'échecs Garry Kasparov, une première en conditions de tournoi."
+    },
+    {
+      "annee": 1940,
+      "texte": "Sortie en salle de « Puss Gets the Boot », le premier dessin animé de Tom and Jerry."
+    },
+    {
+      "annee": 1840,
+      "texte": "Mariage de la reine Victoria du Royaume-Uni avec le prince Albert de Saxe-Cobourg-Gotha."
+    },
+    {
+      "annee": 2005,
+      "texte": "Premières élections de l'histoire de l'Arabie saoudite, en l'occurrence municipales."
+    }
+  ]
+}

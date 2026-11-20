@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1813,
+      "texte": "Naissance de David Livingstone, missionnaire et explorateur écossais."
+    },
+    {
+      "annee": 1900,
+      "texte": "Naissance de Frédéric Joliot-Curie, physicien français, prix Nobel de chimie en 1935."
+    },
+    {
+      "annee": 1888,
+      "texte": "Naissance de Josef Albers, peintre et enseignant de l'art allemand."
+    },
+    {
+      "annee": 1895,
+      "texte": "Tournage du premier film de l'histoire du cinématographe, « La Sortie de l'usine Lumière à Lyon »."
+    },
+    {
+      "annee": 1946,
+      "texte": "Quatre anciennes colonies françaises, la Guadeloupe, la Martinique, la Guyane et La Réunion, deviennent des départements."
+    },
+    {
+      "annee": 1962,
+      "texte": "Bob Dylan publie son premier album, composé surtout de chansons traditionnelles de folk, de blues et de gospel."
+    },
+    {
+      "annee": 1563,
+      "texte": "Signature de l'édit d'Amboise, qui met fin à la première guerre de Religion en France."
+    },
+    {
+      "annee": 2008,
+      "texte": "Observation du sursaut gamma GRB 080319B, l'objet le plus lointain jamais visible à l'œil nu depuis la Terre."
+    }
+  ]
+}

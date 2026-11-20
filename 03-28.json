@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1868,
+      "texte": "Naissance de Maxime Gorki, écrivain russe."
+    },
+    {
+      "annee": 1928,
+      "texte": "Naissance d'Alexandre Grothendieck, mathématicien français."
+    },
+    {
+      "annee": 1936,
+      "texte": "Naissance de Mario Vargas Llosa, écrivain péruvien, prix Nobel de littérature en 2010."
+    },
+    {
+      "annee": 1592,
+      "texte": "Naissance de Comenius, philosophe, grammairien et pédagogue tchèque."
+    },
+    {
+      "annee": 1882,
+      "texte": "Avec les lois Jules Ferry, l'enseignement primaire en France, déjà gratuit, devient laïc et obligatoire."
+    },
+    {
+      "annee": 1949,
+      "texte": "Le physicien britannique Fred Hoyle invente le terme « Big Bang » lors d'une émission de la BBC."
+    },
+    {
+      "annee": 1910,
+      "texte": "Premier vol de l'hydravion d'Henri Fabre, sur l'étang de Berre : il devient le premier à faire voler un hydravion."
+    },
+    {
+      "annee": 1842,
+      "texte": "Premier concert de l'Orchestre philharmonique de Vienne, sous la direction d'Otto Nicolai."
+    }
+  ]
+}

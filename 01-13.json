@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1898,
+      "texte": "Émile Zola publie « J'accuse…! » dans le quotidien L'Aurore, au cœur de l'affaire Dreyfus."
+    },
+    {
+      "annee": 1993,
+      "texte": "Signature de la convention sur l'interdiction des armes chimiques."
+    },
+    {
+      "annee": 1969,
+      "texte": "Le groupe rock britannique Led Zeppelin sort son premier album aux États-Unis."
+    },
+    {
+      "annee": 1968,
+      "texte": "Johnny Cash enregistre en direct son album « At Folsom Prison », à la prison d'État de Folsom, en Californie."
+    },
+    {
+      "annee": 1990,
+      "texte": "Douglas Wilder devient en Virginie le premier Afro-Américain élu gouverneur d'un État américain."
+    },
+    {
+      "annee": 1966,
+      "texte": "Robert C. Weaver devient le premier Afro-Américain membre du cabinet des États-Unis, comme secrétaire au Logement."
+    },
+    {
+      "annee": 1864,
+      "texte": "Naissance de Wilhelm Wien, physicien allemand, prix Nobel de physique en 1911."
+    },
+    {
+      "annee": 1927,
+      "texte": "Naissance de Sydney Brenner, biologiste sud-africain, prix Nobel de médecine en 2002."
+    }
+  ]
+}

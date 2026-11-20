@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1847,
+      "texte": "Naissance d'Alexander Graham Bell, scientifique, ingénieur et inventeur du téléphone."
+    },
+    {
+      "annee": 1678,
+      "texte": "Naissance de Madeleine de Verchères, héroïne de la Nouvelle-France."
+    },
+    {
+      "annee": 1845,
+      "texte": "Naissance de Georg Cantor, mathématicien et philosophe allemand."
+    },
+    {
+      "annee": 1875,
+      "texte": "Création de l'opéra « Carmen » de Georges Bizet à l'Opéra-Comique de Paris."
+    },
+    {
+      "annee": 1875,
+      "texte": "Premier match de hockey sur glace intérieur, à la patinoire Victoria de Montréal, par James Creighton et des étudiants de McGill."
+    },
+    {
+      "annee": 1861,
+      "texte": "Le tsar Alexandre II décide l'abolition du servage en Russie."
+    },
+    {
+      "annee": 1915,
+      "texte": "Création du NACA, qui deviendra la NASA en 1958."
+    },
+    {
+      "annee": 1923,
+      "texte": "Le magazine américain Time publie son premier numéro."
+    }
+  ]
+}

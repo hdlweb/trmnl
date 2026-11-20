@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1881,
+      "texte": "Naissance de Béla Bartók, compositeur et pianiste hongrois."
+    },
+    {
+      "annee": 1908,
+      "texte": "Naissance de David Lean, réalisateur, producteur et scénariste britannique."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance de Flannery O'Connor, nouvelliste et romancière américaine."
+    },
+    {
+      "annee": 1593,
+      "texte": "Naissance de Jean de Brébeuf, missionnaire jésuite français au Canada."
+    },
+    {
+      "annee": 1957,
+      "texte": "Signature du traité de Rome, qui institue la Communauté économique européenne et le marché commun européen."
+    },
+    {
+      "annee": 1655,
+      "texte": "L'astronome néerlandais Christian Huygens découvre Titan, le plus gros satellite naturel de Saturne."
+    },
+    {
+      "annee": 1995,
+      "texte": "Le programmeur américain Ward Cunningham met en ligne WikiWikiWeb, le premier wiki au monde."
+    },
+    {
+      "annee": 1730,
+      "texte": "François Poulin de Francheville crée les Forges du Saint-Maurice, à Trois-Rivières, première industrie lourde du Canada."
+    }
+  ]
+}

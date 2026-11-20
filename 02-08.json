@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1828,
+      "texte": "Naissance de Jules Verne, écrivain français."
+    },
+    {
+      "annee": 1834,
+      "texte": "Naissance de Dmitri Mendeleïev, chimiste russe."
+    },
+    {
+      "annee": 1932,
+      "texte": "Naissance de John Williams, compositeur et chef d'orchestre américain de musiques de films."
+    },
+    {
+      "annee": 1879,
+      "texte": "Sandford Fleming propose pour la première fois l'adoption de l'heure normale universelle, devant le Royal Canadian Institute."
+    },
+    {
+      "annee": 1960,
+      "texte": "Début officiel des travaux du Walk of Fame, à Hollywood."
+    },
+    {
+      "annee": 1910,
+      "texte": "William D. Boyce fonde les Boy Scouts of America."
+    },
+    {
+      "annee": 1575,
+      "texte": "Guillaume d'Orange fonde l'université de Leyde, la plus ancienne des Pays-Bas."
+    },
+    {
+      "annee": 1693,
+      "texte": "Charte du College of William & Mary, aujourd'hui la deuxième plus ancienne université des États-Unis."
+    }
+  ]
+}

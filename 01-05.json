@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1941,
+      "texte": "Naissance d'Hayao Miyazaki, animateur, réalisateur, scénariste et mangaka japonais."
+    },
+    {
+      "annee": 1855,
+      "texte": "Naissance de King Camp Gillette, ingénieur et homme d'affaires américain, inventeur du rasoir de sûreté."
+    },
+    {
+      "annee": 1933,
+      "texte": "Début de la construction du pont du Golden Gate, à l'entrée de la baie de San Francisco."
+    },
+    {
+      "annee": 1875,
+      "texte": "Inauguration à Paris du palais Garnier, l'un des opéras les plus célèbres du monde."
+    },
+    {
+      "annee": 2005,
+      "texte": "Découverte de la planète naine Éris à l'observatoire Palomar. Elle mènera l'UAI à définir pour la première fois le terme « planète »."
+    },
+    {
+      "annee": 1925,
+      "texte": "Nellie Tayloe Ross devient gouverneure du Wyoming, la première femme à diriger un État américain."
+    },
+    {
+      "annee": 1972,
+      "texte": "Le président américain Richard Nixon annonce le programme de la navette spatiale."
+    },
+    {
+      "annee": 1921,
+      "texte": "Naissance de Friedrich Dürrenmatt, écrivain et dramaturge suisse."
+    }
+  ]
+}

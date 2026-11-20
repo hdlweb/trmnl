@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1788,
+      "texte": "Naissance de Lord Byron, poète et dramaturge anglais."
+    },
+    {
+      "annee": 1561,
+      "texte": "Naissance de Francis Bacon, philosophe, écrivain et homme politique anglais."
+    },
+    {
+      "annee": 1963,
+      "texte": "Charles de Gaulle et Konrad Adenauer signent le traité de l'Élysée, traité d'amitié et de coopération entre la France et l'Allemagne."
+    },
+    {
+      "annee": 1992,
+      "texte": "La navette Discovery décolle avec Roberta Bondar, qui devient la première Canadienne et la première neurologue dans l'espace."
+    },
+    {
+      "annee": 1968,
+      "texte": "Lancement d'Apollo 5, qui emporte dans l'espace le premier module lunaire."
+    },
+    {
+      "annee": 2006,
+      "texte": "Evo Morales devient président de la Bolivie, le premier président autochtone du pays."
+    },
+    {
+      "annee": 1506,
+      "texte": "Arrivée au Vatican du premier contingent de 150 gardes suisses."
+    },
+    {
+      "annee": 1924,
+      "texte": "Ramsay MacDonald devient le premier premier ministre travailliste du Royaume-Uni."
+    }
+  ]
+}

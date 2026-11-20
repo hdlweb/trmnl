@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1845,
+      "texte": "Naissance de Wilhelm Röntgen, physicien allemand, premier prix Nobel de physique, en 1901."
+    },
+    {
+      "annee": 1797,
+      "texte": "Naissance d'Alfred de Vigny, écrivain, poète et dramaturge français."
+    },
+    {
+      "annee": 1886,
+      "texte": "Naissance de Ludwig Mies van der Rohe, architecte allemand, concepteur du Seagram Building."
+    },
+    {
+      "annee": 1963,
+      "texte": "Naissance de Quentin Tarantino, réalisateur, producteur, scénariste et acteur américain."
+    },
+    {
+      "annee": 1802,
+      "texte": "Signature de la paix d'Amiens entre la France, l'Espagne et la République batave d'une part, et le Royaume-Uni d'autre part."
+    },
+    {
+      "annee": 1968,
+      "texte": "Jim Drake et Hoyle Schweitzer déposent le brevet de la planche à voile."
+    },
+    {
+      "annee": 2025,
+      "texte": "Premier vol d'un hélicoptère à hydrogène, depuis l'aéroport Roland-Désourdy de Bromont, au Québec."
+    }
+  ]
+}

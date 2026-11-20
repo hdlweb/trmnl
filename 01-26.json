@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1926,
+      "texte": "À Londres, première véritable démonstration de télévision dans le laboratoire de l'ingénieur John Logie Baird."
+    },
+    {
+      "annee": 1905,
+      "texte": "Découverte en Afrique du Sud du Cullinan, le plus gros diamant brut jamais trouvé : 3 106 carats."
+    },
+    {
+      "annee": 1788,
+      "texte": "Arthur Phillip et la Première Flotte britannique débarquent à Sydney Cove et fondent le premier établissement européen permanent d'Australie."
+    },
+    {
+      "annee": 1950,
+      "texte": "La Constitution de l'Inde entre en vigueur et fait du pays une république. Rajendra Prasad en devient le premier président."
+    },
+    {
+      "annee": 1949,
+      "texte": "Première lumière du télescope Hale, à l'observatoire Palomar, qui restera 28 ans le plus grand télescope optique du monde."
+    },
+    {
+      "annee": 1934,
+      "texte": "Réouverture à Harlem, à New York, de l'Apollo Theater, qui deviendra une grande scène pour les artistes afro-américains."
+    },
+    {
+      "annee": 1852,
+      "texte": "Naissance de Pierre Savorgnan de Brazza, explorateur franco-italien."
+    },
+    {
+      "annee": 1993,
+      "texte": "À Prague, l'ancien opposant au régime communiste Václav Havel est élu président de la toute nouvelle République tchèque."
+    }
+  ]
+}

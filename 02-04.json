@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1794,
+      "texte": "En France, la Convention nationale abolit l'esclavage en métropole et dans les colonies."
+    },
+    {
+      "annee": 1789,
+      "texte": "George Washington est élu à l'unanimité premier président des États-Unis."
+    },
+    {
+      "annee": 1900,
+      "texte": "Naissance de Jacques Prévert, poète, scénariste et dialoguiste français."
+    },
+    {
+      "annee": 1881,
+      "texte": "Naissance de Fernand Léger, peintre et sculpteur français."
+    },
+    {
+      "annee": 1882,
+      "texte": "Naissance d'E. J. Pratt, poète canadien."
+    },
+    {
+      "annee": 2006,
+      "texte": "Création du parti politique québécois Québec solidaire."
+    },
+    {
+      "annee": 1859,
+      "texte": "Constantin von Tischendorf découvre au monastère Sainte-Catherine, en Égypte, le Codex Sinaiticus, une Bible grecque du IVe siècle."
+    },
+    {
+      "annee": 1972,
+      "texte": "La sonde américaine Mariner 9 transmet des photos de la planète Mars."
+    }
+  ]
+}

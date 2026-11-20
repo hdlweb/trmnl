@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1841,
+      "texte": "Naissance de Pierre-Auguste Renoir, peintre et sculpteur français."
+    },
+    {
+      "annee": 1943,
+      "texte": "Naissance de George Harrison, chanteur, compositeur et guitariste britannique des Beatles."
+    },
+    {
+      "annee": 1949,
+      "texte": "Naissance d'Amin Maalouf, journaliste et écrivain français d'origine libanaise."
+    },
+    {
+      "annee": 1917,
+      "texte": "Naissance d'Anthony Burgess, écrivain, dramaturge et critique britannique."
+    },
+    {
+      "annee": 1837,
+      "texte": "Thomas Davenport reçoit un brevet pour le premier moteur électrique utilisable industriellement."
+    },
+    {
+      "annee": 1870,
+      "texte": "Hiram Rhodes Revels, du Mississippi, prête serment au Sénat : il est le premier Afro-Américain à siéger au Congrès des États-Unis."
+    },
+    {
+      "annee": 1986,
+      "texte": "Aux Philippines, la révolution non violente du pouvoir du peuple chasse Ferdinand Marcos. Corazon Aquino devient présidente."
+    },
+    {
+      "annee": 1912,
+      "texte": "Marie-Adélaïde devient la première grande-duchesse régnante de Luxembourg."
+    }
+  ]
+}

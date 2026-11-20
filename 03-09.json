@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1454,
+      "texte": "Naissance d'Amerigo Vespucci, cartographe et explorateur italien, qui a donné son nom aux Amériques."
+    },
+    {
+      "annee": 1963,
+      "texte": "Naissance de Jean-Marc Vallée, réalisateur et scénariste québécois."
+    },
+    {
+      "annee": 1910,
+      "texte": "Naissance de Samuel Barber, pianiste et compositeur américain."
+    },
+    {
+      "annee": 1959,
+      "texte": "La poupée Barbie fait ses débuts à la foire internationale du jouet de New York."
+    },
+    {
+      "annee": 1776,
+      "texte": "Le philosophe écossais Adam Smith publie « The Wealth of Nations », premier traité classique d'économie politique."
+    },
+    {
+      "annee": 1842,
+      "texte": "Première de « Nabucco » de Giuseppe Verdi à La Scala de Milan. Son succès établit la réputation du compositeur."
+    },
+    {
+      "annee": 1869,
+      "texte": "La Compagnie de la Baie d'Hudson cède au Canada les régions de l'Ouest situées entre l'Ontario et les Rocheuses."
+    },
+    {
+      "annee": 1796,
+      "texte": "Napoléon Bonaparte épouse Joséphine de Beauharnais."
+    }
+  ]
+}

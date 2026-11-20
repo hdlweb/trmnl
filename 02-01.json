@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1796,
+      "texte": "York, la future Toronto, devient la capitale du Haut-Canada, à la place de Newark, l'actuelle Niagara-on-the-Lake."
+    },
+    {
+      "annee": 1920,
+      "texte": "Instauration de la Gendarmerie royale du Canada."
+    },
+    {
+      "annee": 1957,
+      "texte": "Fondation de la Comédie-Canadienne."
+    },
+    {
+      "annee": 1882,
+      "texte": "Naissance de Louis Saint-Laurent, avocat, enseignant et homme politique, 12e premier ministre du Canada."
+    },
+    {
+      "annee": 1884,
+      "texte": "Parution du premier fascicule de l'Oxford English Dictionary : 352 pages, de « A » à « ant »."
+    },
+    {
+      "annee": 1896,
+      "texte": "Création de l'opéra « La Bohème » de Giacomo Puccini au Teatro Regio de Turin, sous la direction du jeune Arturo Toscanini."
+    },
+    {
+      "annee": 2009,
+      "texte": "Jóhanna Sigurðardóttir devient la première femme première ministre d'Islande."
+    },
+    {
+      "annee": 1960,
+      "texte": "À Greensboro, en Caroline du Nord, quatre étudiants afro-américains lancent un sit-in contre la ségrégation à un comptoir Woolworth."
+    }
+  ]
+}

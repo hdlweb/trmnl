@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1922,
+      "texte": "Naissance de Jack Kerouac, écrivain et poète américain."
+    },
+    {
+      "annee": 1613,
+      "texte": "Naissance d'André Le Nôtre, jardinier et architecte paysager français."
+    },
+    {
+      "annee": 1821,
+      "texte": "Naissance de John Abbott, avocat et homme politique, 3e premier ministre du Canada."
+    },
+    {
+      "annee": 1912,
+      "texte": "Naissance d'Irving Layton, poète canadien d'origine roumaine."
+    },
+    {
+      "annee": 1930,
+      "texte": "Gandhi entame la marche du sel, une marche non violente contre l'impôt britannique sur le sel en Inde."
+    },
+    {
+      "annee": 2016,
+      "texte": "Pour la première fois, un des meilleurs joueurs de go au monde est vaincu sur un match par un programme informatique, AlphaGo."
+    },
+    {
+      "annee": 1933,
+      "texte": "Franklin D. Roosevelt s'adresse à la nation pour la première fois comme président : c'est la première de ses « fireside chats »."
+    },
+    {
+      "annee": 1913,
+      "texte": "Lors d'une cérémonie à Kurrajong Hill, Lady Denman annonce que la future capitale de l'Australie s'appellera Canberra."
+    }
+  ]
+}

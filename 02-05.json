@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1840,
+      "texte": "Naissance de John Boyd Dunlop, inventeur écossais de la chambre à air et cofondateur de Dunlop Rubber."
+    },
+    {
+      "annee": 1848,
+      "texte": "Naissance de Joris-Karl Huysmans, écrivain et critique français."
+    },
+    {
+      "annee": 1910,
+      "texte": "Naissance de Charles Philippe Leblond, biologiste et universitaire québécois."
+    },
+    {
+      "annee": 1974,
+      "texte": "Après trois mois de voyage, la sonde Mariner 10 passe à moins de 5 800 km de Vénus et transmet les premières photos rapprochées de la planète."
+    },
+    {
+      "annee": 1869,
+      "texte": "Découverte du « Welcome Stranger », à Victoria, en Australie : la plus grosse pépite d'or jamais trouvée, de 65,2 kg."
+    },
+    {
+      "annee": 1919,
+      "texte": "Charlie Chaplin, Mary Pickford, Douglas Fairbanks et D. W. Griffith fondent la société United Artists."
+    },
+    {
+      "annee": 1971,
+      "texte": "Les astronautes d'Apollo 14, Alan Shepard et Edgar Mitchell, se posent sur la Lune."
+    },
+    {
+      "annee": 1985,
+      "texte": "Les maires de Rome et de Carthage signent un traité d'amitié symbolique qui met officiellement fin à la troisième guerre punique."
+    }
+  ]
+}

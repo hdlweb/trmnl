@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1932,
+      "texte": "Naissance de François Truffaut, cinéaste et critique français."
+    },
+    {
+      "annee": 1939,
+      "texte": "Naissance de Jean Beaudin, réalisateur et scénariste québécois."
+    },
+    {
+      "annee": 2006,
+      "texte": "Stephen Harper devient premier ministre du Canada."
+    },
+    {
+      "annee": 1840,
+      "texte": "Signature du traité de Waitangi entre les tribus maories et la Couronne britannique, qui fait de la Nouvelle-Zélande une colonie."
+    },
+    {
+      "annee": 1778,
+      "texte": "À Paris, la France et les États-Unis signent un traité d'amitié et de commerce et un traité d'alliance."
+    },
+    {
+      "annee": 2018,
+      "texte": "Premier vol réussi du lanceur Falcon Heavy de SpaceX, qui met en orbite la voiture Tesla Roadster d'Elon Musk."
+    },
+    {
+      "annee": 1959,
+      "texte": "Jack Kilby, de Texas Instruments, dépose le premier brevet pour un circuit intégré."
+    },
+    {
+      "annee": 1971,
+      "texte": "Alan Shepard se détend en jouant au golf sur la Lune."
+    }
+  ]
+}

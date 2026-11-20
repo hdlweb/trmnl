@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1801,
+      "texte": "L'astronome italien Giuseppe Piazzi découvre Cérès, le plus grand et le premier objet connu de la ceinture d'astéroïdes."
+    },
+    {
+      "annee": 1892,
+      "texte": "Ouverture du poste d'immigration d'Ellis Island, à New York, par lequel passeront près de 12 millions d'immigrants vers les États-Unis."
+    },
+    {
+      "annee": 1863,
+      "texte": "Abraham Lincoln proclame l'émancipation des esclaves de l'Union."
+    },
+    {
+      "annee": 1804,
+      "texte": "Proclamation de l'indépendance de la république d'Haïti vis-à-vis de la France, qui marque la fin de la révolution haïtienne."
+    },
+    {
+      "annee": 1989,
+      "texte": "Entrée en vigueur du protocole de Montréal, qui vise à éliminer les substances qui réduisent la couche d'ozone."
+    },
+    {
+      "annee": 1947,
+      "texte": "La loi sur la citoyenneté canadienne entre en vigueur. Le premier ministre William Lyon Mackenzie King devient le premier citoyen canadien."
+    },
+    {
+      "annee": 1901,
+      "texte": "Fédération de l'Australie."
+    },
+    {
+      "annee": 1919,
+      "texte": "Naissance de J. D. Salinger, soldat et écrivain américain."
+    }
+  ]
+}

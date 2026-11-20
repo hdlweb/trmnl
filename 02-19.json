@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1473,
+      "texte": "Naissance de Nicolas Copernic, chanoine, médecin, mathématicien et astronome polonais."
+    },
+    {
+      "annee": 1876,
+      "texte": "Naissance de Constantin Brâncuși, sculpteur roumain naturalisé français."
+    },
+    {
+      "annee": 1896,
+      "texte": "Naissance d'André Breton, poète et écrivain français."
+    },
+    {
+      "annee": 1964,
+      "texte": "Naissance de Jennifer Doudna, biochimiste américaine, prix Nobel de chimie en 2020."
+    },
+    {
+      "annee": 1961,
+      "texte": "Joseph-Alexandre DeSève et Paul L'Anglais fondent au Québec la station privée CFTM-TV, au canal 10, ancêtre de TVA."
+    },
+    {
+      "annee": 1998,
+      "texte": "Alcan annonce la construction à Alma, au Lac-Saint-Jean, de ce qui sera sa plus grosse aluminerie, au coût de 2,2 milliards de dollars."
+    },
+    {
+      "annee": 1963,
+      "texte": "Publication de « The Feminine Mystique » de Betty Friedan, considéré comme le point de départ de la deuxième vague féministe aux États-Unis."
+    },
+    {
+      "annee": 2002,
+      "texte": "La sonde Mars Odyssey de la NASA commence à cartographier la surface de Mars avec son système d'imagerie thermique."
+    }
+  ]
+}

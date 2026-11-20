@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1792,
+      "texte": "Naissance de Gioachino Rossini, compositeur italien."
+    },
+    {
+      "annee": 1860,
+      "texte": "Naissance de Herman Hollerith, ingénieur américain, inventeur et créateur de l'entreprise qui deviendra IBM."
+    },
+    {
+      "annee": 1908,
+      "texte": "Naissance de Balthus, peintre figuratif français."
+    },
+    {
+      "annee": 1940,
+      "texte": "Hattie McDaniel devient la première personne afro-américaine à remporter un Oscar, pour son rôle dans « Gone with the Wind »."
+    },
+    {
+      "annee": 1984,
+      "texte": "Pierre Trudeau annonce qu'il quitte la direction du Parti libéral et son poste de premier ministre du Canada."
+    },
+    {
+      "annee": 1988,
+      "texte": "Svend Robinson devient le premier député de la Chambre des communes du Canada à afficher publiquement son homosexualité."
+    },
+    {
+      "annee": 2020,
+      "texte": "Le Luxembourg devient le premier pays au monde à rendre gratuits les transports en commun sur tout son territoire."
+    }
+  ]
+}

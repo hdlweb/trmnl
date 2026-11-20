@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1903,
+      "texte": "Naissance de Georges Simenon, écrivain belge de romans policiers."
+    },
+    {
+      "annee": 1958,
+      "texte": "Naissance de Jean-François Lisée, journaliste, écrivain et homme politique québécois."
+    },
+    {
+      "annee": 1973,
+      "texte": "Le rapport Gendron propose le français comme langue officielle du Québec, sous le gouvernement Bourassa."
+    },
+    {
+      "annee": 1895,
+      "texte": "Les frères lyonnais Lumière déposent le brevet du cinématographe."
+    },
+    {
+      "annee": 1867,
+      "texte": "« Le Beau Danube bleu » de Johann Strauss est joué pour la première fois en public."
+    },
+    {
+      "annee": 1960,
+      "texte": "Début des sit-ins de Nashville, campagne non violente d'étudiants afro-américains pour mettre fin à la ségrégation raciale aux États-Unis."
+    },
+    {
+      "annee": 2012,
+      "texte": "L'Agence spatiale européenne lance la première fusée Vega, depuis Kourou, en Guyane française."
+    },
+    {
+      "annee": 1967,
+      "texte": "Des chercheurs américains découvrent à la Bibliothèque nationale d'Espagne les codex de Madrid de Léonard de Vinci."
+    }
+  ]
+}

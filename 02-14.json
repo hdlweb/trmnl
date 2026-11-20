@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1990,
+      "texte": "À six milliards de kilomètres, la sonde Voyager 1 prend la photo de la Terre qui deviendra célèbre sous le nom de « Pale Blue Dot »."
+    },
+    {
+      "annee": 2005,
+      "texte": "Lancement de YouTube par Chad Hurley, Steve Chen et Jawed Karim, conçu au départ comme un site de rencontres vidéo."
+    },
+    {
+      "annee": 1924,
+      "texte": "La Computing-Tabulating-Recording Company devient International Business Machines (IBM)."
+    },
+    {
+      "annee": 1895,
+      "texte": "Première à Londres de « The Importance of Being Earnest », la pièce d'Oscar Wilde."
+    },
+    {
+      "annee": 1920,
+      "texte": "Adoption de la loi qui crée l'Université de Montréal."
+    },
+    {
+      "annee": 1949,
+      "texte": "Début de la grève de l'amiante à Asbestos et Thetford Mines. Elle marque le début de la Révolution tranquille au Québec."
+    },
+    {
+      "annee": 1819,
+      "texte": "Naissance de Christopher Latham Sholes, inventeur américain de la machine à écrire et du clavier QWERTY."
+    },
+    {
+      "annee": 1933,
+      "texte": "Inauguration à Paris de l'horloge parlante par téléphone, inventée par l'astronome Ernest Esclangon."
+    }
+  ]
+}

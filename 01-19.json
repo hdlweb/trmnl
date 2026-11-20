@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1809,
+      "texte": "Naissance d'Edgar Allan Poe, écrivain, poète et critique américain."
+    },
+    {
+      "annee": 1839,
+      "texte": "Naissance de Paul Cézanne, peintre français."
+    },
+    {
+      "annee": 1736,
+      "texte": "Naissance de James Watt, ingénieur écossais."
+    },
+    {
+      "annee": 2006,
+      "texte": "Lancement de la sonde New Horizons, pour l'étude du système de Pluton et de la ceinture de Kuiper."
+    },
+    {
+      "annee": 1966,
+      "texte": "Indira Gandhi devient la première femme première ministre de l'Inde."
+    },
+    {
+      "annee": 1915,
+      "texte": "Georges Claude dépose le brevet de son invention, le tube au néon."
+    },
+    {
+      "annee": 1829,
+      "texte": "Première représentation du « Faust » de Goethe (première partie)."
+    },
+    {
+      "annee": 1920,
+      "texte": "Fondation de l'Union américaine pour les libertés civiles (ACLU)."
+    }
+  ]
+}

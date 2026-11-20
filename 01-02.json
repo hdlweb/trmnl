@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1959,
+      "texte": "Lancement de Luna 1, premier objet lancé par l'homme à échapper à l'attraction terrestre et à se mettre en orbite autour du Soleil."
+    },
+    {
+      "annee": 1988,
+      "texte": "Ronald Reagan et le premier ministre canadien Brian Mulroney signent l'accord de libre-échange entre les États-Unis et le Canada."
+    },
+    {
+      "annee": 2004,
+      "texte": "La sonde Stardust frôle la comète Wild 2 et recueille des particules de sa chevelure, qui seront ramenées sur Terre."
+    },
+    {
+      "annee": 1822,
+      "texte": "Naissance de Rudolf Clausius, physicien et mathématicien allemand."
+    },
+    {
+      "annee": 1818,
+      "texte": "Six ingénieurs fondent l'Institution of Civil Engineers britannique, dont Thomas Telford deviendra plus tard le premier président."
+    },
+    {
+      "annee": 1991,
+      "texte": "Sharon Pratt Dixon devient maire de Washington, la première femme afro-américaine à occuper ce poste."
+    },
+    {
+      "annee": 2021,
+      "texte": "Le Kazakhstan abolit la peine de mort pour tous les crimes."
+    },
+    {
+      "annee": 1837,
+      "texte": "Naissance de Mili Balakirev, pianiste et compositeur russe, fondateur du Groupe des Cinq."
+    }
+  ]
+}

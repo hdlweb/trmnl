@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1564,
+      "texte": "Naissance de Galilée, physicien, mathématicien et astronome italien."
+    },
+    {
+      "annee": 1874,
+      "texte": "Naissance d'Ernest Shackleton, explorateur anglo-irlandais célèbre pour ses expéditions en Antarctique."
+    },
+    {
+      "annee": 1965,
+      "texte": "Le Canada adopte le drapeau à la feuille d'érable, qui remplace le Red Ensign canadien."
+    },
+    {
+      "annee": 1930,
+      "texte": "Cairine Wilson devient la première femme nommée au Sénat du Canada."
+    },
+    {
+      "annee": 1625,
+      "texte": "Samuel de Champlain est confirmé comme lieutenant du vice-roi de la Nouvelle-France."
+    },
+    {
+      "annee": 1971,
+      "texte": "Lors du Decimal Day, le Royaume-Uni et l'Irlande adoptent un système monétaire décimal : cent pence pour une livre."
+    },
+    {
+      "annee": 1946,
+      "texte": "Inauguration à Philadelphie de l'ENIAC, le premier ordinateur électronique polyvalent."
+    },
+    {
+      "annee": 1958,
+      "texte": "Naissance de Chrystine Brouillet, romancière québécoise."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1942,
+      "texte": "Naissance de Stephen Hawking, astrophysicien et auteur britannique."
+    },
+    {
+      "annee": 1823,
+      "texte": "Naissance d'Alfred Russel Wallace, naturaliste, géographe, biologiste et explorateur britannique."
+    },
+    {
+      "annee": 1912,
+      "texte": "Fondation du Congrès national africain, parti politique d'Afrique du Sud."
+    },
+    {
+      "annee": 1679,
+      "texte": "René-Robert Cavelier de La Salle atteint les chutes du Niagara."
+    },
+    {
+      "annee": 1918,
+      "texte": "Le président américain Woodrow Wilson présente ses « Fourteen Points » pour la paix en Europe après la Première Guerre mondiale."
+    },
+    {
+      "annee": 1790,
+      "texte": "George Washington prononce le premier discours sur l'état de l'Union, à New York, alors capitale provisoire des États-Unis."
+    },
+    {
+      "annee": 1959,
+      "texte": "Charles de Gaulle devient le premier président de la Cinquième République française."
+    },
+    {
+      "annee": 1994,
+      "texte": "Le cosmonaute russe Valeri Poliakov part pour Mir, où il restera jusqu'au 22 mars 1995 : un record de 437 jours dans l'espace."
+    }
+  ]
+}

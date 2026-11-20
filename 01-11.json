@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1922,
+      "texte": "Leonard Thompson devient la première personne à recevoir une injection d'insuline."
+    },
+    {
+      "annee": 1935,
+      "texte": "L'aviatrice Amelia Earhart devient la première personne à voler en solitaire entre Hawaï et la Californie."
+    },
+    {
+      "annee": 1964,
+      "texte": "Dans un rapport marquant, le directeur du service de santé publique américain Luther Terry établit le lien entre le tabac et le cancer du poumon."
+    },
+    {
+      "annee": 1787,
+      "texte": "L'astronome William Herschel découvre Titania et Obéron, deux lunes d'Uranus."
+    },
+    {
+      "annee": 1842,
+      "texte": "Naissance de William James, psychologue et philosophe américain."
+    },
+    {
+      "annee": 1909,
+      "texte": "Signature du traité qui crée une Commission mixte internationale sur les eaux limitrophes des États-Unis et du Canada."
+    },
+    {
+      "annee": 1949,
+      "texte": "Premières émissions de télévision « en réseau » : KDKA-TV, à Pittsburgh, relie les programmes de la côte Est et du Midwest."
+    },
+    {
+      "annee": 1569,
+      "texte": "Première loterie connue en Angleterre."
+    }
+  ]
+}

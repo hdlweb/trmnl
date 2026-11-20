@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1929,
+      "texte": "Naissance de Martin Luther King, pasteur et militant américain, prix Nobel de la paix en 1964."
+    },
+    {
+      "annee": 2001,
+      "texte": "Lancement de Wikipédia, une encyclopédie collaborative en ligne basée sur un wiki."
+    },
+    {
+      "annee": 1885,
+      "texte": "Wilson Bentley prend la première photographie connue d'un flocon de neige, en fixant un appareil photo à un microscope."
+    },
+    {
+      "annee": 1967,
+      "texte": "Premier Super Bowl, à Los Angeles : les Packers de Green Bay battent les Chiefs de Kansas City 35 à 10."
+    },
+    {
+      "annee": 1961,
+      "texte": "Naissance d'Yves P. Pelletier, humoriste du groupe Rock et Belles Oreilles, réalisateur, acteur et scénariste québécois."
+    },
+    {
+      "annee": 2009,
+      "texte": "« Miracle on the Hudson » : privé de ses deux moteurs, le vol US Airways 1549 amerrit sur l'Hudson. Les 155 personnes à bord sont sauvées."
+    },
+    {
+      "annee": 1541,
+      "texte": "François Ier mandate Jean-François de Roberval pour établir une colonie en Nouvelle-France."
+    },
+    {
+      "annee": 1850,
+      "texte": "Naissance de Sofia Kovalevskaïa, mathématicienne russe."
+    }
+  ]
+}

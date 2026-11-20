@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1746,
+      "texte": "Naissance de Francisco de Goya, peintre et graveur espagnol."
+    },
+    {
+      "annee": 1844,
+      "texte": "Naissance de Paul Verlaine, poète français."
+    },
+    {
+      "annee": 1853,
+      "texte": "Naissance de Vincent van Gogh, peintre néerlandais."
+    },
+    {
+      "annee": 1945,
+      "texte": "Naissance d'Eric Clapton, guitariste, chanteur et compositeur britannique de blues et de rock."
+    },
+    {
+      "annee": 1928,
+      "texte": "Naissance de Robert Badinter, avocat et homme politique français, ministre de la Justice."
+    },
+    {
+      "annee": 1842,
+      "texte": "L'éther est utilisé pour la première fois comme anesthésique, par le médecin américain Crawford Long."
+    },
+    {
+      "annee": 1950,
+      "texte": "Le Journal de Tintin publie le premier épisode d'« Objectif Lune »."
+    },
+    {
+      "annee": 1900,
+      "texte": "Arthur Evans découvre à Cnossos, en Crète, une grande quantité de tablettes d'argile, écrites dans le linéaire B."
+    }
+  ]
+}

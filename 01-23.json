@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1922,
+      "texte": "À Toronto, début des injections d'insuline pour traiter les diabétiques : Leonard Thompson, 14 ans, reçoit le premier traitement réussi."
+    },
+    {
+      "annee": 1832,
+      "texte": "Naissance d'Édouard Manet, peintre français."
+    },
+    {
+      "annee": 1783,
+      "texte": "Naissance de Stendhal, écrivain et romancier français."
+    },
+    {
+      "annee": 1929,
+      "texte": "Naissance de John Polanyi, chimiste et physicien canadien, lauréat du prix Nobel."
+    },
+    {
+      "annee": 1663,
+      "texte": "Paul de Chomedey de Maisonneuve est nommé gouverneur de Montréal, ville qu'il a fondée en 1642 sous le nom de Ville-Marie."
+    },
+    {
+      "annee": 1960,
+      "texte": "Le bathyscaphe Trieste, avec Jacques Piccard et Don Walsh à son bord, atteint une profondeur record dans la fosse des Mariannes."
+    },
+    {
+      "annee": 1849,
+      "texte": "Elizabeth Blackwell devient la première femme à obtenir un diplôme de médecine aux États-Unis."
+    }
+  ]
+}

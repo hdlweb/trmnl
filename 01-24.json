@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1986,
+      "texte": "La sonde Voyager 2 survole Uranus et y découvre dix nouvelles lunes."
+    },
+    {
+      "annee": 1984,
+      "texte": "Steve Jobs présente le premier Macintosh 128K devant plus de 3 000 personnes."
+    },
+    {
+      "annee": 1848,
+      "texte": "James W. Marshall découvre de l'or à Sutter's Mill, en Californie, ce qui déclenche la ruée vers l'or."
+    },
+    {
+      "annee": 1908,
+      "texte": "Robert Baden-Powell organise en Angleterre la première troupe de scouts."
+    },
+    {
+      "annee": 1935,
+      "texte": "La brasserie Gottfried Krueger met en vente la première bière en canette."
+    },
+    {
+      "annee": 1732,
+      "texte": "Naissance de Beaumarchais, écrivain et dramaturge français."
+    },
+    {
+      "annee": 1941,
+      "texte": "Naissance de Neil Diamond, auteur-compositeur, interprète et guitariste américain."
+    },
+    {
+      "annee": 1857,
+      "texte": "Fondation de l'Université de Calcutta, première université moderne du sous-continent indien."
+    }
+  ]
+}

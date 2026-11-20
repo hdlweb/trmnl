@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1908,
+      "texte": "Naissance de Simone de Beauvoir, philosophe et écrivaine française."
+    },
+    {
+      "annee": 1922,
+      "texte": "Naissance de Har Gobind Khorana, biologiste américain d'origine indienne, prix Nobel de physiologie ou médecine en 1968."
+    },
+    {
+      "annee": 1959,
+      "texte": "Naissance de Rigoberta Menchú, militante des droits de la personne et femme politique guatémaltèque, prix Nobel de la paix en 1992."
+    },
+    {
+      "annee": 1992,
+      "texte": "Les astronomes Aleksander Wolszczan et Dale Frail annoncent la découverte de deux planètes autour d'un pulsar : les premières exoplanètes confirmées."
+    },
+    {
+      "annee": 1960,
+      "texte": "Début des travaux du barrage d'Assouan sur le Nil, en Égypte, cofinancés par l'Union soviétique."
+    },
+    {
+      "annee": 1968,
+      "texte": "La sonde américaine Surveyor 7 se pose sur la Lune."
+    },
+    {
+      "annee": 1923,
+      "texte": "Juan de la Cierva réalise le premier vol en autogire."
+    },
+    {
+      "annee": 1793,
+      "texte": "Jean-Pierre Blanchard devient la première personne à voler en ballon aux États-Unis."
+    }
+  ]
+}

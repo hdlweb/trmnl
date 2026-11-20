@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1783,
+      "texte": "Naissance de Washington Irving, nouvelliste, essayiste et historien américain."
+    },
+    {
+      "annee": 1885,
+      "texte": "Naissance du frère Marie-Victorin, religieux, botaniste et écrivain québécois."
+    },
+    {
+      "annee": 1924,
+      "texte": "Naissance de Marlon Brando, acteur et réalisateur américain."
+    },
+    {
+      "annee": 1948,
+      "texte": "Naissance d'Arlette Cousture, écrivaine québécoise."
+    },
+    {
+      "annee": 2007,
+      "texte": "Sur la LGV Est, un TGV établit le record du monde de vitesse sur rail : 574,8 km/h."
+    },
+    {
+      "annee": 1973,
+      "texte": "Martin Cooper, de Motorola, passe le premier appel depuis un téléphone cellulaire portatif."
+    },
+    {
+      "annee": 1860,
+      "texte": "Début du Pony Express, service postal à cheval entre St. Joseph, au Missouri, et Sacramento, en Californie."
+    },
+    {
+      "annee": 1933,
+      "texte": "Lord Clydesdale et David McIntyre réussissent le premier survol de l'Everest."
+    }
+  ]
+}

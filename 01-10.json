@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1863,
+      "texte": "Ouverture du Metropolitan Railway entre Paddington et Farringdon : c'est le début du métro de Londres, le plus ancien au monde."
+    },
+    {
+      "annee": 1776,
+      "texte": "À Philadelphie, Thomas Paine publie son pamphlet « Common Sense »."
+    },
+    {
+      "annee": 1946,
+      "texte": "Première session de l'Assemblée générale des Nations unies, à Londres, avec les représentants de 51 États membres."
+    },
+    {
+      "annee": 1929,
+      "texte": "Début de la publication de « Tintin au pays des Soviets », premier album des Aventures de Tintin du dessinateur belge Hergé."
+    },
+    {
+      "annee": 1927,
+      "texte": "Sortie en Allemagne de « Metropolis », film de science-fiction de Fritz Lang."
+    },
+    {
+      "annee": 1946,
+      "texte": "Projet Diana : l'armée américaine envoie des ondes radio vers la Lune et capte leur écho, un premier contact radar avec un astre."
+    },
+    {
+      "annee": 1938,
+      "texte": "Naissance de Donald Knuth, mathématicien et informaticien américain."
+    },
+    {
+      "annee": 1942,
+      "texte": "Le Barreau du Québec admet Élisabeth Monk et Suzanne Filion, ses premières femmes avocates."
+    }
+  ]
+}

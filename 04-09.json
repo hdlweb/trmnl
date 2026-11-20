@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1821,
+      "texte": "Naissance de Charles Baudelaire, poète et écrivain français."
+    },
+    {
+      "annee": 1915,
+      "texte": "Naissance de Daniel Johnson, homme politique, premier ministre du Québec de 1966 à 1968."
+    },
+    {
+      "annee": 1806,
+      "texte": "Naissance d'Isambard Kingdom Brunel, ingénieur anglais, concepteur du paquebot Great Eastern."
+    },
+    {
+      "annee": 1830,
+      "texte": "Naissance d'Eadweard Muybridge, photographe britannique et inventeur de la chronophotographie."
+    },
+    {
+      "annee": 1968,
+      "texte": "Premier lancement d'une fusée depuis le Centre spatial de Kourou, en Guyane française : une fusée Véronique."
+    },
+    {
+      "annee": 1959,
+      "texte": "La NASA annonce le choix des « Mercury Seven », les sept premiers astronautes des États-Unis."
+    },
+    {
+      "annee": 1860,
+      "texte": "Édouard-Léon Scott de Martinville s'enregistre en chantant « Au clair de la lune » : le plus ancien enregistrement connu d'une voix."
+    },
+    {
+      "annee": 1682,
+      "texte": "René-Robert Cavelier de La Salle atteint l'embouchure du Mississippi et en prend possession au nom de la France : la Louisiane."
+    }
+  ]
+}
