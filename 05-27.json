@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1907,
+      "texte": "Naissance de Rachel Carson, biologiste, environnementaliste et écrivaine américaine."
+    },
+    {
+      "annee": 1894,
+      "texte": "Naissance de Dashiell Hammett, romancier et scénariste américain."
+    },
+    {
+      "annee": 1945,
+      "texte": "Naissance de Bruce Cockburn, chanteur, auteur-compositeur et guitariste canadien."
+    },
+    {
+      "annee": 1871,
+      "texte": "Naissance de Georges Rouault, peintre français."
+    },
+    {
+      "annee": 1703,
+      "texte": "Le tsar Pierre le Grand fonde la ville nouvelle de Saint-Pétersbourg."
+    },
+    {
+      "annee": 1679,
+      "texte": "Adoption de la loi sur l'Habeas corpus en Angleterre."
+    },
+    {
+      "annee": 1603,
+      "texte": "À Baie-Sainte-Catherine, signature de la Grande Alliance, premier traité franco-amérindien du Nouveau Monde."
+    },
+    {
+      "annee": 1937,
+      "texte": "Ouverture aux piétons du Golden Gate Bridge de San Francisco, alors le plus long pont suspendu du monde."
+    }
+  ]
+}

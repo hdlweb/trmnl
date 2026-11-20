@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1738,
+      "texte": "Naissance de George III, roi du Royaume-Uni."
+    },
+    {
+      "annee": 1970,
+      "texte": "Les Tonga deviennent indépendantes du Royaume-Uni."
+    },
+    {
+      "annee": 1958,
+      "texte": "À Alger, Charles de Gaulle lance son célèbre « Je vous ai compris »."
+    },
+    {
+      "annee": 1814,
+      "texte": "Le roi Louis XVIII octroie aux Français une charte constitutionnelle."
+    },
+    {
+      "annee": 1784,
+      "texte": "Élisabeth Thible devient la première femme à voler en montgolfière libre, à 1 500 mètres d'altitude."
+    },
+    {
+      "annee": 1917,
+      "texte": "Remise des premiers prix Pulitzer."
+    },
+    {
+      "annee": 1896,
+      "texte": "À Détroit, Henry Ford termine et essaie le Quadricycle, sa première automobile à essence."
+    },
+    {
+      "annee": 1989,
+      "texte": "Victoire de Solidarność aux élections polonaises, qui lance les révolutions de 1989 en Europe de l'Est."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1796,
+      "texte": "Naissance de Sadi Carnot, physicien et ingénieur français."
+    },
+    {
+      "annee": 1804,
+      "texte": "Naissance de Mikhaïl Glinka, compositeur russe."
+    },
+    {
+      "annee": 1935,
+      "texte": "Naissance de Norman Foster, architecte britannique."
+    },
+    {
+      "annee": 1937,
+      "texte": "Naissance de Colleen McCullough, écrivaine australienne."
+    },
+    {
+      "annee": 2024,
+      "texte": "La sonde spatiale chinoise Chang'e 6 se pose sur la face cachée de la Lune."
+    },
+    {
+      "annee": 1988,
+      "texte": "Entrée en vigueur du traité sur les forces nucléaires à portée intermédiaire entre les États-Unis et l'URSS."
+    },
+    {
+      "annee": 1974,
+      "texte": "Henry Heimlich publie dans une revue médicale la manœuvre qui porte son nom, pour sauver les personnes qui s'étouffent."
+    },
+    {
+      "annee": 1831,
+      "texte": "James Clark Ross devient le premier Européen à atteindre le pôle Nord magnétique."
+    }
+  ]
+}

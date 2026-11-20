@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1623,
+      "texte": "Naissance de Blaise Pascal, mathématicien, physicien, philosophe et théologien français."
+    },
+    {
+      "annee": 1815,
+      "texte": "Naissance de Cornelius Krieghoff, peintre canadien d'origine néerlandaise."
+    },
+    {
+      "annee": 1945,
+      "texte": "Naissance d'Aung San Suu Kyi, opposante birmane, prix Nobel de la paix en 1991."
+    },
+    {
+      "annee": 1947,
+      "texte": "Naissance de Salman Rushdie, écrivain britannique d'origine indienne."
+    },
+    {
+      "annee": 1961,
+      "texte": "Le Koweït, sous contrôle britannique, devient indépendant après l'abolition du traité de protectorat de 1899."
+    },
+    {
+      "annee": 1978,
+      "texte": "La bande dessinée Garfield commence à paraître dans les journaux de tous les États-Unis."
+    },
+    {
+      "annee": 1910,
+      "texte": "Première fête des Pères, célébrée à Spokane, dans l'État de Washington."
+    },
+    {
+      "annee": 1846,
+      "texte": "À Hoboken, au New Jersey, premier match de baseball officiellement consigné, selon les règles modernes."
+    }
+  ]
+}

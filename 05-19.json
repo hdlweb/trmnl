@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1762,
+      "texte": "Naissance de Johann Gottlieb Fichte, philosophe allemand."
+    },
+    {
+      "annee": 1878,
+      "texte": "Naissance d'Alfred Laliberté, sculpteur québécois."
+    },
+    {
+      "annee": 1941,
+      "texte": "Naissance de Nora Ephron, journaliste, romancière, scénariste et cinéaste américaine."
+    },
+    {
+      "annee": 1974,
+      "texte": "Ernő Rubik invente le Rubik's Cube, en Hongrie."
+    },
+    {
+      "annee": 1802,
+      "texte": "Napoléon Bonaparte crée l'ordre national de la Légion d'honneur."
+    },
+    {
+      "annee": 1911,
+      "texte": "Création de Parcs Canada, le premier service de parcs nationaux au monde."
+    },
+    {
+      "annee": 1535,
+      "texte": "Jacques Cartier entreprend son second voyage d'exploration, à la tête de trois navires et de 110 marins."
+    },
+    {
+      "annee": 1743,
+      "texte": "Jean-Pierre Christin présente un thermomètre à mercure à échelle centigrade : 0 pour la glace qui fond, 100 pour l'eau qui bout."
+    }
+  ]
+}

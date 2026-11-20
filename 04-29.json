@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1854,
+      "texte": "Naissance d'Henri Poincaré, mathématicien, physicien et ingénieur français."
+    },
+    {
+      "annee": 1899,
+      "texte": "Naissance de Duke Ellington, pianiste de jazz, compositeur et chef d'orchestre américain."
+    },
+    {
+      "annee": 1919,
+      "texte": "Naissance de Gérard Oury, réalisateur, acteur et scénariste français."
+    },
+    {
+      "annee": 1945,
+      "texte": "Les femmes votent pour la première fois en France, lors des élections municipales."
+    },
+    {
+      "annee": 1770,
+      "texte": "James Cook et l'équipage de l'Endeavour débarquent à Botany Bay, en Australie, qu'il nomme ainsi."
+    },
+    {
+      "annee": 1627,
+      "texte": "Richelieu fonde la Compagnie de la Nouvelle-France."
+    },
+    {
+      "annee": 1997,
+      "texte": "Entrée en vigueur de la Convention sur les armes chimiques, qui en interdit la production, le stockage et l'usage."
+    },
+    {
+      "annee": 1826,
+      "texte": "En Australie, l'astronome écossais James Dunlop découvre la galaxie Centaurus A."
+    }
+  ]
+}

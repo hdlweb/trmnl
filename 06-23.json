@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1912,
+      "texte": "Naissance d'Alan Turing, mathématicien et informaticien britannique."
+    },
+    {
+      "annee": 1910,
+      "texte": "Naissance de Jean Anouilh, écrivain et dramaturge français."
+    },
+    {
+      "annee": 1763,
+      "texte": "Naissance de Joséphine de Beauharnais, impératrice des Français, première épouse de Napoléon Ier."
+    },
+    {
+      "annee": 1894,
+      "texte": "Fondation du Comité international olympique à la Sorbonne, à l'initiative de Pierre de Coubertin."
+    },
+    {
+      "annee": 1925,
+      "texte": "Première ascension du mont Logan, le point culminant du Canada."
+    },
+    {
+      "annee": 1961,
+      "texte": "Entrée en vigueur du traité sur l'Antarctique."
+    },
+    {
+      "annee": 1887,
+      "texte": "Le Parlement du Canada crée le parc national Banff, en Alberta, le premier parc national du pays."
+    },
+    {
+      "annee": 1868,
+      "texte": "Christopher Latham Sholes obtient le brevet de sa « Type-Writer », la machine à écrire."
+    }
+  ]
+}

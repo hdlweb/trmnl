@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1922,
+      "texte": "Naissance d'Alain Resnais, cinéaste français."
+    },
+    {
+      "annee": 1926,
+      "texte": "Naissance d'Allen Ginsberg, poète américain."
+    },
+    {
+      "annee": 1954,
+      "texte": "Naissance de Dan Hill, chanteur et compositeur canadien."
+    },
+    {
+      "annee": 1950,
+      "texte": "Maurice Herzog et Louis Lachenal atteignent le sommet de l'Annapurna : le premier sommet de plus de 8 000 mètres gravi."
+    },
+    {
+      "annee": 1965,
+      "texte": "Lancement de Gemini 4 : Ed White réalise la première sortie américaine dans l'espace."
+    },
+    {
+      "annee": 1608,
+      "texte": "Lors de son troisième voyage, Samuel de Champlain débarque à Tadoussac."
+    },
+    {
+      "annee": 1658,
+      "texte": "Le pape Alexandre VII nomme François de Laval premier vicaire apostolique de la Nouvelle-France."
+    },
+    {
+      "annee": 1889,
+      "texte": "Mise en service de la première ligne électrique à longue distance des États-Unis, sur 23 km, jusqu'à Portland."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1926,
+      "texte": "Naissance de David Attenborough, naturaliste, écrivain et animateur de télévision britannique."
+    },
+    {
+      "annee": 1884,
+      "texte": "Naissance de Harry S. Truman, 33e président des États-Unis."
+    },
+    {
+      "annee": 1906,
+      "texte": "Naissance de Roberto Rossellini, réalisateur italien."
+    },
+    {
+      "annee": 1839,
+      "texte": "Naissance d'Adolphe-Basile Routhier, écrivain, magistrat et parolier canadien."
+    },
+    {
+      "annee": 2025,
+      "texte": "Le cardinal Robert Francis Prevost est élu pape sous le nom de Léon XIV, premier pape né aux États-Unis."
+    },
+    {
+      "annee": 1541,
+      "texte": "Hernando de Soto est le premier Européen à découvrir le Mississippi."
+    },
+    {
+      "annee": 1886,
+      "texte": "Le pharmacien John Pemberton commence à vendre une boisson gazeuse nommée Coca-Cola, comme médicament."
+    },
+    {
+      "annee": 1978,
+      "texte": "Reinhold Messner et Peter Habeler réussissent la première ascension de l'Everest sans oxygène d'appoint."
+    }
+  ]
+}

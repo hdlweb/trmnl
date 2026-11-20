@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1815,
+      "texte": "Naissance d'Anthony Trollope, romancier britannique."
+    },
+    {
+      "annee": 1904,
+      "texte": "Naissance de Willem de Kooning, peintre néerlandais."
+    },
+    {
+      "annee": 1947,
+      "texte": "Naissance de Claude Dubois, auteur-compositeur et interprète québécois."
+    },
+    {
+      "annee": 1990,
+      "texte": "Le télescope spatial Hubble est mis en orbite par la navette spatiale Discovery, lors de la mission STS-31."
+    },
+    {
+      "annee": 1800,
+      "texte": "Fondation de la bibliothèque du Congrès des États-Unis, à Washington."
+    },
+    {
+      "annee": 1704,
+      "texte": "Parution du Boston News-Letter, le premier journal régulier de l'Amérique du Nord britannique."
+    },
+    {
+      "annee": 1895,
+      "texte": "Joshua Slocum quitte Boston sur le sloop Spray : il sera le premier à faire seul le tour du monde à la voile."
+    },
+    {
+      "annee": 1913,
+      "texte": "Inauguration à Manhattan du Woolworth Building (241 mètres), le plus haut gratte-ciel du monde jusqu'en 1930."
+    }
+  ]
+}

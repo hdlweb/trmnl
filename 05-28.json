@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1908,
+      "texte": "Naissance d'Ian Fleming, journaliste et romancier britannique, créateur de James Bond."
+    },
+    {
+      "annee": 1879,
+      "texte": "Naissance de Milutin Milanković, ingénieur, astronome et climatologue serbe."
+    },
+    {
+      "annee": 1912,
+      "texte": "Naissance de Patrick White, écrivain australien, prix Nobel de littérature en 1973."
+    },
+    {
+      "annee": 1923,
+      "texte": "Naissance de György Ligeti, compositeur hongrois."
+    },
+    {
+      "annee": 1892,
+      "texte": "John Muir fonde à San Francisco le Sierra Club, association écologiste américaine."
+    },
+    {
+      "annee": 1934,
+      "texte": "Près de Callander, en Ontario, naissance des quintuplées Dionne, les premières à survivre à leur petite enfance."
+    },
+    {
+      "annee": 1608,
+      "texte": "Création à Mantoue de « L'Arianna », le deuxième opéra de Monteverdi, aujourd'hui perdu."
+    },
+    {
+      "annee": 2008,
+      "texte": "L'Assemblée constituante du Népal proclame la république, mettant fin à 240 ans de règne de la dynastie Shah."
+    }
+  ]
+}

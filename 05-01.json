@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1831,
+      "texte": "Naissance d'Emily Stowe, médecin canadienne, pionnière du mouvement pour les droits des femmes au Canada."
+    },
+    {
+      "annee": 1881,
+      "texte": "Naissance de Pierre Teilhard de Chardin, jésuite, paléontologue, théologien et philosophe français."
+    },
+    {
+      "annee": 1852,
+      "texte": "Naissance de Santiago Ramón y Cajal, médecin espagnol, prix Nobel de médecine en 1906 pour ses travaux sur le système nerveux."
+    },
+    {
+      "annee": 1931,
+      "texte": "Inauguration à New York de l'Empire State Building, alors le plus haut édifice du monde."
+    },
+    {
+      "annee": 1941,
+      "texte": "Première à New York de « Citizen Kane », le film d'Orson Welles."
+    },
+    {
+      "annee": 1786,
+      "texte": "Création au Burgtheater de Vienne de l'opéra « Les Noces de Figaro » de Mozart."
+    },
+    {
+      "annee": 1707,
+      "texte": "Par les Actes d'Union, les royaumes d'Angleterre et d'Écosse s'unissent pour former le royaume de Grande-Bretagne."
+    },
+    {
+      "annee": 1930,
+      "texte": "La planète naine Pluton reçoit son nom officiel."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1822,
+      "texte": "Naissance d'Edmond de Goncourt, écrivain français, fondateur de l'Académie Goncourt."
+    },
+    {
+      "annee": 1907,
+      "texte": "Naissance de John Wayne, acteur, réalisateur et producteur américain."
+    },
+    {
+      "annee": 1951,
+      "texte": "Naissance de Sally Ride, physicienne et astronaute américaine."
+    },
+    {
+      "annee": 1980,
+      "texte": "Naissance de Louis-Jean Cormier, auteur-compositeur-interprète québécois."
+    },
+    {
+      "annee": 1896,
+      "texte": "Charles Dow publie pour la première fois l'indice boursier Dow Jones Industrial Average."
+    },
+    {
+      "annee": 1967,
+      "texte": "Sortie de « Sgt. Pepper's Lonely Hearts Club Band », le huitième album des Beatles."
+    },
+    {
+      "annee": 2017,
+      "texte": "Début de la construction du télescope géant européen, au Chili."
+    },
+    {
+      "annee": 1923,
+      "texte": "Première édition des 24 Heures du Mans, aujourd'hui la plus ancienne course d'endurance au monde."
+    }
+  ]
+}

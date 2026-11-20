@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1889,
+      "texte": "Naissance de Charlie Chaplin, acteur, réalisateur, scénariste et compositeur britannique."
+    },
+    {
+      "annee": 1907,
+      "texte": "Naissance de Joseph-Armand Bombardier, inventeur canadien de la motoneige, fondateur de Bombardier."
+    },
+    {
+      "annee": 1893,
+      "texte": "Naissance de Germaine Guèvremont, journaliste et romancière canadienne."
+    },
+    {
+      "annee": 1844,
+      "texte": "Naissance d'Anatole France, écrivain français, prix Nobel de littérature en 1921."
+    },
+    {
+      "annee": 1755,
+      "texte": "Naissance d'Élisabeth Vigée Le Brun, peintre française."
+    },
+    {
+      "annee": 1955,
+      "texte": "Le mot « ordinateur » est inventé par le professeur de philologie Jacques Perret, à la demande d'IBM."
+    },
+    {
+      "annee": 1921,
+      "texte": "L'affineur jurassien Léon Bel dépose le brevet de La Vache qui rit, premier fromage fondu en portions."
+    },
+    {
+      "annee": 1912,
+      "texte": "L'Américaine Harriet Quimby devient la première femme à traverser la Manche en avion."
+    }
+  ]
+}

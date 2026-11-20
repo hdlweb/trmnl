@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1831,
+      "texte": "Naissance de James Clerk Maxwell, physicien et mathématicien écossais."
+    },
+    {
+      "annee": 1865,
+      "texte": "Naissance de William Butler Yeats, poète irlandais, prix Nobel de littérature en 1923."
+    },
+    {
+      "annee": 1888,
+      "texte": "Naissance de Fernando Pessoa, écrivain portugais."
+    },
+    {
+      "annee": 1912,
+      "texte": "Naissance d'Hector de Saint-Denys Garneau, poète et peintre québécois."
+    },
+    {
+      "annee": 1928,
+      "texte": "Naissance de John Forbes Nash, mathématicien et économiste américain, lauréat du prix Nobel."
+    },
+    {
+      "annee": 1898,
+      "texte": "Création du territoire du Yukon, avec Dawson comme capitale."
+    },
+    {
+      "annee": 1983,
+      "texte": "Pioneer 10 dépasse l'orbite de Neptune : premier objet humain à quitter le voisinage des grandes planètes."
+    },
+    {
+      "annee": 2010,
+      "texte": "La capsule de la sonde japonaise Hayabusa rapporte sur Terre des particules de l'astéroïde Itokawa."
+    }
+  ]
+}

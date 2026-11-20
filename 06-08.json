@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1625,
+      "texte": "Naissance de Jean Dominique Cassini, astronome, premier directeur de l'Observatoire de Paris."
+    },
+    {
+      "annee": 1810,
+      "texte": "Naissance de Robert Schumann, compositeur allemand."
+    },
+    {
+      "annee": 1867,
+      "texte": "Naissance de Frank Lloyd Wright, architecte américain."
+    },
+    {
+      "annee": 1955,
+      "texte": "Naissance de Tim Berners-Lee, informaticien britannique, inventeur du World Wide Web."
+    },
+    {
+      "annee": 1949,
+      "texte": "Publication du roman « Nineteen Eighty-Four » de George Orwell."
+    },
+    {
+      "annee": 1637,
+      "texte": "René Descartes publie son « Discours de la méthode »."
+    },
+    {
+      "annee": 1995,
+      "texte": "Rasmus Lerdorf publie la première version de PHP, son langage de script libre."
+    },
+    {
+      "annee": 2018,
+      "texte": "Début du sommet du G7 au Manoir Richelieu, à La Malbaie, dans Charlevoix."
+    }
+  ]
+}

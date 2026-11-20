@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1929,
+      "texte": "Naissance d'Antonine Maillet, romancière acadienne."
+    },
+    {
+      "annee": 1760,
+      "texte": "Naissance de Claude Joseph Rouget de Lisle, capitaine, ingénieur et compositeur français."
+    },
+    {
+      "annee": 1788,
+      "texte": "Naissance d'Augustin Fresnel, physicien et ingénieur français."
+    },
+    {
+      "annee": 1900,
+      "texte": "Naissance de Cecilia Payne-Gaposchkin, astronome et astrophysicienne anglo-américaine."
+    },
+    {
+      "annee": 1994,
+      "texte": "Nelson Mandela devient le premier président noir de l'Afrique du Sud."
+    },
+    {
+      "annee": 1869,
+      "texte": "Achèvement à Promontory Summit, dans l'Utah, du premier chemin de fer transcontinental américain."
+    },
+    {
+      "annee": 1534,
+      "texte": "Le navigateur malouin Jacques Cartier atteint Terre-Neuve, pour le roi de France François Ier."
+    },
+    {
+      "annee": 1872,
+      "texte": "Victoria Woodhull devient la première femme candidate à la présidence des États-Unis."
+    }
+  ]
+}

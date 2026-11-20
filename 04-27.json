@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1791,
+      "texte": "Naissance de Samuel Morse, peintre et inventeur américain, coinventeur du code Morse."
+    },
+    {
+      "annee": 1822,
+      "texte": "Naissance d'Ulysses S. Grant, général et homme politique, 18e président des États-Unis."
+    },
+    {
+      "annee": 1967,
+      "texte": "Inauguration de l'Exposition universelle de 1967 à Montréal."
+    },
+    {
+      "annee": 1848,
+      "texte": "Décret d'abolition de l'esclavage en France et dans ses colonies, impulsé par Victor Schœlcher."
+    },
+    {
+      "annee": 1960,
+      "texte": "Indépendance du Togo vis-à-vis de la France."
+    },
+    {
+      "annee": 2005,
+      "texte": "Premier vol de l'Airbus A380, le plus gros avion de ligne du monde, depuis Toulouse."
+    },
+    {
+      "annee": 1810,
+      "texte": "Beethoven compose sa Bagatelle no 25 en la mineur, mieux connue sous le nom de « Für Elise »."
+    },
+    {
+      "annee": 1992,
+      "texte": "Betty Boothroyd devient la première femme élue présidente de la Chambre des communes britannique en 700 ans."
+    }
+  ]
+}

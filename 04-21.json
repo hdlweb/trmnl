@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1926,
+      "texte": "Naissance d'Élisabeth II, reine du Royaume-Uni de 1952 à 2022."
+    },
+    {
+      "annee": 1838,
+      "texte": "Naissance de John Muir, naturaliste et écrivain américain."
+    },
+    {
+      "annee": 1919,
+      "texte": "Naissance de Roger Doucet, ténor québécois."
+    },
+    {
+      "annee": 1922,
+      "texte": "Naissance d'Alistair MacLean, romancier et scénariste écossais."
+    },
+    {
+      "annee": 1960,
+      "texte": "Brasilia, ville nouvelle conçue par Oscar Niemeyer et Lúcio Costa, devient officiellement la capitale du Brésil."
+    },
+    {
+      "annee": 1944,
+      "texte": "En France, l'ordonnance du 21 avril 1944 accorde le droit de vote aux femmes."
+    },
+    {
+      "annee": 1782,
+      "texte": "Fondation de Bangkok par le roi Rama Ier, sur la rive est du fleuve Chao Phraya."
+    },
+    {
+      "annee": 1962,
+      "texte": "Ouverture de l'Exposition universelle de Seattle, la première aux États-Unis depuis la Seconde Guerre mondiale."
+    }
+  ]
+}

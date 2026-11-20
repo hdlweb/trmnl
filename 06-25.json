@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1942,
+      "texte": "Naissance de Michel Tremblay, dramaturge et romancier québécois."
+    },
+    {
+      "annee": 1941,
+      "texte": "Naissance de Denys Arcand, réalisateur, scénariste et acteur québécois."
+    },
+    {
+      "annee": 1963,
+      "texte": "Naissance de Yann Martel, écrivain québécois né en Espagne."
+    },
+    {
+      "annee": 1852,
+      "texte": "Naissance d'Antoni Gaudí, architecte espagnol, concepteur de la Sagrada Família."
+    },
+    {
+      "annee": 1903,
+      "texte": "Naissance de George Orwell, écrivain britannique."
+    },
+    {
+      "annee": 1678,
+      "texte": "À Padoue, Elena Cornaro Piscopia devient la première femme au monde à obtenir un doctorat de philosophie."
+    },
+    {
+      "annee": 1993,
+      "texte": "Kim Campbell devient la première femme première ministre du Canada."
+    },
+    {
+      "annee": 1967,
+      "texte": "Plus de 400 millions de personnes regardent « Our World », première émission télévisée internationale en direct par satellite."
+    }
+  ]
+}

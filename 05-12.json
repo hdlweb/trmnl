@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1622,
+      "texte": "Naissance de Louis de Buade de Frontenac, gouverneur de la Nouvelle-France."
+    },
+    {
+      "annee": 1845,
+      "texte": "Naissance de Gabriel Fauré, pianiste et compositeur français."
+    },
+    {
+      "annee": 1921,
+      "texte": "Naissance de Farley Mowat, écrivain et environnementaliste canadien."
+    },
+    {
+      "annee": 1910,
+      "texte": "Naissance de Dorothy Hodgkin, chimiste britannique, prix Nobel de chimie en 1964."
+    },
+    {
+      "annee": 1949,
+      "texte": "L'Union soviétique lève le blocus de Berlin."
+    },
+    {
+      "annee": 2022,
+      "texte": "L'Event Horizon Telescope publie la première image de Sagittarius A*, le trou noir au centre de notre galaxie."
+    },
+    {
+      "annee": 1941,
+      "texte": "À Berlin, Konrad Zuse présente le Z3, premier ordinateur programmable et entièrement automatique."
+    },
+    {
+      "annee": 1870,
+      "texte": "La Loi sur le Manitoba reçoit la sanction royale : le Manitoba deviendra une province canadienne le 15 juillet."
+    }
+  ]
+}

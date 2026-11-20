@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1777,
+      "texte": "Naissance de Carl Friedrich Gauss, mathématicien, astronome et physicien allemand."
+    },
+    {
+      "annee": 1916,
+      "texte": "Naissance de Claude Shannon, ingénieur et mathématicien américain."
+    },
+    {
+      "annee": 1895,
+      "texte": "Naissance de Philippe Panneton, romancier et essayiste québécois."
+    },
+    {
+      "annee": 1959,
+      "texte": "Naissance de Stephen Harper, premier ministre du Canada de 2006 à 2015."
+    },
+    {
+      "annee": 1897,
+      "texte": "Le physicien britannique J. J. Thomson annonce à la Royal Institution la découverte de l'électron."
+    },
+    {
+      "annee": 1803,
+      "texte": "Les États-Unis achètent la Louisiane à la France, ce qui fait plus que doubler la superficie du pays."
+    },
+    {
+      "annee": 1789,
+      "texte": "À New York, George Washington prête serment comme premier président des États-Unis."
+    },
+    {
+      "annee": 1994,
+      "texte": "Première de Riverdance, présenté à l'entracte du concours Eurovision de la chanson."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1904,
+      "texte": "Naissance de Salvador Dalí, peintre espagnol."
+    },
+    {
+      "annee": 1918,
+      "texte": "Naissance de Richard Feynman, physicien américain, prix Nobel de physique en 1965."
+    },
+    {
+      "annee": 1888,
+      "texte": "Naissance d'Irving Berlin, compositeur américain."
+    },
+    {
+      "annee": 1930,
+      "texte": "Naissance d'Edsger Dijkstra, mathématicien et informaticien néerlandais."
+    },
+    {
+      "annee": 1916,
+      "texte": "Naissance de Camilo José Cela, écrivain espagnol."
+    },
+    {
+      "annee": 1997,
+      "texte": "L'ordinateur Deep Blue bat Garry Kasparov : premier ordinateur à gagner un match contre un champion du monde d'échecs."
+    },
+    {
+      "annee": 1981,
+      "texte": "Première de la comédie musicale « Cats » d'Andrew Lloyd Webber, au New London Theatre."
+    },
+    {
+      "annee": 1502,
+      "texte": "Christophe Colomb entame son quatrième et dernier voyage vers le Nouveau Monde."
+    }
+  ]
+}

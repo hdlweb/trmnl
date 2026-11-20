@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1921,
+      "texte": "Naissance de Satyajit Ray, réalisateur, scénariste et écrivain indien."
+    },
+    {
+      "annee": 1859,
+      "texte": "Naissance de Jerome K. Jerome, écrivain et dramaturge anglais."
+    },
+    {
+      "annee": 1772,
+      "texte": "Naissance de Novalis, poète et romancier allemand."
+    },
+    {
+      "annee": 1989,
+      "texte": "Des garde-frontières hongrois, munis de pinces, ouvrent les barbelés du rideau de fer à la frontière avec l'Autriche."
+    },
+    {
+      "annee": 1598,
+      "texte": "Signature de la paix de Vervins entre Henri IV de France et Philippe II d'Espagne."
+    },
+    {
+      "annee": 1670,
+      "texte": "Le roi Charles II accorde une charte à la Compagnie de la Baie d'Hudson pour le commerce des fourrures en Amérique du Nord."
+    },
+    {
+      "annee": 1952,
+      "texte": "Le De Havilland Comet effectue le premier vol commercial d'un avion de ligne à réaction, de Londres à Johannesbourg."
+    }
+  ]
+}

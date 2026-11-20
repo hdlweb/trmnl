@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1898,
+      "texte": "Naissance de Federico García Lorca, poète et dramaturge espagnol."
+    },
+    {
+      "annee": 1900,
+      "texte": "Naissance de Dennis Gabor, physicien hongrois, inventeur de l'holographie."
+    },
+    {
+      "annee": 1931,
+      "texte": "Naissance de Jacques Demy, réalisateur français."
+    },
+    {
+      "annee": 1949,
+      "texte": "Naissance de Ken Follett, écrivain gallois."
+    },
+    {
+      "annee": 1646,
+      "texte": "Naissance d'Elena Cornaro Piscopia, philosophe italienne, première femme à obtenir un diplôme universitaire."
+    },
+    {
+      "annee": 1849,
+      "texte": "Entrée en vigueur de la première constitution danoise."
+    },
+    {
+      "annee": 1947,
+      "texte": "À Harvard, George Marshall annonce un plan d'aide à la reconstruction de l'Europe : le plan Marshall."
+    },
+    {
+      "annee": 1995,
+      "texte": "Eric Cornell et Carl Wieman créent le premier condensat de Bose-Einstein."
+    }
+  ]
+}

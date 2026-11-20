@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1856,
+      "texte": "Naissance de Sigmund Freud, neurologue et psychanalyste autrichien."
+    },
+    {
+      "annee": 1915,
+      "texte": "Naissance d'Orson Welles, acteur, réalisateur, scénariste et producteur américain."
+    },
+    {
+      "annee": 1868,
+      "texte": "Naissance de Gaston Leroux, journaliste et écrivain français."
+    },
+    {
+      "annee": 1994,
+      "texte": "Inauguration du tunnel sous la Manche par la reine Élisabeth II et le président François Mitterrand."
+    },
+    {
+      "annee": 1682,
+      "texte": "Louis XIV installe sa cour au château de Versailles."
+    },
+    {
+      "annee": 1954,
+      "texte": "À Oxford, Roger Bannister devient le premier à courir le mille en moins de quatre minutes."
+    },
+    {
+      "annee": 1949,
+      "texte": "L'EDSAC, premier ordinateur électronique à programme enregistré vraiment utilisable, réalise son premier calcul."
+    }
+  ]
+}

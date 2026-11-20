@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1840,
+      "texte": "Naissance de Thomas Hardy, romancier et poète britannique."
+    },
+    {
+      "annee": 1857,
+      "texte": "Naissance d'Edward Elgar, compositeur britannique."
+    },
+    {
+      "annee": 1935,
+      "texte": "Naissance de Carol Shields, romancière canadienne."
+    },
+    {
+      "annee": 1946,
+      "texte": "La monarchie italienne est abolie par référendum : l'Italie devient une république."
+    },
+    {
+      "annee": 1953,
+      "texte": "Couronnement de la reine Élisabeth II à l'abbaye de Westminster, à Londres."
+    },
+    {
+      "annee": 2003,
+      "texte": "Lancement de Mars Express, premier voyage de l'Europe vers une autre planète."
+    },
+    {
+      "annee": 1896,
+      "texte": "Guglielmo Marconi demande un brevet pour son télégraphe sans fil."
+    },
+    {
+      "annee": 1615,
+      "texte": "Les premiers missionnaires récollets, venus de Rouen, arrivent à Québec."
+    }
+  ]
+}

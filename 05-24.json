@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1819,
+      "texte": "Naissance de Victoria, reine du Royaume-Uni et impératrice des Indes."
+    },
+    {
+      "annee": 1686,
+      "texte": "Naissance de Daniel Gabriel Fahrenheit, physicien inventeur de l'échelle de température qui porte son nom."
+    },
+    {
+      "annee": 1941,
+      "texte": "Naissance de Bob Dylan, auteur-compositeur-interprète américain, prix Nobel de littérature."
+    },
+    {
+      "annee": 1899,
+      "texte": "Naissance d'Henri Michaux, poète et peintre français d'origine belge."
+    },
+    {
+      "annee": 1883,
+      "texte": "À New York, le pont de Brooklyn est ouvert à la circulation après quatorze ans de travaux."
+    },
+    {
+      "annee": 1956,
+      "texte": "Premier Concours Eurovision de la chanson, à Lugano, en Suisse."
+    },
+    {
+      "annee": 1683,
+      "texte": "Ouverture à Oxford de l'Ashmolean Museum, le premier musée universitaire au monde."
+    },
+    {
+      "annee": 1930,
+      "texte": "L'aviatrice anglaise Amy Johnson se pose à Darwin : première femme à relier seule l'Angleterre à l'Australie."
+    }
+  ]
+}

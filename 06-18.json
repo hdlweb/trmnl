@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1903,
+      "texte": "Naissance de Raymond Radiguet, écrivain français."
+    },
+    {
+      "annee": 1929,
+      "texte": "Naissance de Jürgen Habermas, philosophe et sociologue allemand."
+    },
+    {
+      "annee": 1913,
+      "texte": "Naissance de Françoise Loranger, scénariste et dramaturge québécoise."
+    },
+    {
+      "annee": 1940,
+      "texte": "Depuis les studios londoniens de la BBC, le général de Gaulle lance l'appel du 18 Juin."
+    },
+    {
+      "annee": 1979,
+      "texte": "Les États-Unis et l'Union soviétique signent les accords SALT II sur la limitation des armements stratégiques."
+    },
+    {
+      "annee": 1983,
+      "texte": "À bord de la navette Challenger, Sally Ride devient la première Américaine dans l'espace."
+    },
+    {
+      "annee": 1928,
+      "texte": "Amelia Earhart devient la première femme à traverser l'Atlantique en avion, comme passagère."
+    },
+    {
+      "annee": 1858,
+      "texte": "Charles Darwin reçoit d'Alfred Russel Wallace un manuscrit aux conclusions proches des siennes sur l'évolution."
+    }
+  ]
+}

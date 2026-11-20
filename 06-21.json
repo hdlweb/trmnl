@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1905,
+      "texte": "Naissance de Jean-Paul Sartre, philosophe et écrivain français."
+    },
+    {
+      "annee": 1935,
+      "texte": "Naissance de Françoise Sagan, romancière française."
+    },
+    {
+      "annee": 1781,
+      "texte": "Naissance de Siméon Denis Poisson, mathématicien et physicien français."
+    },
+    {
+      "annee": 1948,
+      "texte": "Naissance d'Ian McEwan, écrivain britannique."
+    },
+    {
+      "annee": 1749,
+      "texte": "Edward Cornwallis fonde Halifax, en Nouvelle-Écosse."
+    },
+    {
+      "annee": 1957,
+      "texte": "Ellen Fairclough devient la première femme ministre au Canada."
+    },
+    {
+      "annee": 1948,
+      "texte": "Le Manchester Baby, premier ordinateur à programme enregistré, exécute son premier programme."
+    },
+    {
+      "annee": 2004,
+      "texte": "SpaceShipOne devient le premier avion spatial à financement privé à atteindre l'espace."
+    }
+  ]
+}

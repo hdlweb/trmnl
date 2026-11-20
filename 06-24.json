@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1927,
+      "texte": "Naissance de Fernand Dumont, sociologue, essayiste et poète québécois."
+    },
+    {
+      "annee": 1958,
+      "texte": "Naissance de Jean Charest, homme politique, premier ministre du Québec de 2003 à 2012."
+    },
+    {
+      "annee": 1930,
+      "texte": "Naissance de Claude Chabrol, réalisateur et metteur en scène français."
+    },
+    {
+      "annee": 1941,
+      "texte": "Naissance de Julia Kristeva, critique littéraire, psychanalyste et écrivaine française."
+    },
+    {
+      "annee": 1880,
+      "texte": "Première interprétation de « Ô Canada » à Québec, lors d'un banquet de la Saint-Jean-Baptiste."
+    },
+    {
+      "annee": 1947,
+      "texte": "Le pilote américain Kenneth Arnold dit avoir vu neuf objets volants : on parle pour la première fois de « soucoupes volantes »."
+    },
+    {
+      "annee": 1918,
+      "texte": "Premier vol de poste aérienne au Canada, entre Montréal et Toronto."
+    },
+    {
+      "annee": 1604,
+      "texte": "Samuel de Champlain découvre l'embouchure du fleuve Saint-Jean, où se trouve aujourd'hui Saint-Jean, au Nouveau-Brunswick."
+    }
+  ]
+}

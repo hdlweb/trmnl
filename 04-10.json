@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1656,
+      "texte": "Naissance de René Lepage de Sainte-Claire, seigneur-fondateur de Rimouski, en Nouvelle-France."
+    },
+    {
+      "annee": 1755,
+      "texte": "Naissance de Samuel Hahnemann, médecin allemand."
+    },
+    {
+      "annee": 1998,
+      "texte": "Signature de l'accord du Vendredi saint, qui vise à mettre fin au conflit nord-irlandais."
+    },
+    {
+      "annee": 2019,
+      "texte": "Le projet Event Horizon Telescope publie la première image d'un trou noir, au centre de la galaxie M87."
+    },
+    {
+      "annee": 1925,
+      "texte": "Publication de « The Great Gatsby » de F. Scott Fitzgerald, chez Scribner's."
+    },
+    {
+      "annee": 1858,
+      "texte": "Après la fissure de la première cloche, Big Ben est refondue pour le palais de Westminster, à Londres."
+    },
+    {
+      "annee": 1972,
+      "texte": "Au Shandong, découverte de tombes contenant des écrits sur bambou, dont « L'Art de la guerre » de Sun Tzu."
+    },
+    {
+      "annee": 1872,
+      "texte": "Première célébration de l'Arbor Day, la fête de l'arbre, au Nebraska."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1833,
+      "texte": "Naissance de Johannes Brahms, pianiste et compositeur allemand."
+    },
+    {
+      "annee": 1840,
+      "texte": "Naissance de Piotr Ilitch Tchaïkovski, compositeur russe."
+    },
+    {
+      "annee": 1861,
+      "texte": "Naissance de Rabindranath Tagore, écrivain, poète et philosophe indien, prix Nobel de littérature en 1913."
+    },
+    {
+      "annee": 1787,
+      "texte": "Naissance de Jacques Viger, homme politique québécois, premier maire de Montréal."
+    },
+    {
+      "annee": 1824,
+      "texte": "Première de la 9e symphonie de Beethoven, au Kärntnertortheater de Vienne."
+    },
+    {
+      "annee": 1920,
+      "texte": "La galerie d'art de l'Ontario, à Toronto, présente les premières œuvres du Groupe des Sept."
+    },
+    {
+      "annee": 1946,
+      "texte": "Masaru Ibuka et Akio Morita fondent Tokyo Tsushin Kogyo, qui deviendra Sony."
+    },
+    {
+      "annee": 2010,
+      "texte": "Publication d'une première séquence du génome de Néandertal : la plupart des humains actuels ont des ancêtres néandertaliens."
+    }
+  ]
+}

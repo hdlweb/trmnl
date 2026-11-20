@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1874,
+      "texte": "Naissance de Guglielmo Marconi, physicien et inventeur italien, prix Nobel de physique en 1909."
+    },
+    {
+      "annee": 1900,
+      "texte": "Naissance de Wolfgang Pauli, physicien, prix Nobel de physique en 1945."
+    },
+    {
+      "annee": 1940,
+      "texte": "Naissance d'Al Pacino, acteur et réalisateur américain."
+    },
+    {
+      "annee": 1953,
+      "texte": "James Watson et Francis Crick publient dans la revue Nature la structure de l'ADN."
+    },
+    {
+      "annee": 1859,
+      "texte": "Début du percement du canal de Suez, sous la direction de Ferdinand de Lesseps."
+    },
+    {
+      "annee": 1719,
+      "texte": "Publication de « Robinson Crusoe » de Daniel Defoe."
+    },
+    {
+      "annee": 1792,
+      "texte": "Rouget de Lisle compose le Chant de guerre pour l'armée du Rhin, qui deviendra « La Marseillaise »."
+    },
+    {
+      "annee": 1954,
+      "texte": "Les Bell Telephone Laboratories présentent la première cellule solaire pratique."
+    }
+  ]
+}

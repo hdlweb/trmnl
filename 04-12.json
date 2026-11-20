@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1885,
+      "texte": "Naissance de Robert Delaunay, peintre français, fondateur de l'orphisme."
+    },
+    {
+      "annee": 1940,
+      "texte": "Naissance de Herbie Hancock, pianiste et compositeur de jazz américain."
+    },
+    {
+      "annee": 1947,
+      "texte": "Naissance de Tom Clancy, romancier américain."
+    },
+    {
+      "annee": 1961,
+      "texte": "À bord de Vostok 1, le Soviétique Youri Gagarine effectue le premier vol spatial habité : une orbite en 108 minutes."
+    },
+    {
+      "annee": 1981,
+      "texte": "Premier vol d'une navette spatiale américaine, Columbia."
+    },
+    {
+      "annee": 1954,
+      "texte": "Bill Haley & His Comets enregistrent « Rock Around the Clock », qui deviendra l'hymne du rock 'n' roll."
+    },
+    {
+      "annee": 1980,
+      "texte": "À St. John's, Terry Fox entame son Marathon de l'espoir à travers le Canada, avec une jambe artificielle, pour la recherche sur le cancer."
+    },
+    {
+      "annee": 1955,
+      "texte": "Le vaccin contre la polio mis au point par Jonas Salk est déclaré sûr et efficace."
+    }
+  ]
+}

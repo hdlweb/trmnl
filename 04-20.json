@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1890,
+      "texte": "Naissance de Maurice Duplessis, avocat et homme politique, premier ministre du Québec."
+    },
+    {
+      "annee": 1893,
+      "texte": "Naissance de Joan Miró, peintre et sculpteur espagnol."
+    },
+    {
+      "annee": 1840,
+      "texte": "Naissance d'Odilon Redon, peintre symboliste français."
+    },
+    {
+      "annee": 1534,
+      "texte": "Jacques Cartier part de Saint-Malo avec deux navires pour trouver le passage vers les Indes. Il découvrira le golfe du Saint-Laurent."
+    },
+    {
+      "annee": 1968,
+      "texte": "Pierre Trudeau est assermenté premier ministre du Canada, succédant à Lester B. Pearson."
+    },
+    {
+      "annee": 1926,
+      "texte": "La Warner Bros. annonce un nouveau procédé de cinéma sonore, le Vitaphone."
+    },
+    {
+      "annee": 1862,
+      "texte": "Louis Pasteur et Claude Bernard réalisent le premier test de pasteurisation."
+    },
+    {
+      "annee": 1828,
+      "texte": "L'explorateur français René Caillié atteint Tombouctou. Il sera le premier Européen à en revenir avec une description de la ville."
+    }
+  ]
+}

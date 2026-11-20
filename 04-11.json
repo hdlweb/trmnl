@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1755,
+      "texte": "Naissance de James Parkinson, chirurgien, géologue et paléontologue anglais."
+    },
+    {
+      "annee": 1914,
+      "texte": "Naissance de Norman McLaren, réalisateur de films d'animation canadien d'origine écossaise."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance de Pierre Péladeau, homme d'affaires et éditeur québécois, fondateur de Québecor."
+    },
+    {
+      "annee": 1970,
+      "texte": "Lancement de la mission lunaire habitée Apollo 13."
+    },
+    {
+      "annee": 1919,
+      "texte": "Fondation de l'Organisation internationale du travail."
+    },
+    {
+      "annee": 1865,
+      "texte": "Louis Pasteur dépose son brevet sur la méthode de chauffage du vin qui sera appelée pasteurisation."
+    },
+    {
+      "annee": 1963,
+      "texte": "Le pape Jean XXIII publie « Pacem in terris », première encyclique adressée à tous les hommes de bonne volonté."
+    },
+    {
+      "annee": 1713,
+      "texte": "Signature des principaux traités de la paix d'Utrecht, qui mettent fin à la guerre de Succession d'Espagne."
+    }
+  ]
+}

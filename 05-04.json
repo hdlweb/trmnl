@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1655,
+      "texte": "Naissance de Bartolomeo Cristofori, facteur d'instruments italien, inventeur du piano."
+    },
+    {
+      "annee": 1825,
+      "texte": "Naissance de Thomas Henry Huxley, biologiste, paléontologue et philosophe britannique."
+    },
+    {
+      "annee": 1939,
+      "texte": "Naissance d'Amos Oz, écrivain israélien."
+    },
+    {
+      "annee": 1924,
+      "texte": "Étienne Œhmichen réalise à Arbouans le premier vol en circuit fermé d'un hélicoptère."
+    },
+    {
+      "annee": 1904,
+      "texte": "Les États-Unis reprennent la construction du canal de Panama."
+    },
+    {
+      "annee": 1910,
+      "texte": "Création du Service naval du Canada."
+    },
+    {
+      "annee": 1979,
+      "texte": "Margaret Thatcher devient la première femme première ministre du Royaume-Uni."
+    },
+    {
+      "annee": 1972,
+      "texte": "Le Don't Make a Wave Committee, organisme écologiste fondé au Canada en 1971, devient la Greenpeace Foundation."
+    }
+  ]
+}

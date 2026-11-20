@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1813,
+      "texte": "Naissance de Søren Kierkegaard, philosophe danois."
+    },
+    {
+      "annee": 1935,
+      "texte": "Naissance de Bernard Pivot, journaliste littéraire français, président de l'Académie Goncourt."
+    },
+    {
+      "annee": 1846,
+      "texte": "Naissance de Henryk Sienkiewicz, romancier polonais, prix Nobel de littérature en 1905."
+    },
+    {
+      "annee": 1891,
+      "texte": "Inauguration du Carnegie Hall à New York, avec un concert dirigé par Piotr Ilitch Tchaïkovski."
+    },
+    {
+      "annee": 1789,
+      "texte": "À Versailles, ouverture des États généraux, considérée comme le début de la Révolution française."
+    },
+    {
+      "annee": 1961,
+      "texte": "Alan Shepard devient le premier Américain à aller dans l'espace, lors d'un vol suborbital de 15 minutes."
+    },
+    {
+      "annee": 1949,
+      "texte": "Signature à Londres du statut du Conseil de l'Europe."
+    },
+    {
+      "annee": 1809,
+      "texte": "Mary Kies devient la première femme à obtenir un brevet américain, pour une technique de tissage de la paille."
+    }
+  ]
+}

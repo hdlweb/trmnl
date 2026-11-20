@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1917,
+      "texte": "Naissance de John F. Kennedy, 35e président des États-Unis."
+    },
+    {
+      "annee": 1874,
+      "texte": "Naissance de G. K. Chesterton, essayiste, poète et dramaturge britannique."
+    },
+    {
+      "annee": 1929,
+      "texte": "Naissance de Peter Higgs, physicien britannique, prix Nobel de physique en 2013."
+    },
+    {
+      "annee": 1953,
+      "texte": "Edmund Hillary et Tenzing Norgay sont les premiers à atteindre le sommet de l'Everest."
+    },
+    {
+      "annee": 1913,
+      "texte": "Création du « Sacre du printemps » d'Igor Stravinsky au théâtre des Champs-Élysées, à Paris."
+    },
+    {
+      "annee": 1942,
+      "texte": "Bing Crosby enregistre « White Christmas », le single le plus vendu au monde."
+    },
+    {
+      "annee": 1851,
+      "texte": "Sojourner Truth prononce son discours « Ain't I a Woman? » à la convention des droits des femmes d'Akron."
+    },
+    {
+      "annee": 1950,
+      "texte": "Le St. Roch, premier navire à faire le tour de l'Amérique du Nord, arrive à Halifax."
+    }
+  ]
+}

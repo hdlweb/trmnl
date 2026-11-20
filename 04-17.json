@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1620,
+      "texte": "Naissance de Marguerite Bourgeoys, religieuse d'origine française, fondatrice de la Congrégation de Notre-Dame de Montréal."
+    },
+    {
+      "annee": 1897,
+      "texte": "Naissance de Thornton Wilder, romancier et dramaturge américain."
+    },
+    {
+      "annee": 1911,
+      "texte": "Naissance d'Hervé Bazin, écrivain français, ancien président de l'Académie Goncourt."
+    },
+    {
+      "annee": 1982,
+      "texte": "À Ottawa, Élisabeth II proclame le rapatriement de la Constitution canadienne et la Charte canadienne des droits et libertés."
+    },
+    {
+      "annee": 2014,
+      "texte": "La NASA annonce la découverte de Kepler-186f, première exoplanète de taille terrestre dans la zone habitable d'une autre étoile."
+    },
+    {
+      "annee": 1524,
+      "texte": "L'explorateur florentin Giovanni da Verrazzano atteint la baie de New York."
+    },
+    {
+      "annee": 1970,
+      "texte": "Le vaisseau endommagé d'Apollo 13 revient sur Terre sain et sauf."
+    },
+    {
+      "annee": 1986,
+      "texte": "Les Pays-Bas et les îles Scilly font la paix, après une guerre supposée de 335 ans sans un seul coup de feu."
+    }
+  ]
+}

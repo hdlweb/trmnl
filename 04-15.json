@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1452,
+      "texte": "Naissance de Léonard de Vinci, peintre, architecte, sculpteur, ingénieur et théoricien italien."
+    },
+    {
+      "annee": 1707,
+      "texte": "Naissance de Leonhard Euler, mathématicien et physicien suisse."
+    },
+    {
+      "annee": 1843,
+      "texte": "Naissance de Henry James, écrivain américain."
+    },
+    {
+      "annee": 1894,
+      "texte": "Naissance de Bessie Smith, chanteuse américaine surnommée l'Impératrice du blues."
+    },
+    {
+      "annee": 1982,
+      "texte": "Naissance de Seth Rogen, acteur, humoriste, scénariste et réalisateur canadien."
+    },
+    {
+      "annee": 1755,
+      "texte": "Publication à Londres de « A Dictionary of the English Language » de Samuel Johnson."
+    },
+    {
+      "annee": 1947,
+      "texte": "Jackie Robinson joue son premier match avec les Dodgers de Brooklyn : il est le premier Afro-Américain du baseball majeur moderne."
+    },
+    {
+      "annee": 1817,
+      "texte": "Thomas Hopkins Gallaudet et Laurent Clerc fondent à Hartford la première école américaine pour les élèves sourds."
+    }
+  ]
+}

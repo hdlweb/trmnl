@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1906,
+      "texte": "Naissance de Kurt Gödel, mathématicien et logicien austro-américain."
+    },
+    {
+      "annee": 1900,
+      "texte": "Naissance de Jan Oort, astronome néerlandais."
+    },
+    {
+      "annee": 1928,
+      "texte": "Naissance d'Yves Klein, peintre français."
+    },
+    {
+      "annee": 1948,
+      "texte": "Naissance de Terry Pratchett, écrivain britannique."
+    },
+    {
+      "annee": 1952,
+      "texte": "Le traité de San Francisco entre en application et met fin à l'occupation du Japon par les Alliés."
+    },
+    {
+      "annee": 2025,
+      "texte": "Le Parti libéral du premier ministre Mark Carney remporte les élections fédérales anticipées."
+    },
+    {
+      "annee": 2001,
+      "texte": "Le milliardaire américain Dennis Tito devient le premier touriste spatial, à bord de la Station spatiale internationale."
+    },
+    {
+      "annee": 1937,
+      "texte": "Le chercheur sud-africain Max Theiler met au point le vaccin contre la fièvre jaune, à New York."
+    }
+  ]
+}

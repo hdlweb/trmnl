@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1629,
+      "texte": "Naissance de Christian Huygens, mathématicien, astronome et physicien néerlandais."
+    },
+    {
+      "annee": 2003,
+      "texte": "Annonce de la fin du séquençage du génome humain."
+    },
+    {
+      "annee": 2023,
+      "texte": "L'Agence spatiale européenne lance la sonde JUICE pour étudier Ganymède, Europe et Callisto, des lunes de Jupiter."
+    },
+    {
+      "annee": 2003,
+      "texte": "Le Parti libéral de Jean Charest remporte les élections générales au Québec contre le Parti québécois de Bernard Landry."
+    },
+    {
+      "annee": 1983,
+      "texte": "Sortie de « Let's Dance », l'album le plus vendu de David Bowie."
+    },
+    {
+      "annee": 1828,
+      "texte": "Le lexicographe Noah Webster dépose les droits de la première édition de son dictionnaire de l'anglais américain."
+    },
+    {
+      "annee": 1894,
+      "texte": "Ouverture à New York de la première salle commerciale de cinéma, équipée de dix kinétoscopes."
+    },
+    {
+      "annee": 1775,
+      "texte": "Benjamin Franklin et Benjamin Rush fondent à Philadelphie la première société abolitionniste d'Amérique du Nord."
+    }
+  ]
+}

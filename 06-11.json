@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1776,
+      "texte": "Naissance de John Constable, peintre britannique."
+    },
+    {
+      "annee": 1899,
+      "texte": "Naissance de Yasunari Kawabata, écrivain japonais, prix Nobel de littérature en 1968."
+    },
+    {
+      "annee": 1933,
+      "texte": "Naissance de Gene Wilder, acteur, scénariste et cinéaste américain."
+    },
+    {
+      "annee": 1959,
+      "texte": "Naissance de Hugh Laurie, comédien, musicien et compositeur britannique."
+    },
+    {
+      "annee": 2008,
+      "texte": "Le premier ministre Stephen Harper présente des excuses aux Premières Nations pour les politiques d'assimilation forcée."
+    },
+    {
+      "annee": 1913,
+      "texte": "La Norvège accorde le droit de vote aux femmes."
+    },
+    {
+      "annee": 1936,
+      "texte": "Edwin Armstrong fait la démonstration de la radio FM devant des ingénieurs, à Washington."
+    },
+    {
+      "annee": 2002,
+      "texte": "Le Congrès des États-Unis reconnaît Antonio Meucci comme le premier inventeur du téléphone."
+    }
+  ]
+}

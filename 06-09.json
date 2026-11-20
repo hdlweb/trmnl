@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1781,
+      "texte": "Naissance de George Stephenson, ingénieur britannique, concepteur du chemin de fer Liverpool-Manchester."
+    },
+    {
+      "annee": 1843,
+      "texte": "Naissance de Bertha von Suttner, pacifiste autrichienne, prix Nobel de la paix en 1905."
+    },
+    {
+      "annee": 1922,
+      "texte": "Naissance de Fernand Seguin, biochimiste, animateur et vulgarisateur scientifique québécois."
+    },
+    {
+      "annee": 1836,
+      "texte": "Naissance d'Elizabeth Garrett Anderson, première femme diplômée en médecine en Grande-Bretagne."
+    },
+    {
+      "annee": 1815,
+      "texte": "L'Acte final du congrès de Vienne redessine l'Europe après la chute de Napoléon Ier."
+    },
+    {
+      "annee": 1928,
+      "texte": "Charles Kingsford Smith et son équipage se posent à Brisbane : premier vol au-dessus de l'océan Pacifique."
+    },
+    {
+      "annee": 1846,
+      "texte": "Hamilton, en Ontario, obtient le statut de ville du Parlement de la Province du Canada."
+    }
+  ]
+}

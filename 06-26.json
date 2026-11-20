@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1824,
+      "texte": "Naissance de Lord Kelvin, physicien et ingénieur britannique."
+    },
+    {
+      "annee": 1854,
+      "texte": "Naissance de Robert Borden, premier ministre du Canada de 1911 à 1920."
+    },
+    {
+      "annee": 1913,
+      "texte": "Naissance d'Aimé Césaire, poète et homme politique français."
+    },
+    {
+      "annee": 1941,
+      "texte": "Naissance d'Yves Beauchemin, écrivain québécois."
+    },
+    {
+      "annee": 1945,
+      "texte": "À San Francisco, 50 pays signent la Charte des Nations unies."
+    },
+    {
+      "annee": 1963,
+      "texte": "À Berlin, John F. Kennedy prononce sa célèbre phrase « Ich bin ein Berliner »."
+    },
+    {
+      "annee": 1997,
+      "texte": "Parution de « Harry Potter and the Philosopher's Stone », premier tome de la série de J. K. Rowling."
+    },
+    {
+      "annee": 1976,
+      "texte": "Ouverture de la Tour CN, à Toronto."
+    }
+  ]
+}

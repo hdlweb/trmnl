@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1906,
+      "texte": "Naissance de Billy Wilder, réalisateur, producteur et scénariste américain."
+    },
+    {
+      "annee": 1910,
+      "texte": "Naissance de Konrad Zuse, ingénieur allemand, pionnier du calcul programmable."
+    },
+    {
+      "annee": 1898,
+      "texte": "Naissance d'Erich Maria Remarque, écrivain allemand naturalisé américain."
+    },
+    {
+      "annee": 1757,
+      "texte": "Naissance de George Vancouver, officier naval et explorateur britannique."
+    },
+    {
+      "annee": 1924,
+      "texte": "Naissance de Larkin Kerwin, physicien québécois."
+    },
+    {
+      "annee": 1774,
+      "texte": "Adoption de l'Acte de Québec."
+    },
+    {
+      "annee": 1978,
+      "texte": "James W. Christy découvre Charon, premier satellite connu de Pluton."
+    },
+    {
+      "annee": 1948,
+      "texte": "Le navire Empire Windrush amène 802 immigrants antillais à Tilbury : début de l'immigration moderne au Royaume-Uni."
+    }
+  ]
+}

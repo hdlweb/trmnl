@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1772,
+      "texte": "Naissance de David Ricardo, économiste et philosophe britannique."
+    },
+    {
+      "annee": 1914,
+      "texte": "Naissance de Claire Martin, écrivaine québécoise."
+    },
+    {
+      "annee": 1927,
+      "texte": "Naissance de Tadeusz Mazowiecki, écrivain et journaliste, premier ministre de la Pologne de 1989 à 1991."
+    },
+    {
+      "annee": 1980,
+      "texte": "La Rhodésie devient la république du Zimbabwe, avec Canaan Banana pour premier président."
+    },
+    {
+      "annee": 1951,
+      "texte": "Le traité de Paris institue la Communauté européenne du charbon et de l'acier (CECA)."
+    },
+    {
+      "annee": 1506,
+      "texte": "Le pape Jules II fait poser la première pierre de l'actuelle basilique Saint-Pierre de Rome."
+    },
+    {
+      "annee": 1946,
+      "texte": "Jackie Robinson joue son premier match de saison avec les Royaux de Montréal, première équipe intégrée du baseball professionnel moderne."
+    },
+    {
+      "annee": 1955,
+      "texte": "Ouverture de la conférence de Bandung, en Indonésie : 29 pays s'y réunissent pour la première conférence afro-asiatique."
+    }
+  ]
+}

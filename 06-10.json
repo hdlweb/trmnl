@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1912,
+      "texte": "Naissance de Jean Lesage, avocat et homme politique, premier ministre du Québec de 1960 à 1966."
+    },
+    {
+      "annee": 1915,
+      "texte": "Naissance de Saul Bellow, écrivain américain d'origine québécoise, prix Nobel de littérature en 1976."
+    },
+    {
+      "annee": 1819,
+      "texte": "Naissance de Gustave Courbet, peintre français."
+    },
+    {
+      "annee": 1928,
+      "texte": "Naissance de Maurice Sendak, écrivain et illustrateur américain."
+    },
+    {
+      "annee": 1925,
+      "texte": "Fondation à Toronto de l'Église unie du Canada, union des paroisses presbytériennes, méthodistes et congrégationalistes."
+    },
+    {
+      "annee": 2003,
+      "texte": "Lancement du rover Spirit de la NASA, vers Mars."
+    },
+    {
+      "annee": 1829,
+      "texte": "Première course d'aviron entre les universités d'Oxford et de Cambridge, sur la Tamise."
+    },
+    {
+      "annee": 1793,
+      "texte": "Ouverture du muséum du Jardin des Plantes à Paris. Un an plus tard, il deviendra le premier zoo public."
+    }
+  ]
+}

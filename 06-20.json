@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1777,
+      "texte": "Naissance de Jean-Jacques Lartigue, premier évêque de Montréal."
+    },
+    {
+      "annee": 1916,
+      "texte": "Naissance de Jean-Jacques Bertrand, avocat et homme politique, premier ministre du Québec de 1968 à 1970."
+    },
+    {
+      "annee": 1894,
+      "texte": "Le bactériologiste Alexandre Yersin découvre le bacille de la peste."
+    },
+    {
+      "annee": 1840,
+      "texte": "Samuel Morse obtient le brevet du télégraphe électrique."
+    },
+    {
+      "annee": 1789,
+      "texte": "Serment du Jeu de paume, prononcé par des députés des États généraux, pour la plupart élus du tiers état."
+    },
+    {
+      "annee": 1975,
+      "texte": "Sortie de « Jaws » de Steven Spielberg, premier film à rapporter 100 millions de dollars en location aux États-Unis."
+    },
+    {
+      "annee": 1837,
+      "texte": "Victoria monte sur le trône britannique, pour un règne de 63 ans."
+    },
+    {
+      "annee": 1877,
+      "texte": "Alexander Graham Bell installe à Hamilton, en Ontario, le premier service téléphonique commercial au monde."
+    }
+  ]
+}

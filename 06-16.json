@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1874,
+      "texte": "Naissance d'Arthur Meighen, avocat et homme politique, 9e premier ministre du Canada."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance de Jean d'Ormesson, écrivain et académicien français."
+    },
+    {
+      "annee": 1938,
+      "texte": "Naissance de Joyce Carol Oates, romancière américaine."
+    },
+    {
+      "annee": 1963,
+      "texte": "À bord de Vostok 6, la Soviétique Valentina Terechkova, 26 ans, devient la première femme dans l'espace."
+    },
+    {
+      "annee": 1881,
+      "texte": "La loi Jules Ferry rend l'enseignement primaire gratuit en France."
+    },
+    {
+      "annee": 1960,
+      "texte": "Première de « Psycho », le film d'Alfred Hitchcock."
+    },
+    {
+      "annee": 1903,
+      "texte": "Roald Amundsen quitte Oslo pour la première traversée d'est en ouest du passage du Nord-Ouest."
+    },
+    {
+      "annee": 1972,
+      "texte": "Inauguration de la centrale de Churchill Falls, le plus grand projet hydroélectrique sur un seul site au Canada."
+    }
+  ]
+}

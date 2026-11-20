@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1866,
+      "texte": "Naissance d'Erik Satie, compositeur et pianiste français."
+    },
+    {
+      "annee": 1749,
+      "texte": "Naissance d'Edward Jenner, médecin britannique."
+    },
+    {
+      "annee": 1642,
+      "texte": "Paul de Chomedey de Maisonneuve fonde Ville-Marie, qui deviendra Montréal, à l'emplacement du village iroquoien d'Hochelaga."
+    },
+    {
+      "annee": 1814,
+      "texte": "Adoption à Eidsvoll de la Constitution de la Norvège, royaume nouvellement indépendant."
+    },
+    {
+      "annee": 1954,
+      "texte": "Par l'arrêt Brown v. Board of Education, la Cour suprême interdit la ségrégation raciale dans les écoles publiques américaines."
+    },
+    {
+      "annee": 1900,
+      "texte": "Publication aux États-Unis du roman jeunesse « The Wonderful Wizard of Oz » de L. Frank Baum."
+    },
+    {
+      "annee": 1902,
+      "texte": "L'archéologue grec Valerios Stais découvre la machine d'Anticythère, un ancien calculateur mécanique."
+    },
+    {
+      "annee": 1990,
+      "texte": "L'Organisation mondiale de la santé retire l'homosexualité de la liste des maladies mentales."
+    }
+  ]
+}

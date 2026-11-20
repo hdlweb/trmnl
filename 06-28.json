@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1712,
+      "texte": "Naissance de Jean-Jacques Rousseau, philosophe genevois."
+    },
+    {
+      "annee": 1577,
+      "texte": "Naissance de Pierre Paul Rubens, peintre flamand."
+    },
+    {
+      "annee": 1867,
+      "texte": "Naissance de Luigi Pirandello, écrivain italien, prix Nobel de littérature en 1934."
+    },
+    {
+      "annee": 1824,
+      "texte": "Naissance de Paul Broca, médecin, anatomiste et anthropologue français."
+    },
+    {
+      "annee": 1919,
+      "texte": "Signature du traité de Versailles, qui met fin à l'état de guerre entre l'Allemagne et les Alliés."
+    },
+    {
+      "annee": 1926,
+      "texte": "Daimler-Motoren-Gesellschaft fusionne avec Benz & Cie pour créer Mercedes-Benz."
+    },
+    {
+      "annee": 1969,
+      "texte": "Les émeutes de Stonewall, à New York, marquent le début du mouvement pour les droits LGBT."
+    },
+    {
+      "annee": 1841,
+      "texte": "Création du ballet « Giselle » à l'Académie royale de musique, à Paris."
+    }
+  ]
+}

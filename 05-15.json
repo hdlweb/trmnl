@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1859,
+      "texte": "Naissance de Pierre Curie, physicien français, lauréat du prix Nobel."
+    },
+    {
+      "annee": 1567,
+      "texte": "Naissance de Claudio Monteverdi, compositeur italien souvent considéré comme l'inventeur de l'opéra."
+    },
+    {
+      "annee": 1856,
+      "texte": "Naissance de L. Frank Baum, romancier américain."
+    },
+    {
+      "annee": 1863,
+      "texte": "Le Salon des refusés ouvre à Paris, sous le patronage de Napoléon III."
+    },
+    {
+      "annee": 1928,
+      "texte": "Première apparition de Mickey et Minnie Mouse, dans le dessin animé « Plane Crazy »."
+    },
+    {
+      "annee": 1869,
+      "texte": "Susan B. Anthony et Elizabeth Cady Stanton fondent la National Woman Suffrage Association."
+    },
+    {
+      "annee": 1991,
+      "texte": "Édith Cresson devient la première femme première ministre de France."
+    },
+    {
+      "annee": 1501,
+      "texte": "L'expédition portugaise de Miguel et Gaspar Corte-Real part vers Terre-Neuve, le Labrador et le Groenland."
+    }
+  ]
+}

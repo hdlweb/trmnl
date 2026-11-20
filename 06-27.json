@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1884,
+      "texte": "Naissance de Gaston Bachelard, philosophe français."
+    },
+    {
+      "annee": 1941,
+      "texte": "Naissance de Krzysztof Kieślowski, cinéaste polonais."
+    },
+    {
+      "annee": 1977,
+      "texte": "Djibouti obtient son indépendance de la France."
+    },
+    {
+      "annee": 1967,
+      "texte": "Barclays installe le premier guichet automatique bancaire, conçu par De La Rue, à Enfield, au nord de Londres."
+    },
+    {
+      "annee": 1954,
+      "texte": "Ouverture de la centrale d'Obninsk, près de Moscou : l'URSS produit la première électricité nucléaire."
+    },
+    {
+      "annee": 2018,
+      "texte": "La sonde japonaise Hayabusa 2 atteint l'astéroïde Ryugu pour y prélever des échantillons."
+    },
+    {
+      "annee": 1946,
+      "texte": "Par la Loi sur la citoyenneté canadienne, le Parlement définit la citoyenneté canadienne."
+    },
+    {
+      "annee": 1898,
+      "texte": "Joshua Slocum achève le premier tour du monde en solitaire, en Nouvelle-Écosse."
+    }
+  ]
+}

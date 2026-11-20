@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1843,
+      "texte": "Naissance d'Edvard Grieg, compositeur et pianiste norvégien."
+    },
+    {
+      "annee": 1947,
+      "texte": "Naissance d'Alain Aspect, physicien français, prix Nobel 2022 pour ses expériences sur les photons intriqués."
+    },
+    {
+      "annee": 1954,
+      "texte": "Création de l'Union des associations européennes de football (UEFA)."
+    },
+    {
+      "annee": 1844,
+      "texte": "Charles Goodyear dépose un brevet pour la vulcanisation du caoutchouc, trois semaines après Thomas Hancock."
+    },
+    {
+      "annee": 1919,
+      "texte": "John Alcock et Arthur Brown réussissent le premier vol transatlantique sans escale, jusqu'en Irlande."
+    },
+    {
+      "annee": 1921,
+      "texte": "Bessie Coleman devient la première personne noire à obtenir une licence de pilote internationale."
+    },
+    {
+      "annee": 1878,
+      "texte": "Eadweard Muybridge photographie un cheval au galop et prouve que ses quatre pattes quittent le sol."
+    },
+    {
+      "annee": 1944,
+      "texte": "En Saskatchewan, la CCF de Tommy Douglas forme le premier gouvernement socialiste d'Amérique du Nord."
+    }
+  ]
+}

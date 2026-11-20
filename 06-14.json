@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1736,
+      "texte": "Naissance de Charles-Augustin de Coulomb, physicien français."
+    },
+    {
+      "annee": 1811,
+      "texte": "Naissance de Harriet Beecher Stowe, romancière et militante américaine."
+    },
+    {
+      "annee": 1868,
+      "texte": "Naissance de Karl Landsteiner, biologiste autrichien, prix Nobel de médecine en 1930."
+    },
+    {
+      "annee": 1907,
+      "texte": "Naissance de René Char, poète français."
+    },
+    {
+      "annee": 1985,
+      "texte": "Signature de l'accord de Schengen, qui crée une zone de libre circulation sans contrôle aux frontières."
+    },
+    {
+      "annee": 1777,
+      "texte": "Le Congrès continental adopte le « Stars and Stripes » comme drapeau des États-Unis."
+    },
+    {
+      "annee": 1872,
+      "texte": "Les syndicats sont légalisés au Canada."
+    },
+    {
+      "annee": 2013,
+      "texte": "Premier vol de l'Airbus A350 XWB, depuis Toulouse."
+    }
+  ]
+}

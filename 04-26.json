@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1798,
+      "texte": "Naissance d'Eugène Delacroix, peintre français."
+    },
+    {
+      "annee": 1785,
+      "texte": "Naissance de John James Audubon, ornithologue, naturaliste et peintre américain."
+    },
+    {
+      "annee": 1889,
+      "texte": "Naissance de Ludwig Wittgenstein, philosophe autrichien."
+    },
+    {
+      "annee": 1898,
+      "texte": "Naissance de John Grierson, pionnier du film documentaire, fondateur de l'Office national du film du Canada."
+    },
+    {
+      "annee": 1904,
+      "texte": "Naissance de Paul-Émile Léger, cardinal-archevêque de Montréal de 1950 à 1967."
+    },
+    {
+      "annee": 1917,
+      "texte": "Naissance d'Ieoh Ming Pei, architecte sino-américain."
+    },
+    {
+      "annee": 1964,
+      "texte": "Le Tanganyika et Zanzibar, anciennes colonies britanniques, fusionnent pour former la Tanzanie."
+    },
+    {
+      "annee": 1920,
+      "texte": "Le hockey sur glace fait ses débuts olympiques à Anvers. Le Canada bat la Suède 12 à 1 en finale."
+    }
+  ]
+}

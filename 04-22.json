@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1724,
+      "texte": "Naissance d'Emmanuel Kant, philosophe allemand."
+    },
+    {
+      "annee": 1899,
+      "texte": "Naissance de Vladimir Nabokov, écrivain américain d'origine russe."
+    },
+    {
+      "annee": 1904,
+      "texte": "Naissance de Robert Oppenheimer, physicien américain."
+    },
+    {
+      "annee": 1905,
+      "texte": "Naissance de Robert Choquette, écrivain, auteur de feuilletons télévisés et diplomate québécois."
+    },
+    {
+      "annee": 1500,
+      "texte": "Le Portugais Pedro Álvares Cabral et son équipage deviennent les premiers Européens à apercevoir les côtes du Brésil."
+    },
+    {
+      "annee": 2016,
+      "texte": "Signature de l'Accord de Paris sur le climat par 175 parties."
+    },
+    {
+      "annee": 1970,
+      "texte": "Célébration du premier Jour de la Terre."
+    },
+    {
+      "annee": 1977,
+      "texte": "La fibre optique transporte pour la première fois des communications téléphoniques en direct."
+    }
+  ]
+}

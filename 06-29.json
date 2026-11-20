@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1900,
+      "texte": "Naissance d'Antoine de Saint-Exupéry, écrivain et aviateur français."
+    },
+    {
+      "annee": 1886,
+      "texte": "Naissance de Robert Schuman, homme politique français, un des pères fondateurs de l'Union européenne."
+    },
+    {
+      "annee": 1927,
+      "texte": "Naissance de Pierre Perrault, réalisateur, dramaturge et poète québécois."
+    },
+    {
+      "annee": 1900,
+      "texte": "Création de la Fondation Nobel."
+    },
+    {
+      "annee": 2007,
+      "texte": "Apple lance son premier téléphone mobile, l'iPhone."
+    },
+    {
+      "annee": 1995,
+      "texte": "La navette Atlantis devient la première navette américaine à s'amarrer à la station russe Mir."
+    },
+    {
+      "annee": 1922,
+      "texte": "La France accorde au Canada, « librement et pour toujours », un kilomètre carré de terrain à Vimy."
+    },
+    {
+      "annee": 1534,
+      "texte": "Jacques Cartier devient le premier Européen à atteindre l'Île-du-Prince-Édouard."
+    }
+  ]
+}

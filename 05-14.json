@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1727,
+      "texte": "Naissance de Thomas Gainsborough, peintre britannique."
+    },
+    {
+      "annee": 1863,
+      "texte": "Naissance de John Charles Fields, mathématicien canadien, à l'origine de la médaille Fields."
+    },
+    {
+      "annee": 1944,
+      "texte": "Naissance de George Lucas, réalisateur, producteur et scénariste américain, fondateur de Lucasfilm."
+    },
+    {
+      "annee": 1852,
+      "texte": "Naissance d'Henri Julien, caricaturiste et peintre québécois."
+    },
+    {
+      "annee": 2021,
+      "texte": "La Chine pose sur Mars Zhurong, son premier rover martien."
+    },
+    {
+      "annee": 1973,
+      "texte": "Lancement de Skylab, la première station spatiale américaine."
+    },
+    {
+      "annee": 1796,
+      "texte": "Edward Jenner réalise la première inoculation contre la variole, préalable à la première vaccination."
+    },
+    {
+      "annee": 1842,
+      "texte": "Premier numéro de The Illustrated London News, premier magazine d'information illustré au monde."
+    }
+  ]
+}

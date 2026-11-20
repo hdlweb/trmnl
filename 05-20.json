@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1799,
+      "texte": "Naissance d'Honoré de Balzac, écrivain français."
+    },
+    {
+      "annee": 1806,
+      "texte": "Naissance de John Stuart Mill, philosophe et économiste britannique."
+    },
+    {
+      "annee": 1851,
+      "texte": "Naissance d'Émile Berliner, ingénieur allemand, inventeur du gramophone."
+    },
+    {
+      "annee": 1980,
+      "texte": "Premier référendum sur la souveraineté-association du Québec : le « non » l'emporte."
+    },
+    {
+      "annee": 1983,
+      "texte": "La revue Science publie la découverte du VIH, le virus du sida, par des chercheurs français de l'Institut Pasteur."
+    },
+    {
+      "annee": 1964,
+      "texte": "Arno Penzias et Robert Wilson découvrent le fond diffus cosmologique, ce qui leur vaudra le prix Nobel de physique."
+    },
+    {
+      "annee": 1873,
+      "texte": "Levi Strauss et Jacob Davis obtiennent le brevet des blue-jeans à rivets."
+    },
+    {
+      "annee": 1875,
+      "texte": "Dix-sept pays signent la Convention du mètre, à l'origine du Système international d'unités."
+    }
+  ]
+}

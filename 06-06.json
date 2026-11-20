@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1606,
+      "texte": "Naissance de Pierre Corneille, dramaturge français."
+    },
+    {
+      "annee": 1599,
+      "texte": "Naissance de Diego Velázquez, peintre espagnol."
+    },
+    {
+      "annee": 1799,
+      "texte": "Naissance d'Alexandre Pouchkine, écrivain russe."
+    },
+    {
+      "annee": 1875,
+      "texte": "Naissance de Thomas Mann, écrivain allemand, prix Nobel de littérature en 1929."
+    },
+    {
+      "annee": 1903,
+      "texte": "Naissance d'Aram Khatchatourian, compositeur arménien."
+    },
+    {
+      "annee": 1674,
+      "texte": "Shivaji est couronné premier souverain de l'Empire marathe, au fort de Raigad."
+    },
+    {
+      "annee": 1882,
+      "texte": "Le New-Yorkais Henry W. Seely invente et fait breveter le fer à repasser électrique."
+    },
+    {
+      "annee": 1933,
+      "texte": "Ouverture du premier cinéma en plein air pour automobiles (drive-in), à Camden, au New Jersey."
+    }
+  ]
+}

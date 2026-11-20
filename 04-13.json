@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1743,
+      "texte": "Naissance de Thomas Jefferson, avocat et homme politique, 3e président des États-Unis."
+    },
+    {
+      "annee": 1906,
+      "texte": "Naissance de Samuel Beckett, écrivain, poète et dramaturge irlandais, prix Nobel de littérature en 1969."
+    },
+    {
+      "annee": 1940,
+      "texte": "Naissance de J. M. G. Le Clézio, écrivain franco-mauricien, prix Nobel de littérature en 2008."
+    },
+    {
+      "annee": 1825,
+      "texte": "Naissance de Thomas D'Arcy McGee, journaliste, écrivain et homme politique canado-irlandais."
+    },
+    {
+      "annee": 1899,
+      "texte": "Naissance d'Alfred Mosher Butts, architecte américain, inventeur du jeu Scrabble."
+    },
+    {
+      "annee": 1964,
+      "texte": "Sidney Poitier est le premier acteur noir à recevoir l'Oscar du meilleur acteur, pour « Lilies of the Field »."
+    },
+    {
+      "annee": 1742,
+      "texte": "Première à Dublin de l'oratorio « Messiah » de Georg Friedrich Haendel."
+    },
+    {
+      "annee": 1953,
+      "texte": "Parution de « Casino Royale », le premier roman de Ian Fleming mettant en scène James Bond."
+    }
+  ]
+}

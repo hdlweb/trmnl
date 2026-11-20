@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1827,
+      "texte": "Naissance de Johanna Spyri, écrivaine suisse, créatrice de Heidi."
+    },
+    {
+      "annee": 1890,
+      "texte": "Naissance d'Egon Schiele, peintre et dessinateur autrichien."
+    },
+    {
+      "annee": 1851,
+      "texte": "Naissance d'Oliver Lodge, physicien anglais."
+    },
+    {
+      "annee": 1817,
+      "texte": "À Mannheim, Karl Drais parcourt 14,4 km en une heure avec sa draisienne, ancêtre de la bicyclette."
+    },
+    {
+      "annee": 1994,
+      "texte": "Premier vol du Boeing 777, le plus grand biréacteur de l'époque."
+    },
+    {
+      "annee": 1967,
+      "texte": "Par l'arrêt Loving v. Virginia, la Cour suprême des États-Unis invalide les lois interdisant les mariages interraciaux."
+    },
+    {
+      "annee": 1981,
+      "texte": "Sortie de « Raiders of the Lost Ark », premier film de la série Indiana Jones."
+    },
+    {
+      "annee": 1942,
+      "texte": "Pour ses 13 ans, Anne Frank reçoit un journal, qu'elle tiendra pendant l'occupation des Pays-Bas."
+    }
+  ]
+}

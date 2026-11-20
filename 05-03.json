@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1469,
+      "texte": "Naissance de Nicolas Machiavel, homme politique, écrivain et philosophe italien."
+    },
+    {
+      "annee": 1934,
+      "texte": "Naissance de Georges Moustaki, auteur-compositeur-interprète français."
+    },
+    {
+      "annee": 1919,
+      "texte": "Naissance de Pete Seeger, chanteur et compositeur folk américain."
+    },
+    {
+      "annee": 1902,
+      "texte": "Naissance d'Alfred Kastler, physicien français, prix Nobel de physique en 1966."
+    },
+    {
+      "annee": 1791,
+      "texte": "La Pologne-Lituanie adopte la Constitution du 3 mai, première constitution nationale moderne d'Europe."
+    },
+    {
+      "annee": 1947,
+      "texte": "Entrée en vigueur de la nouvelle Constitution du Japon, qui instaure un régime parlementaire."
+    },
+    {
+      "annee": 1913,
+      "texte": "Sortie de « Raja Harishchandra », premier long métrage indien et début de l'industrie du cinéma en Inde."
+    },
+    {
+      "annee": 2000,
+      "texte": "Naissance de la géocache : la première cache est placée et ses coordonnées GPS publiées sur Usenet."
+    }
+  ]
+}

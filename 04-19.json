@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1912,
+      "texte": "Naissance de Glenn T. Seaborg, chimiste américain, prix Nobel de chimie en 1951."
+    },
+    {
+      "annee": 1932,
+      "texte": "Naissance de Fernando Botero, peintre et sculpteur colombien."
+    },
+    {
+      "annee": 1971,
+      "texte": "Mise en orbite de Saliout 1, la première station spatiale."
+    },
+    {
+      "annee": 1839,
+      "texte": "Le traité de Londres reconnaît formellement l'indépendance de la Belgique vis-à-vis des Pays-Bas."
+    },
+    {
+      "annee": 1987,
+      "texte": "Première apparition des Simpson, dans le court métrage « Good Night » du Tracey Ullman Show."
+    },
+    {
+      "annee": 2021,
+      "texte": "L'hélicoptère Ingenuity devient le premier engin à voler sur une autre planète, Mars."
+    },
+    {
+      "annee": 2001,
+      "texte": "La navette Endeavour décolle avec le Canadarm2, destiné à la Station spatiale internationale."
+    },
+    {
+      "annee": 1956,
+      "texte": "L'actrice américaine Grace Kelly épouse le prince Rainier III de Monaco."
+    }
+  ]
+}

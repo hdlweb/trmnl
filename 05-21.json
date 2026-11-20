@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1471,
+      "texte": "Naissance d'Albrecht Dürer, peintre, graveur et mathématicien allemand."
+    },
+    {
+      "annee": 1844,
+      "texte": "Naissance d'Henri Rousseau, dit le Douanier Rousseau, peintre français."
+    },
+    {
+      "annee": 1914,
+      "texte": "Naissance de Romain Gary, aviateur, résistant, diplomate, romancier et réalisateur français."
+    },
+    {
+      "annee": 1921,
+      "texte": "Naissance d'Andreï Sakharov, physicien russe, prix Nobel de la paix en 1975."
+    },
+    {
+      "annee": 1792,
+      "texte": "Naissance de Gaspard-Gustave Coriolis, mathématicien et ingénieur français."
+    },
+    {
+      "annee": 1927,
+      "texte": "Charles Lindbergh se pose au Bourget, près de Paris : premier vol transatlantique sans escale en solitaire."
+    },
+    {
+      "annee": 1939,
+      "texte": "Le roi George VI et la reine Elizabeth dévoilent à Ottawa le Monument commémoratif de guerre du Canada."
+    },
+    {
+      "annee": 1851,
+      "texte": "Le Congrès de Colombie adopte une loi qui abolit l'esclavage dans le pays."
+    }
+  ]
+}

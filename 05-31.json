@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1819,
+      "texte": "Naissance de Walt Whitman, poète et essayiste américain."
+    },
+    {
+      "annee": 1887,
+      "texte": "Naissance de Saint-John Perse, poète et diplomate français, lauréat du prix Nobel."
+    },
+    {
+      "annee": 1930,
+      "texte": "Naissance de Clint Eastwood, acteur, réalisateur, producteur et musicien américain."
+    },
+    {
+      "annee": 1911,
+      "texte": "Naissance de Maurice Allais, économiste et physicien français, lauréat du prix Nobel."
+    },
+    {
+      "annee": 1859,
+      "texte": "Big Ben donne l'heure à Londres pour la première fois."
+    },
+    {
+      "annee": 1902,
+      "texte": "Signature du traité de Vereeniging, qui met fin à la seconde guerre des Boers en Afrique du Sud."
+    },
+    {
+      "annee": 1578,
+      "texte": "À Paris, Henri III pose la première pierre du pont Neuf, en présence de Catherine de Médicis."
+    },
+    {
+      "annee": 1790,
+      "texte": "Les États-Unis adoptent leur première loi sur le droit d'auteur, le Copyright Act de 1790."
+    }
+  ]
+}

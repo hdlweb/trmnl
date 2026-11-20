@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1840,
+      "texte": "Naissance d'Alphonse Daudet, écrivain, poète et dramaturge français."
+    },
+    {
+      "annee": 1882,
+      "texte": "Naissance de Georges Braque, peintre et sculpteur français."
+    },
+    {
+      "annee": 1842,
+      "texte": "Naissance d'Arthur Sullivan, compositeur anglais d'opérettes."
+    },
+    {
+      "annee": 1907,
+      "texte": "Naissance de Daphne du Maurier, romancière et dramaturge britannique."
+    },
+    {
+      "annee": 1888,
+      "texte": "Promulgation au Brésil de la Loi d'or, qui abolit l'esclavage."
+    },
+    {
+      "annee": 1779,
+      "texte": "Le traité de Teschen, entre la Prusse et l'Autriche, met fin à la guerre de Succession de Bavière."
+    },
+    {
+      "annee": 1995,
+      "texte": "La Britannique Alison Hargreaves devient la première femme à gravir l'Everest sans oxygène ni aide de sherpas."
+    },
+    {
+      "annee": 1913,
+      "texte": "Igor Sikorsky fait voler le Russky Vityaz, premier avion quadrimoteur au monde."
+    }
+  ]
+}

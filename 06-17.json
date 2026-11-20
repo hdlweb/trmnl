@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1818,
+      "texte": "Naissance de Charles Gounod, compositeur français."
+    },
+    {
+      "annee": 1882,
+      "texte": "Naissance d'Igor Stravinsky, compositeur russe, naturalisé français, puis américain."
+    },
+    {
+      "annee": 1920,
+      "texte": "Naissance de François Jacob, biologiste français, prix Nobel de médecine en 1965."
+    },
+    {
+      "annee": 1936,
+      "texte": "Naissance de Ken Loach, réalisateur britannique."
+    },
+    {
+      "annee": 1944,
+      "texte": "L'Islande met fin à son union avec le Danemark et devient une république."
+    },
+    {
+      "annee": 1789,
+      "texte": "En France, les États généraux se constituent en Assemblée nationale."
+    },
+    {
+      "annee": 1673,
+      "texte": "Les explorateurs Jacques Marquette et Louis Jolliet atteignent le Mississippi et en décrivent le cours en détail."
+    },
+    {
+      "annee": 1596,
+      "texte": "L'explorateur néerlandais Willem Barentsz découvre l'archipel arctique du Spitzberg."
+    }
+  ]
+}

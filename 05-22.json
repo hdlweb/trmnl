@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1813,
+      "texte": "Naissance de Richard Wagner, compositeur allemand."
+    },
+    {
+      "annee": 1859,
+      "texte": "Naissance d'Arthur Conan Doyle, romancier britannique."
+    },
+    {
+      "annee": 1808,
+      "texte": "Naissance de Gérard de Nerval, écrivain français."
+    },
+    {
+      "annee": 1844,
+      "texte": "Naissance de Mary Cassatt, peintre et graveuse américaine."
+    },
+    {
+      "annee": 1762,
+      "texte": "Le pape Clément XIII inaugure la fontaine de Trevi, à Rome."
+    },
+    {
+      "annee": 1874,
+      "texte": "Création du Requiem de Giuseppe Verdi à Milan, pour le premier anniversaire de la mort d'Alessandro Manzoni."
+    },
+    {
+      "annee": 1906,
+      "texte": "Les frères Wright obtiennent le brevet américain no 821 393 pour leur « machine volante »."
+    },
+    {
+      "annee": 1980,
+      "texte": "Premiers essais publics du jeu d'arcade Pac-Man, à Shibuya, au Japon."
+    }
+  ]
+}

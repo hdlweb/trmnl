@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1906,
+      "texte": "Naissance d'Alfred Pellan, peintre québécois."
+    },
+    {
+      "annee": 1898,
+      "texte": "Naissance de Tamara de Lempicka, peintre polonaise."
+    },
+    {
+      "annee": 1898,
+      "texte": "Naissance de Kenji Mizoguchi, réalisateur japonais."
+    },
+    {
+      "annee": 1718,
+      "texte": "Naissance de Maria Gaetana Agnesi, mathématicienne et philosophe italienne."
+    },
+    {
+      "annee": 1929,
+      "texte": "Première cérémonie des Oscars, à l'hôtel Roosevelt d'Hollywood."
+    },
+    {
+      "annee": 1960,
+      "texte": "À Malibu, Theodore Maiman fait fonctionner le premier laser, avec un cristal de rubis."
+    },
+    {
+      "annee": 1975,
+      "texte": "La Japonaise Junko Tabei devient la première femme à atteindre le sommet de l'Everest."
+    },
+    {
+      "annee": 1919,
+      "texte": "Un hydravion Curtiss NC-4 quitte Trepassey, à Terre-Neuve, pour le premier vol transatlantique, via les Açores."
+    }
+  ]
+}

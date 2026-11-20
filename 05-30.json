@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1896,
+      "texte": "Naissance de Howard Hawks, réalisateur, producteur et scénariste américain."
+    },
+    {
+      "annee": 1874,
+      "texte": "Naissance d'Ernest Duchesne, médecin français."
+    },
+    {
+      "annee": 1908,
+      "texte": "Naissance de Hannes Alfvén, astrophysicien suédois, lauréat du prix Nobel."
+    },
+    {
+      "annee": 1898,
+      "texte": "William Ramsay et Morris Travers découvrent le krypton."
+    },
+    {
+      "annee": 2020,
+      "texte": "Lancement de Crew Dragon Demo-2 : première mission commerciale habitée vers la Station spatiale internationale."
+    },
+    {
+      "annee": 1922,
+      "texte": "Inauguration du Lincoln Memorial à Washington, avec la statue d'Abraham Lincoln de Daniel Chester French."
+    },
+    {
+      "annee": 1723,
+      "texte": "Jean-Sébastien Bach entre en fonction comme cantor de Saint-Thomas, à Leipzig."
+    },
+    {
+      "annee": 1631,
+      "texte": "Publication de la Gazette de France, le premier journal français."
+    }
+  ]
+}

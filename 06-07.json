@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1848,
+      "texte": "Naissance de Paul Gauguin, peintre et sculpteur français."
+    },
+    {
+      "annee": 1929,
+      "texte": "Naissance de John Turner, avocat et homme politique, 17e premier ministre du Canada."
+    },
+    {
+      "annee": 1952,
+      "texte": "Naissance d'Orhan Pamuk, écrivain turc, prix Nobel de littérature en 2006."
+    },
+    {
+      "annee": 1742,
+      "texte": "Le mathématicien Christian Goldbach propose à Leonhard Euler sa conjecture, toujours non démontrée."
+    },
+    {
+      "annee": 1936,
+      "texte": "Le patronat, la CGT et le gouvernement de Léon Blum signent les accords de Matignon."
+    },
+    {
+      "annee": 1832,
+      "texte": "Le Reform Act, considéré comme le début de la démocratie moderne au Royaume-Uni, reçoit la sanction royale."
+    },
+    {
+      "annee": 1975,
+      "texte": "Sony lance le Betamax, premier format de magnétoscope à cassette."
+    },
+    {
+      "annee": 1800,
+      "texte": "L'explorateur David Thompson atteint l'embouchure de la rivière Saskatchewan, au Manitoba."
+    }
+  ]
+}

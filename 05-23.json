@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1707,
+      "texte": "Naissance de Carl von Linné, naturaliste suédois."
+    },
+    {
+      "annee": 1790,
+      "texte": "Naissance de Jules Dumont d'Urville, navigateur et explorateur français."
+    },
+    {
+      "annee": 1908,
+      "texte": "Naissance de John Bardeen, physicien américain, prix Nobel de physique en 1956 et 1972."
+    },
+    {
+      "annee": 1934,
+      "texte": "Naissance de Robert Moog, ingénieur américain, inventeur du synthétiseur Moog."
+    },
+    {
+      "annee": 1949,
+      "texte": "Naissance de la République fédérale d'Allemagne, par la promulgation de sa Loi fondamentale."
+    },
+    {
+      "annee": 1848,
+      "texte": "L'esclavage est aboli en Martinique, avant même l'arrivée du décret du 27 avril."
+    },
+    {
+      "annee": 1873,
+      "texte": "Le Parlement canadien crée la Police à cheval du Nord-Ouest, ancêtre de la Gendarmerie royale du Canada."
+    },
+    {
+      "annee": 1995,
+      "texte": "Sortie de la première version du langage de programmation Java."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1803,
+      "texte": "Naissance de Ralph Waldo Emerson, essayiste, poète et philosophe américain."
+    },
+    {
+      "annee": 1865,
+      "texte": "Naissance de Pieter Zeeman, physicien néerlandais, prix Nobel de physique en 1902."
+    },
+    {
+      "annee": 1900,
+      "texte": "Naissance d'Alain Grandbois, poète et écrivain québécois."
+    },
+    {
+      "annee": 1961,
+      "texte": "Devant le Congrès, John F. Kennedy fixe l'objectif d'envoyer un homme sur la Lune avant la fin de la décennie."
+    },
+    {
+      "annee": 1977,
+      "texte": "Sortie au cinéma du premier film « Star Wars », dans 32 salles américaines."
+    },
+    {
+      "annee": 1878,
+      "texte": "Première à Londres de l'opéra-comique « H.M.S. Pinafore » de Gilbert et Sullivan."
+    },
+    {
+      "annee": 2012,
+      "texte": "Le Dragon de SpaceX devient le premier vaisseau commercial à s'amarrer à la Station spatiale internationale."
+    },
+    {
+      "annee": 2001,
+      "texte": "Erik Weihenmayer devient la première personne aveugle à atteindre le sommet de l'Everest."
+    }
+  ]
+}

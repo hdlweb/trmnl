@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1911,
+      "texte": "Naissance de Czesław Miłosz, poète, romancier et essayiste polonais, lauréat du prix Nobel."
+    },
+    {
+      "annee": 1936,
+      "texte": "Naissance d'Assia Djebar, écrivaine et académicienne franco-algérienne."
+    },
+    {
+      "annee": 1942,
+      "texte": "Naissance de Robert Ballard, océanographe et explorateur sous-marin américain."
+    },
+    {
+      "annee": 1643,
+      "texte": "À Paris, le jeune Jean-Baptiste Poquelin, futur Molière, fonde l'Illustre Théâtre avec neuf autres comédiens."
+    },
+    {
+      "annee": 1894,
+      "texte": "Inauguration du Tower Bridge, sur la Tamise, à Londres."
+    },
+    {
+      "annee": 1859,
+      "texte": "L'acrobate français Charles Blondin traverse les chutes du Niagara sur une corde raide."
+    },
+    {
+      "annee": 1937,
+      "texte": "Mise en service à Londres du 999, le premier numéro de téléphone d'urgence au monde."
+    },
+    {
+      "annee": 1886,
+      "texte": "Le premier train transcontinental canadien part de Montréal. Il arrivera à Port Moody, en Colombie-Britannique, le 4 juillet."
+    }
+  ]
+}

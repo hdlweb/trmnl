@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1949,
+      "texte": "Naissance de Billy Joel, chanteur, auteur-compositeur et pianiste américain."
+    },
+    {
+      "annee": 1883,
+      "texte": "Naissance de José Ortega y Gasset, philosophe et homme politique espagnol."
+    },
+    {
+      "annee": 1914,
+      "texte": "Naissance de Hank Snow, chanteur et compositeur country d'origine canadienne."
+    },
+    {
+      "annee": 1877,
+      "texte": "Profitant de la guerre entre la Russie et l'Empire ottoman, la Roumanie proclame son indépendance."
+    },
+    {
+      "annee": 1901,
+      "texte": "L'Australie ouvre son premier parlement national, à Melbourne."
+    },
+    {
+      "annee": 1662,
+      "texte": "Le personnage qui deviendra Mr. Punch fait sa première apparition connue en Angleterre."
+    },
+    {
+      "annee": 1949,
+      "texte": "Avènement du prince Rainier III de Monaco, pour un règne de 56 ans."
+    }
+  ]
+}
