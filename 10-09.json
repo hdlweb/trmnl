@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1835,
+      "texte": "Naissance de Camille Saint-Saëns, compositeur français."
+    },
+    {
+      "annee": 1907,
+      "texte": "Naissance de Jacques Tati, réalisateur et acteur français."
+    },
+    {
+      "annee": 1906,
+      "texte": "Naissance de Léopold Sédar Senghor, poète et homme d'État, premier président du Sénégal."
+    },
+    {
+      "annee": 1964,
+      "texte": "Naissance de Guillermo del Toro, réalisateur, scénariste et producteur mexicain."
+    },
+    {
+      "annee": 1890,
+      "texte": "L'Éole de Clément Ader s'élève à 20 centimètres du sol sur 50 mètres : premier vol motorisé d'un plus lourd que l'air."
+    },
+    {
+      "annee": 1986,
+      "texte": "Première à Londres de la comédie musicale « The Phantom of the Opera » d'Andrew Lloyd Webber."
+    },
+    {
+      "annee": 1962,
+      "texte": "Nick Holonyak, ingénieur de General Electric, présente la première diode électroluminescente (DEL)."
+    },
+    {
+      "annee": 1874,
+      "texte": "Le traité de Berne crée l'Union postale universelle, qui unifie les services postaux internationaux."
+    }
+  ]
+}

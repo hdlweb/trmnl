@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1865,
+      "texte": "Naissance de Rudyard Kipling, écrivain et poète britannique, prix Nobel de littérature en 1907."
+    },
+    {
+      "annee": 1869,
+      "texte": "Naissance de Stephen Leacock, enseignant, politologue, économiste, écrivain et humoriste canadien."
+    },
+    {
+      "annee": 1961,
+      "texte": "Naissance de Douglas Coupland, écrivain et dramaturge canadien."
+    },
+    {
+      "annee": 1922,
+      "texte": "Création de l'Union des républiques socialistes soviétiques (URSS)."
+    },
+    {
+      "annee": 1927,
+      "texte": "Ouverture à Tokyo de la ligne Ginza, la première ligne de métro d'Asie."
+    },
+    {
+      "annee": 1913,
+      "texte": "William David Coolidge dépose un brevet pour la lampe à filament de tungstène."
+    },
+    {
+      "annee": 2015,
+      "texte": "L'Union internationale de chimie pure et appliquée confirme la découverte de quatre nouveaux éléments chimiques."
+    },
+    {
+      "annee": 1902,
+      "texte": "L'expédition Discovery de Robert Falcon Scott atteint le point le plus au sud jamais atteint en Antarctique, à 82° 17′ S."
+    }
+  ]
+}

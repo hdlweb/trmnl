@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1898,
+      "texte": "Pierre et Marie Curie annoncent à l'Académie des sciences la découverte du radium et du polonium, et proposent le mot « radioactivité »."
+    },
+    {
+      "annee": 1791,
+      "texte": "Naissance de Charles Babbage, mathématicien et ingénieur britannique, inventeur de la machine à différences."
+    },
+    {
+      "annee": 1930,
+      "texte": "Naissance de Jean Ferrat, auteur-compositeur-interprète et poète français."
+    },
+    {
+      "annee": 1883,
+      "texte": "Naissance de Maurice Utrillo, peintre français."
+    },
+    {
+      "annee": 1606,
+      "texte": "Première représentation connue de « King Lear », tragédie de William Shakespeare, devant le roi Jacques Ier."
+    },
+    {
+      "annee": 1709,
+      "texte": "Création à Venise de l'opéra « Agrippina », décrit comme le premier chef-d'œuvre de Georg Friedrich Haendel."
+    },
+    {
+      "annee": 1975,
+      "texte": "Le Tu-144, premier avion de ligne supersonique au monde, capable de dépasser Mach 2, entre en service."
+    },
+    {
+      "annee": 1860,
+      "texte": "Premier derby entre le Sheffield F.C. et le Hallam F.C., la plus ancienne rencontre de football au monde."
+    }
+  ]
+}

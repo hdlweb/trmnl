@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1946,
+      "texte": "Naissance de Steven Spielberg, réalisateur, producteur et scénariste américain, cofondateur de DreamWorks."
+    },
+    {
+      "annee": 1879,
+      "texte": "Naissance de Paul Klee, peintre et enseignant suisse."
+    },
+    {
+      "annee": 1913,
+      "texte": "Naissance de Willy Brandt, journaliste puis chancelier allemand, prix Nobel de la paix."
+    },
+    {
+      "annee": 1854,
+      "texte": "L'Assemblée législative de la province du Canada abolit le régime seigneurial."
+    },
+    {
+      "annee": 1994,
+      "texte": "Découverte de la grotte Chauvet."
+    },
+    {
+      "annee": 1970,
+      "texte": "Aérospatiale et Deutsche Airbus forment officiellement Airbus."
+    },
+    {
+      "annee": 1958,
+      "texte": "Les États-Unis lancent SCORE, le premier satellite de télécommunications au monde."
+    },
+    {
+      "annee": 2013,
+      "texte": "Première implantation d'un cœur artificiel total, à l'hôpital européen Georges-Pompidou de Paris."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1869,
+      "texte": "Naissance du Mahatma Gandhi, philosophe et homme politique, figure de l'indépendance de l'Inde."
+    },
+    {
+      "annee": 1904,
+      "texte": "Naissance de Graham Greene, écrivain britannique."
+    },
+    {
+      "annee": 1852,
+      "texte": "Naissance de William Ramsay, chimiste britannique, découvreur des gaz rares, prix Nobel de chimie en 1904."
+    },
+    {
+      "annee": 1917,
+      "texte": "Naissance de Christian de Duve, médecin et biochimiste belge, prix Nobel de médecine en 1974."
+    },
+    {
+      "annee": 1945,
+      "texte": "Naissance de Don McLean, auteur-compositeur-interprète américain."
+    },
+    {
+      "annee": 1535,
+      "texte": "Jacques Cartier arrive à Hochelaga, près de la montagne qu'il nomme mont Royal."
+    },
+    {
+      "annee": 1997,
+      "texte": "Les quinze pays de l'Union européenne signent le traité d'Amsterdam."
+    },
+    {
+      "annee": 1967,
+      "texte": "Thurgood Marshall prête serment : premier juge afro-américain de la Cour suprême des États-Unis."
+    }
+  ]
+}

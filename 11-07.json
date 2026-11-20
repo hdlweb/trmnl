@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1867,
+      "texte": "Naissance de Marie Curie, physicienne et chimiste, prix Nobel de physique en 1903 et de chimie en 1911."
+    },
+    {
+      "annee": 1913,
+      "texte": "Naissance d'Albert Camus, écrivain français, prix Nobel de littérature en 1957."
+    },
+    {
+      "annee": 1728,
+      "texte": "Naissance de James Cook, navigateur et explorateur britannique."
+    },
+    {
+      "annee": 1878,
+      "texte": "Naissance de Lise Meitner, physicienne autrichienne."
+    },
+    {
+      "annee": 1885,
+      "texte": "Cérémonie du dernier crampon à Craigellachie, en Colombie-Britannique : le premier chemin de fer transcontinental du Canada est achevé."
+    },
+    {
+      "annee": 1659,
+      "texte": "Le traité des Pyrénées entre la France et l'Espagne met fin à la guerre franco-espagnole."
+    },
+    {
+      "annee": 1631,
+      "texte": "Première observation d'un transit de Mercure, prédit par Johannes Kepler, notamment par Pierre Gassendi."
+    },
+    {
+      "annee": 1665,
+      "texte": "Première parution de la London Gazette, le plus ancien journal encore publié."
+    }
+  ]
+}

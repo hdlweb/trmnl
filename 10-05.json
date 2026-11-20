@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1713,
+      "texte": "Naissance de Denis Diderot, écrivain et philosophe français."
+    },
+    {
+      "annee": 1864,
+      "texte": "Naissance de Louis Lumière, ingénieur français, coinventeur du cinématographe avec son frère Auguste."
+    },
+    {
+      "annee": 1936,
+      "texte": "Naissance de Václav Havel, dramaturge, dissident, puis premier président de la République tchèque."
+    },
+    {
+      "annee": 1939,
+      "texte": "Naissance de Marie-Claire Blais, écrivaine québécoise."
+    },
+    {
+      "annee": 1962,
+      "texte": "Avant-première à Londres de « Dr. No », le premier film de James Bond."
+    },
+    {
+      "annee": 1962,
+      "texte": "Sortie en Grande-Bretagne de « Love Me Do », le premier single des Beatles."
+    },
+    {
+      "annee": 1984,
+      "texte": "Marc Garneau devient le premier Canadien dans l'espace."
+    },
+    {
+      "annee": 1931,
+      "texte": "Clyde Pangborn et Hugh Herndon réussissent le premier vol sans escale au-dessus du Pacifique."
+    }
+  ]
+}

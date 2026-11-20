@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1929,
+      "texte": "Naissance d'Hubert Aquin, écrivain québécois."
+    },
+    {
+      "annee": 1632,
+      "texte": "Naissance d'Antoine van Leeuwenhoek, microbiologiste néerlandais."
+    },
+    {
+      "annee": 1868,
+      "texte": "Naissance d'Alexandra David-Néel, exploratrice et écrivaine franco-belge."
+    },
+    {
+      "annee": 1927,
+      "texte": "Naissance de Gilbert Bécaud, chanteur et compositeur français."
+    },
+    {
+      "annee": 1945,
+      "texte": "Entrée en vigueur de la Charte des Nations unies ; la date est commémorée comme Journée des Nations unies."
+    },
+    {
+      "annee": 1648,
+      "texte": "Signature des traités de Westphalie, qui mettent fin à la guerre de Trente Ans."
+    },
+    {
+      "annee": 1992,
+      "texte": "Les Blue Jays de Toronto deviennent la première équipe hors des États-Unis à remporter la Série mondiale."
+    },
+    {
+      "annee": 1946,
+      "texte": "Une caméra à bord de la fusée V-2 n° 13 prend la première photographie de la Terre depuis l'espace."
+    }
+  ]
+}

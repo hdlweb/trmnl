@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1946,
+      "texte": "L'Organisation des Nations unies crée le Fonds des Nations unies pour l'enfance, l'UNICEF."
+    },
+    {
+      "annee": 1997,
+      "texte": "Au Japon, 159 pays adoptent le protocole de Kyoto, avec l'objectif de réduire les émissions de gaz à effet de serre."
+    },
+    {
+      "annee": 1944,
+      "texte": "Hubert Beuve-Méry fonde à Paris le journal Le Monde."
+    },
+    {
+      "annee": 1931,
+      "texte": "Le Statut de Westminster établit l'égalité législative entre le Royaume-Uni et les dominions, dont le Canada, qui deviennent totalement souverains."
+    },
+    {
+      "annee": 1972,
+      "texte": "Apollo 17 devient la sixième et dernière mission Apollo à se poser sur la Lune."
+    },
+    {
+      "annee": 1803,
+      "texte": "Naissance d'Hector Berlioz, compositeur, chef d'orchestre et critique français."
+    },
+    {
+      "annee": 1918,
+      "texte": "Naissance d'Alexandre Soljenitsyne, écrivain russe, dissident face au régime soviétique, prix Nobel de littérature en 1970."
+    },
+    {
+      "annee": 1968,
+      "texte": "Naissance d'Emmanuelle Charpentier, microbiologiste, généticienne et biochimiste française, prix Nobel de chimie en 2020."
+    }
+  ]
+}

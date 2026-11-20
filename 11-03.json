@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1901,
+      "texte": "Naissance d'André Malraux, écrivain et homme politique français, prix Goncourt en 1933."
+    },
+    {
+      "annee": 1801,
+      "texte": "Naissance de Vincenzo Bellini, compositeur italien."
+    },
+    {
+      "annee": 1933,
+      "texte": "Naissance d'Amartya Sen, économiste indien, prix Nobel d'économie en 1998."
+    },
+    {
+      "annee": 1817,
+      "texte": "La Banque de Montréal, plus ancienne banque à charte du Canada, ouvre ses portes à Montréal."
+    },
+    {
+      "annee": 1904,
+      "texte": "Réélection de Wilfrid Laurier comme premier ministre du Canada."
+    },
+    {
+      "annee": 1957,
+      "texte": "L'Union soviétique lance Spoutnik 2, avec à bord la chienne Laïka, premier être vivant mis en orbite."
+    },
+    {
+      "annee": 1973,
+      "texte": "La NASA lance Mariner 10 vers Mercure ; elle sera la première sonde à atteindre cette planète."
+    },
+    {
+      "annee": 1903,
+      "texte": "Indépendance du Panama vis-à-vis de la Colombie."
+    }
+  ]
+}

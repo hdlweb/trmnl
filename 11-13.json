@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1850,
+      "texte": "Naissance de Robert Louis Stevenson, écrivain écossais."
+    },
+    {
+      "annee": 1938,
+      "texte": "Naissance de Gérald Godin, journaliste, poète et homme politique québécois."
+    },
+    {
+      "annee": 1934,
+      "texte": "Naissance de Garry Marshall, acteur, réalisateur et producteur américain."
+    },
+    {
+      "annee": 1940,
+      "texte": "Naissance de Saul Kripke, philosophe et logicien américain."
+    },
+    {
+      "annee": 1956,
+      "texte": "La Cour suprême des États-Unis déclare anticonstitutionnelles les lois ségrégationnistes dans les autobus."
+    },
+    {
+      "annee": 1940,
+      "texte": "Première à New York de « Fantasia » de Walt Disney, premier film commercial projeté en son stéréophonique."
+    },
+    {
+      "annee": 1927,
+      "texte": "Ouverture du Holland Tunnel, qui relie Manhattan à Jersey City sous l'Hudson."
+    },
+    {
+      "annee": 1995,
+      "texte": "Le Mozambique devient le premier État à rejoindre le Commonwealth sans avoir fait partie de l'Empire britannique."
+    }
+  ]
+}

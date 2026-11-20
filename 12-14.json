@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1911,
+      "texte": "L'explorateur norvégien Roald Amundsen et son équipe sont les premiers à atteindre le pôle Sud."
+    },
+    {
+      "annee": 1972,
+      "texte": "Au terme de la mission Apollo 17, l'astronaute américain Eugene Cernan devient le dernier homme à ce jour à avoir marché sur la Lune."
+    },
+    {
+      "annee": 1995,
+      "texte": "Signature des accords de paix de Dayton sur l'ex-Yougoslavie."
+    },
+    {
+      "annee": 1962,
+      "texte": "La sonde Mariner 2 de la NASA devient le premier engin spatial à survoler Vénus."
+    },
+    {
+      "annee": 1546,
+      "texte": "Naissance de Tycho Brahe, astronome danois."
+    },
+    {
+      "annee": 1895,
+      "texte": "Naissance de Paul Éluard, poète français."
+    },
+    {
+      "annee": 1918,
+      "texte": "Élections générales au Royaume-Uni : les premières où les femmes ont le droit de voter."
+    },
+    {
+      "annee": 1903,
+      "texte": "Les frères Wright font leur premier essai de vol avec le Wright Flyer, à Kitty Hawk, en Caroline du Nord."
+    }
+  ]
+}

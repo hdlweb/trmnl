@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1906,
+      "texte": "Naissance de Grace Hopper, mathématicienne, informaticienne et amirale américaine, qui conçut le langage COBOL."
+    },
+    {
+      "annee": 1608,
+      "texte": "Naissance de John Milton, poète et philosophe anglais."
+    },
+    {
+      "annee": 1916,
+      "texte": "Naissance de Kirk Douglas, acteur et cinéaste américain, devenu francophone, francophile puis centenaire."
+    },
+    {
+      "annee": 1986,
+      "texte": "Ouverture du musée d'Orsay à Paris, dans le bâtiment de l'ancienne gare du même nom."
+    },
+    {
+      "annee": 1905,
+      "texte": "En France, la loi de séparation des Églises et de l'État est votée, à l'initiative du député Aristide Briand."
+    },
+    {
+      "annee": 1979,
+      "texte": "Une commission de l'OMS certifie l'éradication mondiale de la variole, seule maladie infectieuse humaine complètement éradiquée à ce jour."
+    },
+    {
+      "annee": 1968,
+      "texte": "Douglas Engelbart présente la « mère de toutes les démos » et dévoile au public la souris d'ordinateur, l'hypertexte et l'interface graphique."
+    },
+    {
+      "annee": 1851,
+      "texte": "Le premier YMCA d'Amérique du Nord est fondé à Montréal."
+    }
+  ]
+}

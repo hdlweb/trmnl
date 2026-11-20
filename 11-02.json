@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1815,
+      "texte": "Naissance de George Boole, logicien et mathématicien britannique."
+    },
+    {
+      "annee": 1699,
+      "texte": "Naissance de Jean Siméon Chardin, peintre français."
+    },
+    {
+      "annee": 1906,
+      "texte": "Naissance de Luchino Visconti, cinéaste italien."
+    },
+    {
+      "annee": 1929,
+      "texte": "Naissance de Richard E. Taylor, physicien canadien, prix Nobel."
+    },
+    {
+      "annee": 2000,
+      "texte": "La Station spatiale internationale accueille ses trois premiers occupants, avec l'expédition 1."
+    },
+    {
+      "annee": 1936,
+      "texte": "Début du service de télévision de la BBC, premier service régulier de télévision « haute définition » au monde."
+    },
+    {
+      "annee": 1920,
+      "texte": "KDKA, à Pittsburgh, commence à émettre : première station de radio commerciale des États-Unis."
+    },
+    {
+      "annee": 1947,
+      "texte": "Howard Hughes pilote le premier et unique vol du Hughes H-4 Hercules, alors le plus grand avion jamais construit."
+    }
+  ]
+}

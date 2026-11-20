@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1861,
+      "texte": "Naissance de James Naismith, médecin canadien, inventeur du basket-ball."
+    },
+    {
+      "annee": 1854,
+      "texte": "Naissance de John Philip Sousa, compositeur américain."
+    },
+    {
+      "annee": 1931,
+      "texte": "Naissance de Mike Nichols, réalisateur américain."
+    },
+    {
+      "annee": 1932,
+      "texte": "Naissance de François Englert, physicien belge, prix Nobel de physique en 2013."
+    },
+    {
+      "annee": 1999,
+      "texte": "Les Australiens rejettent par référendum le passage de la monarchie à la république."
+    },
+    {
+      "annee": 1153,
+      "texte": "Le traité de Wallingford met fin à la guerre civile en Angleterre entre Mathilde l'Emperesse et Étienne de Blois."
+    },
+    {
+      "annee": 1217,
+      "texte": "Le roi Henri III d'Angleterre promulgue la Charte des forêts, qui rétablit l'accès des hommes libres aux forêts royales."
+    },
+    {
+      "annee": 1869,
+      "texte": "Rutgers bat Princeton 6 à 4 lors du premier match officiel de football américain universitaire."
+    }
+  ]
+}

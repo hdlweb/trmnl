@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1775,
+      "texte": "Naissance de Jane Austen, romancière britannique."
+    },
+    {
+      "annee": 1946,
+      "texte": "Naissance de Benny Andersson, chanteur, compositeur et pianiste suédois du groupe ABBA."
+    },
+    {
+      "annee": 1893,
+      "texte": "La Symphonie du Nouveau Monde du compositeur tchèque Antonín Dvořák est créée au Carnegie Hall de New York."
+    },
+    {
+      "annee": 1901,
+      "texte": "Après plusieurs refus d'éditeurs, Beatrix Potter publie à ses frais 250 exemplaires de « The Tale of Peter Rabbit »."
+    },
+    {
+      "annee": 1773,
+      "texte": "Boston Tea Party : pour protester contre les taxes britanniques, des colons jettent des caisses de thé dans le port de Boston."
+    },
+    {
+      "annee": 1689,
+      "texte": "Le Parlement d'Angleterre adopte le Bill of Rights, qui énonce des droits civils fondamentaux."
+    },
+    {
+      "annee": 1949,
+      "texte": "À Londres, le Parlement modifie les actes de l'Amérique du Nord britannique, donnant au Canada le pouvoir d'amender sa constitution."
+    },
+    {
+      "annee": 1891,
+      "texte": "Au Québec, destitution d'Honoré Mercier."
+    }
+  ]
+}

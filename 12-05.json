@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1901,
+      "texte": "Naissance de Werner Heisenberg, physicien allemand, prix Nobel de physique en 1932."
+    },
+    {
+      "annee": 1933,
+      "texte": "Ratification du 21e amendement de la Constitution des États-Unis, qui met fin à la prohibition de l'alcool dans le pays."
+    },
+    {
+      "annee": 1958,
+      "texte": "Ouverture de la déviation de Preston, la première autoroute du Royaume-Uni."
+    },
+    {
+      "annee": 1914,
+      "texte": "Départ de l'expédition impériale transantarctique, qui tente la première traversée terrestre de l'Antarctique."
+    },
+    {
+      "annee": 1890,
+      "texte": "Naissance de Fritz Lang, réalisateur, producteur et scénariste austro-américain."
+    },
+    {
+      "annee": 1782,
+      "texte": "Naissance de Martin Van Buren, juriste et homme politique, 8e président des États-Unis de 1837 à 1841."
+    },
+    {
+      "annee": 2020,
+      "texte": "La sonde japonaise Hayabusa 2, lancée en 2014, largue sur Terre une capsule contenant des échantillons de l'astéroïde Ryugu."
+    },
+    {
+      "annee": 1991,
+      "texte": "Leonid Kravtchouk est élu premier président de l'Ukraine."
+    }
+  ]
+}

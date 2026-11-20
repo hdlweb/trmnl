@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1888,
+      "texte": "L'inventeur écossais John Boyd Dunlop dépose le brevet du pneu à air."
+    },
+    {
+      "annee": 1842,
+      "texte": "Premier concert de l'Orchestre philharmonique de New York, fondé par Ureli Corelli Hill."
+    },
+    {
+      "annee": 1909,
+      "texte": "Le chimiste belge Leo Baekeland dépose le brevet de la bakélite, le premier plastique industriel."
+    },
+    {
+      "annee": 2024,
+      "texte": "La cathédrale Notre-Dame de Paris rouvre solennellement ses portes, moins de six ans après l'incendie des 15 et 16 avril 2019."
+    },
+    {
+      "annee": 1995,
+      "texte": "La sonde Galileo se place en orbite autour de Jupiter, un peu plus de six ans après son lancement par la navette Atlantis."
+    },
+    {
+      "annee": 2003,
+      "texte": "Le Parti conservateur du Canada est officiellement enregistré, né de la fusion de l'Alliance canadienne et du Parti progressiste-conservateur."
+    },
+    {
+      "annee": 1598,
+      "texte": "Naissance du Bernin, Gian Lorenzo Bernini, sculpteur et peintre italien."
+    },
+    {
+      "annee": 1905,
+      "texte": "Naissance de Gerard Kuiper, astronome néerlandais et américain."
+    }
+  ]
+}

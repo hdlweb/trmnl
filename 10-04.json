@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1814,
+      "texte": "Naissance de Jean-François Millet, peintre français."
+    },
+    {
+      "annee": 1807,
+      "texte": "Naissance de Louis-Hippolyte La Fontaine, homme politique, premier ministre du Canada-Est."
+    },
+    {
+      "annee": 1895,
+      "texte": "Naissance de Buster Keaton, acteur et cinéaste américain."
+    },
+    {
+      "annee": 1947,
+      "texte": "Naissance de Julien Clerc, auteur-compositeur-interprète français."
+    },
+    {
+      "annee": 1957,
+      "texte": "L'URSS met en orbite Spoutnik 1, premier satellite artificiel de la Terre."
+    },
+    {
+      "annee": 1958,
+      "texte": "Promulgation de la Constitution de la Cinquième République française."
+    },
+    {
+      "annee": 1945,
+      "texte": "Création de la Sécurité sociale en France."
+    }
+  ]
+}

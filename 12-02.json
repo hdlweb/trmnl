@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1942,
+      "texte": "À l'université de Chicago, Enrico Fermi réalise la première réaction nucléaire en chaîne auto-entretenue, dans le réacteur Chicago Pile-1."
+    },
+    {
+      "annee": 1982,
+      "texte": "À l'université de l'Utah, Barney Clark devient la première personne à recevoir un cœur artificiel permanent."
+    },
+    {
+      "annee": 1859,
+      "texte": "Naissance de Georges Seurat, peintre français."
+    },
+    {
+      "annee": 1991,
+      "texte": "Le Canada et la Pologne deviennent les premiers pays à reconnaître l'indépendance de l'Ukraine vis-à-vis de l'Union soviétique."
+    },
+    {
+      "annee": 1993,
+      "texte": "La NASA lance la navette Endeavour pour une mission de réparation du télescope spatial Hubble."
+    },
+    {
+      "annee": 1867,
+      "texte": "Au Tremont Temple de Boston, l'écrivain britannique Charles Dickens donne sa première lecture publique aux États-Unis."
+    },
+    {
+      "annee": 1766,
+      "texte": "Le parlement suédois adopte une loi sur la liberté de la presse, faisant de la Suède le premier pays au monde à garantir la liberté d'expression."
+    },
+    {
+      "annee": 1971,
+      "texte": "La sonde Mars 3 atteint la planète Mars."
+    }
+  ]
+}

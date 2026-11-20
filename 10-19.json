@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1862,
+      "texte": "Naissance d'Auguste Lumière, ingénieur et industriel français, co-inventeur du cinématographe."
+    },
+    {
+      "annee": 1910,
+      "texte": "Naissance de Subrahmanyan Chandrasekhar, astrophysicien indien, prix Nobel de physique 1983."
+    },
+    {
+      "annee": 1931,
+      "texte": "Naissance de John le Carré, écrivain britannique de romans d'espionnage."
+    },
+    {
+      "annee": 1977,
+      "texte": "Naissance de Jason Reitman, réalisateur, scénariste et producteur d'origine québécoise."
+    },
+    {
+      "annee": 2017,
+      "texte": "L'astronome canadien Robert Weryk découvre ʻOumuamua, premier objet interstellaire connu à traverser le Système solaire."
+    },
+    {
+      "annee": 1900,
+      "texte": "Max Planck découvre la loi de Planck sur le rayonnement du corps noir."
+    },
+    {
+      "annee": 1943,
+      "texte": "Des chercheurs de l'Université Rutgers isolent la streptomycine, premier antibiotique efficace contre la tuberculose."
+    },
+    {
+      "annee": 1974,
+      "texte": "Niue devient un État autonome associé à la Nouvelle-Zélande."
+    }
+  ]
+}

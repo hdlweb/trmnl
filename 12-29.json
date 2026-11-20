@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1993,
+      "texte": "Les États-Unis et la Russie signent l'accord de désarmement nucléaire START II."
+    },
+    {
+      "annee": 1959,
+      "texte": "À Caltech, le physicien Richard Feynman prononce le discours « Il y a plein de place en bas », qui annonce les nanotechnologies."
+    },
+    {
+      "annee": 1989,
+      "texte": "L'écrivain, philosophe et dissident Václav Havel est élu premier président post-communiste de la Tchécoslovaquie."
+    },
+    {
+      "annee": 1913,
+      "texte": "Cecil B. DeMille commence le tournage de « The Squaw Man », le premier long métrage d'Hollywood."
+    },
+    {
+      "annee": 1951,
+      "texte": "Naissance de Georges Thurston, auteur-compositeur et interprète québécois."
+    },
+    {
+      "annee": 1800,
+      "texte": "Naissance de Charles Goodyear, chimiste américain, inventeur de la vulcanisation du caoutchouc."
+    },
+    {
+      "annee": 1766,
+      "texte": "Naissance de Charles Macintosh, chimiste écossais, inventeur du tissu imperméable."
+    },
+    {
+      "annee": 1876,
+      "texte": "Naissance de Pablo Casals, violoncelliste, chef d'orchestre et compositeur catalan."
+    }
+  ]
+}

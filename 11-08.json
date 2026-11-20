@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1656,
+      "texte": "Naissance d'Edmond Halley, astronome anglais, découvreur de la comète qui porte son nom."
+    },
+    {
+      "annee": 1847,
+      "texte": "Naissance de Bram Stoker, écrivain irlandais, créateur du comte Dracula."
+    },
+    {
+      "annee": 1881,
+      "texte": "Naissance de Clarence Gagnon, peintre et graveur québécois."
+    },
+    {
+      "annee": 1954,
+      "texte": "Naissance de Kazuo Ishiguro, écrivain britannique."
+    },
+    {
+      "annee": 1895,
+      "texte": "Wilhelm Röntgen découvre les rayons X."
+    },
+    {
+      "annee": 2017,
+      "texte": "Inauguration du Louvre Abou Dabi, aux Émirats arabes unis."
+    },
+    {
+      "annee": 1998,
+      "texte": "Approbation par référendum de l'accord de Nouméa, qui prévoit le transfert de compétences de la France vers la Nouvelle-Calédonie."
+    },
+    {
+      "annee": 1972,
+      "texte": "Lancement de la chaîne de télévision payante américaine HBO (Home Box Office)."
+    }
+  ]
+}

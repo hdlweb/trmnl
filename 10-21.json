@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1833,
+      "texte": "Naissance d'Alfred Nobel, chimiste suédois, inventeur de la dynamite et fondateur du prix Nobel."
+    },
+    {
+      "annee": 1790,
+      "texte": "Naissance d'Alphonse de Lamartine, poète et homme politique français."
+    },
+    {
+      "annee": 1917,
+      "texte": "Naissance de Dizzy Gillespie, trompettiste, compositeur et chef d'orchestre de jazz américain."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance de Louis Robichaud, premier ministre du Nouveau-Brunswick de 1960 à 1970."
+    },
+    {
+      "annee": 1910,
+      "texte": "Le HMS Niobe arrive dans le port d'Halifax : premier grand navire de la Marine royale canadienne."
+    },
+    {
+      "annee": 1520,
+      "texte": "Découverte européenne de Saint-Pierre-et-Miquelon par João Álvares Fagundes."
+    },
+    {
+      "annee": 1959,
+      "texte": "Ouverture à New York du musée Solomon R. Guggenheim, conçu par l'architecte Frank Lloyd Wright."
+    },
+    {
+      "annee": 1858,
+      "texte": "Première à Paris de l'opérette « Orphée aux Enfers » de Jacques Offenbach, au théâtre des Bouffes-Parisiens."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1606,
+      "texte": "Naissance de Jeanne Mance, fondatrice de l'Hôtel-Dieu de Montréal."
+    },
+    {
+      "annee": 1833,
+      "texte": "Naissance d'Alexandre Borodine, compositeur, chimiste et médecin russe."
+    },
+    {
+      "annee": 1866,
+      "texte": "Naissance de Sun Yat-sen, premier président de la république de Chine."
+    },
+    {
+      "annee": 1915,
+      "texte": "Naissance de Roland Barthes, écrivain et sémiologue français."
+    },
+    {
+      "annee": 2014,
+      "texte": "Le module Philae de la sonde Rosetta se pose sur la comète Tchouri : premier atterrissage sur une comète."
+    },
+    {
+      "annee": 1980,
+      "texte": "La sonde Voyager 1 passe au plus près de Saturne et prend les premières images de ses anneaux."
+    },
+    {
+      "annee": 1981,
+      "texte": "Mission STS-2 de la navette Columbia : premier vaisseau habité lancé une deuxième fois dans l'espace."
+    },
+    {
+      "annee": 1958,
+      "texte": "Une équipe menée par Warren Harding réussit la première ascension de The Nose, sur El Capitan, à Yosemite."
+    }
+  ]
+}

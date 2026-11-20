@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1821,
+      "texte": "Naissance de Fiodor Dostoïevski, écrivain russe."
+    },
+    {
+      "annee": 1922,
+      "texte": "Naissance de Kurt Vonnegut, écrivain américain."
+    },
+    {
+      "annee": 1863,
+      "texte": "Naissance de Paul Signac, peintre français."
+    },
+    {
+      "annee": 1898,
+      "texte": "Naissance de René Clair, cinéaste français."
+    },
+    {
+      "annee": 1918,
+      "texte": "Signature de l'armistice entre les Alliés et l'Allemagne à Rethondes : fin des combats de la Première Guerre mondiale."
+    },
+    {
+      "annee": 1982,
+      "texte": "La navette Columbia décolle pour STS-5, première mission opérationnelle du programme de la navette spatiale."
+    },
+    {
+      "annee": 1930,
+      "texte": "Albert Einstein et Leó Szilárd obtiennent un brevet pour leur invention, le réfrigérateur d'Einstein."
+    },
+    {
+      "annee": 2002,
+      "texte": "Le mathématicien russe Grigori Perelman publie le premier de trois textes démontrant la conjecture de Poincaré."
+    }
+  ]
+}

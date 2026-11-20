@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1858,
+      "texte": "Naissance de Giacomo Puccini, compositeur italien."
+    },
+    {
+      "annee": 1887,
+      "texte": "Naissance de Srinivasa Ramanujan, mathématicien indien."
+    },
+    {
+      "annee": 1666,
+      "texte": "À Paris, séance inaugurale de l'Académie royale des sciences."
+    },
+    {
+      "annee": 1938,
+      "texte": "Marjorie Courtenay-Latimer découvre un cœlacanthe vivant, poisson que les scientifiques croyaient éteint depuis des millions d'années."
+    },
+    {
+      "annee": 1937,
+      "texte": "Ouverture du tunnel Lincoln, qui passe sous le fleuve Hudson pour relier New York à Weehawken, au New Jersey."
+    },
+    {
+      "annee": 1891,
+      "texte": "L'astéroïde 323 Brucia devient le premier astéroïde découvert grâce à la photographie."
+    },
+    {
+      "annee": 2016,
+      "texte": "Une étude montre que le vaccin VSV-EBOV est efficace à 70 à 100 % contre l'Ebola : c'est le premier vaccin éprouvé contre cette maladie."
+    },
+    {
+      "annee": 1949,
+      "texte": "Naissance de Maurice et Robin Gibb, auteurs-compositeurs et musiciens britanniques, membres du trio des Bee Gees."
+    }
+  ]
+}

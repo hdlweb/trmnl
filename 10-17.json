@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1956,
+      "texte": "Naissance de Mae Jemison, médecin et astronaute américaine."
+    },
+    {
+      "annee": 1813,
+      "texte": "Naissance de Georg Büchner, dramaturge allemand."
+    },
+    {
+      "annee": 1920,
+      "texte": "Naissance de Miguel Delibes, écrivain espagnol."
+    },
+    {
+      "annee": 2018,
+      "texte": "Le Canada devient le deuxième pays à légaliser le cannabis."
+    },
+    {
+      "annee": 1604,
+      "texte": "L'astronome allemand Johannes Kepler commence à observer un objet très brillant, aujourd'hui appelé supernova de Kepler."
+    },
+    {
+      "annee": 1907,
+      "texte": "Marconi lance le premier service commercial de télégraphie sans fil transatlantique."
+    },
+    {
+      "annee": 1797,
+      "texte": "Le traité de Campo-Formio est signé entre la France et l'Autriche, mettant fin à la guerre de la Première Coalition."
+    },
+    {
+      "annee": 1956,
+      "texte": "La reine Élisabeth II inaugure à Sellafield, en Angleterre, la première centrale nucléaire commerciale."
+    }
+  ]
+}

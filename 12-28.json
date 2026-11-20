@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1895,
+      "texte": "Les frères Lumière présentent leur première séance payante au Grand Café, boulevard des Capucines, à Paris."
+    },
+    {
+      "annee": 1895,
+      "texte": "Le physicien allemand Wilhelm Röntgen publie un article sur sa découverte d'un nouveau type de rayonnement : les rayons X."
+    },
+    {
+      "annee": 1612,
+      "texte": "Galilée est le premier à observer la planète Neptune, mais il la prend pour une étoile fixe."
+    },
+    {
+      "annee": 1967,
+      "texte": "L'adoption de la loi Neuwirth légalise la contraception en France."
+    },
+    {
+      "annee": 1944,
+      "texte": "Maurice Richard devient le premier joueur de la LNH à marquer huit points dans un seul match."
+    },
+    {
+      "annee": 1856,
+      "texte": "Naissance de Woodrow Wilson, historien et homme politique, 28e président des États-Unis et lauréat du prix Nobel."
+    },
+    {
+      "annee": 1903,
+      "texte": "Naissance de John von Neumann, mathématicien et physicien américain d'origine hongroise."
+    },
+    {
+      "annee": 1842,
+      "texte": "Naissance de Calixa Lavallée, pianiste, compositeur et enseignant canadien."
+    }
+  ]
+}

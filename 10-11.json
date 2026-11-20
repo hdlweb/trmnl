@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1885,
+      "texte": "Naissance de François Mauriac, écrivain français, prix Nobel de littérature."
+    },
+    {
+      "annee": 1758,
+      "texte": "Naissance de Heinrich Olbers, médecin et astronome allemand."
+    },
+    {
+      "annee": 1925,
+      "texte": "Naissance d'Elmore Leonard, romancier et scénariste américain."
+    },
+    {
+      "annee": 1962,
+      "texte": "Ouverture du concile Vatican II, le premier concile œcuménique catholique depuis 92 ans."
+    },
+    {
+      "annee": 1968,
+      "texte": "Lancement d'Apollo 7, première mission habitée du programme Apollo."
+    },
+    {
+      "annee": 1984,
+      "texte": "À bord de Challenger, Kathryn D. Sullivan devient la première Américaine à sortir dans l'espace."
+    },
+    {
+      "annee": 1852,
+      "texte": "Inauguration de l'Université de Sydney, la plus ancienne d'Australie."
+    },
+    {
+      "annee": 1910,
+      "texte": "Theodore Roosevelt devient le premier président américain à voler en avion."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1919,
+      "texte": "Naissance de Pierre Elliott Trudeau, premier ministre du Canada de 1968 à 1979 puis de 1980 à 1984."
+    },
+    {
+      "annee": 1946,
+      "texte": "Naissance de Howard Shore, compositeur canadien."
+    },
+    {
+      "annee": 1859,
+      "texte": "Naissance d'Henri Bergson, philosophe français, prix Nobel de littérature en 1927."
+    },
+    {
+      "annee": 1929,
+      "texte": "Le Comité judiciaire du Conseil privé renverse la Cour suprême du Canada : les femmes sont des « personnes » en droit canadien."
+    },
+    {
+      "annee": 1922,
+      "texte": "Fondation de la BBC, plus ancien radiodiffuseur national du monde."
+    },
+    {
+      "annee": 1867,
+      "texte": "Les États-Unis prennent possession de l'Alaska, achetée à l'Empire russe."
+    },
+    {
+      "annee": 1967,
+      "texte": "La sonde soviétique Venera 4 atteint Vénus : premier engin spatial à mesurer l'atmosphère d'une autre planète."
+    },
+    {
+      "annee": 1851,
+      "texte": "« Moby-Dick » d'Herman Melville est publié pour la première fois à Londres, sous le titre « The Whale »."
+    }
+  ]
+}

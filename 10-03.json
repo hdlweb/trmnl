@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1867,
+      "texte": "Naissance de Pierre Bonnard, peintre français."
+    },
+    {
+      "annee": 1882,
+      "texte": "Naissance d'A. Y. Jackson, peintre canadien."
+    },
+    {
+      "annee": 1886,
+      "texte": "Naissance d'Alain-Fournier, écrivain français."
+    },
+    {
+      "annee": 1967,
+      "texte": "Naissance de Denis Villeneuve, cinéaste canadien."
+    },
+    {
+      "annee": 1990,
+      "texte": "Réunification de l'Allemagne."
+    },
+    {
+      "annee": 1991,
+      "texte": "Nadine Gordimer devient la première Sud-Africaine à recevoir le prix Nobel de littérature."
+    },
+    {
+      "annee": 2023,
+      "texte": "Wab Kinew devient le premier membre des Premières Nations élu premier ministre d'une province canadienne, au Manitoba."
+    },
+    {
+      "annee": 1985,
+      "texte": "Premier vol de la navette spatiale Atlantis."
+    }
+  ]
+}

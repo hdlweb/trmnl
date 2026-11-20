@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1815,
+      "texte": "Parution d'« Emma », le dernier roman de Jane Austen publié de son vivant."
+    },
+    {
+      "annee": 1954,
+      "texte": "J. Hartwell Harrison et Joseph Murray réalisent la première greffe de rein réussie."
+    },
+    {
+      "annee": 1958,
+      "texte": "Inauguration de la tour de Tokyo, alors la plus haute tour autoportante du monde."
+    },
+    {
+      "annee": 1986,
+      "texte": "Piloté par Dick Rutan et Jeana Yeager, le Voyager devient le premier avion à faire le tour du monde sans escale ni ravitaillement, en 9 jours."
+    },
+    {
+      "annee": 1865,
+      "texte": "La France, l'Italie, la Suisse et la Belgique fondent l'Union monétaire latine."
+    },
+    {
+      "annee": 1933,
+      "texte": "Naissance d'Akihito, ancien empereur du Japon."
+    },
+    {
+      "annee": 1957,
+      "texte": "Naissance de Dan Bigras, auteur-compositeur, interprète et musicien québécois."
+    },
+    {
+      "annee": 1938,
+      "texte": "Naissance de Robert Kahn, ingénieur et informaticien américain, co-inventeur du protocole de communication Internet TCP/IP."
+    }
+  ]
+}

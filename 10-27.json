@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1928,
+      "texte": "Naissance de Gilles Vigneault, poète, auteur-compositeur et interprète québécois."
+    },
+    {
+      "annee": 1946,
+      "texte": "Naissance d'Ivan Reitman, réalisateur et producteur canadien d'origine tchèque."
+    },
+    {
+      "annee": 1782,
+      "texte": "Naissance de Niccolò Paganini, violoniste et compositeur italien."
+    },
+    {
+      "annee": 1858,
+      "texte": "Naissance de Theodore Roosevelt, 26e président des États-Unis, prix Nobel de la paix."
+    },
+    {
+      "annee": 1904,
+      "texte": "Ouverture du premier tronçon souterrain du métro de New York, entre l'hôtel de ville et Harlem."
+    },
+    {
+      "annee": 1991,
+      "texte": "Indépendance du Turkménistan vis-à-vis de l'URSS."
+    },
+    {
+      "annee": 1961,
+      "texte": "La NASA teste la première fusée Saturn I, lors de la mission Saturn-Apollo 1."
+    },
+    {
+      "annee": 1956,
+      "texte": "Traité sur la Sarre : la France reconnaît le rattachement de la Sarre à l'Allemagne de l'Ouest, à compter du 1er janvier 1957."
+    }
+  ]
+}

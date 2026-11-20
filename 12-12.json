@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1901,
+      "texte": "À Signal Hill, à Saint-Jean de Terre-Neuve, Guglielmo Marconi reçoit le premier signal radio transatlantique : la lettre « S » en morse."
+    },
+    {
+      "annee": 1821,
+      "texte": "Naissance de Gustave Flaubert, écrivain et romancier français."
+    },
+    {
+      "annee": 1863,
+      "texte": "Naissance d'Edvard Munch, peintre et graveur norvégien."
+    },
+    {
+      "annee": 1927,
+      "texte": "Naissance de Robert Noyce, ingénieur et inventeur américain, cofondateur de la société Intel."
+    },
+    {
+      "annee": 2003,
+      "texte": "Paul Martin devient premier ministre du Canada."
+    },
+    {
+      "annee": 1985,
+      "texte": "Robert Bourassa redevient premier ministre du Québec."
+    },
+    {
+      "annee": 1964,
+      "texte": "Jomo Kenyatta devient le premier président de la République du Kenya."
+    },
+    {
+      "annee": 1830,
+      "texte": "À Belgrade, lecture du décret par lequel l'Empire ottoman reconnaît l'autonomie de la principauté de Serbie."
+    }
+  ]
+}

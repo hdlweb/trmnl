@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1979,
+      "texte": "Après deux tentatives infructueuses, la première fusée Ariane décolle du Centre spatial guyanais, à Kourou."
+    },
+    {
+      "annee": 1968,
+      "texte": "L'équipage d'Apollo 8 se met en orbite autour de la Lune, une première pour des humains. Il y prend la photo du « lever de Terre »."
+    },
+    {
+      "annee": 1818,
+      "texte": "Première interprétation du chant de Noël « Douce nuit », de Joseph Mohr et Franz Gruber, dans une église d'Oberndorf, en Autriche."
+    },
+    {
+      "annee": 1914,
+      "texte": "Des soldats britanniques et allemands interrompent les combats pour célébrer Noël : c'est le début de la trêve de Noël."
+    },
+    {
+      "annee": 1906,
+      "texte": "Reginald Fessenden diffuse la première émission de radio : une lecture de poésie, un solo de violon et un discours."
+    },
+    {
+      "annee": 1814,
+      "texte": "Le Royaume-Uni et les États-Unis signent le traité de paix de Gand, qui met fin à la guerre de 1812."
+    },
+    {
+      "annee": 1879,
+      "texte": "Naissance d'Émile Nelligan, poète canadien."
+    },
+    {
+      "annee": 1818,
+      "texte": "Naissance de James Prescott Joule, physicien et brasseur anglais."
+    }
+  ]
+}

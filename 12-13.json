@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1553,
+      "texte": "Naissance d'Henri IV, roi de France de 1589 à 1610."
+    },
+    {
+      "annee": 1871,
+      "texte": "Naissance d'Emily Carr, peintre et autrice de l'Ouest canadien."
+    },
+    {
+      "annee": 1816,
+      "texte": "Naissance de Werner von Siemens, ingénieur, inventeur et industriel allemand, fondateur de Siemens."
+    },
+    {
+      "annee": 1642,
+      "texte": "Le navigateur néerlandais Abel Tasman est le premier Européen connu à apercevoir la Nouvelle-Zélande."
+    },
+    {
+      "annee": 1545,
+      "texte": "Début du concile de Trente."
+    },
+    {
+      "annee": 1963,
+      "texte": "Les Nations unies adoptent une charte du droit de l'espace."
+    },
+    {
+      "annee": 1962,
+      "texte": "La NASA lance Relay 1, le premier satellite de communication actif à répéteur mis en orbite."
+    },
+    {
+      "annee": 1928,
+      "texte": "Au Carnegie Hall de New York, première d'« An American in Paris », pièce orchestrale aux accents de jazz de George Gershwin."
+    }
+  ]
+}

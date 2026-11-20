@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1857,
+      "texte": "La reine Victoria choisit Ottawa, alors une petite ville forestière, comme capitale de la province du Canada."
+    },
+    {
+      "annee": 1999,
+      "texte": "Les États-Unis rétrocèdent pleinement le canal de Panama et sa zone au Panama, comme le prévoyaient les traités Torrijos-Carter."
+    },
+    {
+      "annee": 1992,
+      "texte": "Dissolution de la Tchécoslovaquie et naissance de la République tchèque et de la République slovaque."
+    },
+    {
+      "annee": 2004,
+      "texte": "Inauguration du Taipei 101, gratte-ciel de 509 mètres à Taïwan."
+    },
+    {
+      "annee": 1907,
+      "texte": "Première descente de la boule de Times Square, à New York, pour célébrer le passage à la nouvelle année."
+    },
+    {
+      "annee": 1759,
+      "texte": "Arthur Guinness signe un bail de 9 000 ans pour une brasserie de Dublin et commence à brasser la Guinness."
+    },
+    {
+      "annee": 1869,
+      "texte": "Naissance d'Henri Matisse, peintre fauviste et sculpteur français."
+    },
+    {
+      "annee": 1514,
+      "texte": "Naissance d'André Vésale, anatomiste et médecin brabançon."
+    }
+  ]
+}

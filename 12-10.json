@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1901,
+      "texte": "Cinq ans jour pour jour après la mort d'Alfred Nobel, les premiers prix Nobel sont remis à Stockholm."
+    },
+    {
+      "annee": 1948,
+      "texte": "Adoption de la Déclaration universelle des droits de l'homme par l'Organisation des Nations unies."
+    },
+    {
+      "annee": 1957,
+      "texte": "Lester B. Pearson, ministre canadien des Affaires étrangères, reçoit le prix Nobel de la paix."
+    },
+    {
+      "annee": 1993,
+      "texte": "Les Sud-Africains Nelson Mandela et Frederik de Klerk reçoivent le prix Nobel de la paix."
+    },
+    {
+      "annee": 1911,
+      "texte": "La physicienne franco-polonaise Marie Curie reçoit le prix Nobel de chimie, pour sa découverte du radium et du polonium."
+    },
+    {
+      "annee": 1964,
+      "texte": "Le pasteur afro-américain Martin Luther King reçoit le prix Nobel de la paix."
+    },
+    {
+      "annee": 1815,
+      "texte": "Naissance d'Ada Lovelace, mathématicienne et informaticienne britannique, fille du poète Lord Byron."
+    },
+    {
+      "annee": 1884,
+      "texte": "« Adventures of Huckleberry Finn », de Mark Twain, paraît d'abord au Royaume-Uni et au Canada, deux mois avant les États-Unis."
+    }
+  ]
+}

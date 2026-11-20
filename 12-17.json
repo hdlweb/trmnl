@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1903,
+      "texte": "À Kitty Hawk, en Caroline du Nord, Orville et Wilbur Wright réalisent le premier vol motorisé et contrôlé à bord du Wright Flyer."
+    },
+    {
+      "annee": 1938,
+      "texte": "Otto Hahn et son assistant Fritz Strassmann découvrent la fission nucléaire de l'uranium, considérée comme l'acte de naissance de l'énergie nucléaire."
+    },
+    {
+      "annee": 1874,
+      "texte": "Naissance de William Lyon Mackenzie King, économiste et homme politique, dixième premier ministre du Canada."
+    },
+    {
+      "annee": 1706,
+      "texte": "Naissance d'Émilie du Châtelet, mathématicienne et physicienne française."
+    },
+    {
+      "annee": 1778,
+      "texte": "Naissance de Humphry Davy, chimiste et physicien britannique."
+    },
+    {
+      "annee": 1946,
+      "texte": "Paul Douchy, prévisionniste de la Météorologie nationale, présente le premier bulletin météo de la télévision française."
+    },
+    {
+      "annee": 1892,
+      "texte": "Parution du premier numéro du magazine Vogue."
+    },
+    {
+      "annee": 1865,
+      "texte": "Première exécution de la Symphonie inachevée de Franz Schubert."
+    }
+  ]
+}

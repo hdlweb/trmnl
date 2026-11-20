@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1967,
+      "texte": "En Afrique du Sud, le chirurgien Christiaan Barnard réalise la première transplantation cardiaque humaine, sur Louis Washkansky, au Cap."
+    },
+    {
+      "annee": 1985,
+      "texte": "Le Vieux-Québec est inscrit sur la liste du patrimoine mondial de l'UNESCO."
+    },
+    {
+      "annee": 1919,
+      "texte": "Le pont de Québec est ouvert à la circulation ferroviaire."
+    },
+    {
+      "annee": 1997,
+      "texte": "À Ottawa, les représentants de 121 pays signent la convention qui interdit la fabrication et l'emploi des mines antipersonnel."
+    },
+    {
+      "annee": 1992,
+      "texte": "Un ingénieur de Sema Group envoie depuis un ordinateur le premier message texte au monde, sur le téléphone d'un collègue, via le réseau Vodafone."
+    },
+    {
+      "annee": 1973,
+      "texte": "La sonde Pioneer 10 survole Jupiter pour la première fois et transmet les premières images rapprochées de la planète."
+    },
+    {
+      "annee": 1930,
+      "texte": "Naissance de Jean-Luc Godard, réalisateur et scénariste franco-suisse."
+    },
+    {
+      "annee": 1857,
+      "texte": "Naissance de Joseph Conrad, écrivain britannique d'origine polonaise."
+    }
+  ]
+}

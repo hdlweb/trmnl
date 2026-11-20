@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1923,
+      "texte": "Naissance d'Italo Calvino, écrivain italien."
+    },
+    {
+      "annee": 1881,
+      "texte": "Naissance de P. G. Wodehouse, écrivain britannique."
+    },
+    {
+      "annee": 1840,
+      "texte": "Naissance d'Honoré Mercier, 9e premier ministre du Québec, de 1887 à 1891."
+    },
+    {
+      "annee": 1608,
+      "texte": "Naissance d'Evangelista Torricelli, physicien et mathématicien italien."
+    },
+    {
+      "annee": 1983,
+      "texte": "La Marche pour l'égalité et contre le racisme part de Marseille."
+    },
+    {
+      "annee": 2003,
+      "texte": "Avec Shenzhou 5, Yang Liwei devient le premier Chinois dans l'espace."
+    },
+    {
+      "annee": 1956,
+      "texte": "FORTRAN, le premier langage informatique moderne, est partagé avec les programmeurs."
+    },
+    {
+      "annee": 1783,
+      "texte": "Jean-François Pilâtre de Rozier devient le premier humain à monter dans un ballon des frères Montgolfier."
+    }
+  ]
+}

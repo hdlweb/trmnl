@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1909,
+      "texte": "Fondation du Canadien de Montréal, membre fondateur de l'Association nationale de hockey et plus ancien club de hockey professionnel au monde."
+    },
+    {
+      "annee": 1909,
+      "texte": "À Toronto se joue la première Coupe Grey de football canadien : les Varsity Blues de l'Université de Toronto l'emportent 26 à 6."
+    },
+    {
+      "annee": 1945,
+      "texte": "Naissance de Roberta Bondar, neurologue, universitaire et astronaute canadienne."
+    },
+    {
+      "annee": 1639,
+      "texte": "Jeremiah Horrocks et William Crabtree réalisent la première observation réussie, depuis la Terre, d'un transit de Vénus devant le Soleil."
+    },
+    {
+      "annee": 1875,
+      "texte": "Naissance de Rainer Maria Rilke, poète et écrivain autrichien."
+    },
+    {
+      "annee": 1791,
+      "texte": "Parution du premier numéro de The Observer, le premier journal du dimanche au monde."
+    },
+    {
+      "annee": 1998,
+      "texte": "Lancement d'Unity, le deuxième module de la Station spatiale internationale."
+    },
+    {
+      "annee": 1563,
+      "texte": "Clôture du concile œcuménique de Trente."
+    }
+  ]
+}

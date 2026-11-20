@@ -1,0 +1,32 @@
+{
+  "evenements": [
+    {
+      "annee": 1843,
+      "texte": "Parution de « A Christmas Carol » de Charles Dickens : l'avare Ebenezer Scrooge se transforme après la visite de fantômes."
+    },
+    {
+      "annee": 1997,
+      "texte": "Sortie aux États-Unis du film « Titanic », qui rapportera plus de 2,2 milliards de dollars dans le monde."
+    },
+    {
+      "annee": 1984,
+      "texte": "La Chine et le Royaume-Uni signent la déclaration commune qui prévoit le retour de Hong Kong à la Chine le 1er juillet 1997."
+    },
+    {
+      "annee": 2013,
+      "texte": "Lancement depuis Kourou du satellite européen Gaia, chargé de dresser un catalogue astronomique d'environ un milliard d'objets."
+    },
+    {
+      "annee": 1964,
+      "texte": "Entrée des cendres de Jean Moulin au Panthéon. André Malraux y prononce son discours « Entre ici »."
+    },
+    {
+      "annee": 1852,
+      "texte": "Naissance d'Albert Abraham Michelson, physicien américain, prix Nobel de physique en 1907."
+    },
+    {
+      "annee": 1606,
+      "texte": "Trois navires quittent l'Angleterre avec les colons qui fonderont Jamestown, en Virginie, la première des treize colonies."
+    }
+  ]
+}

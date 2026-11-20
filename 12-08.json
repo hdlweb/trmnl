@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1861,
+      "texte": "Naissance de Georges Méliès, acteur, réalisateur, producteur et scénariste français."
+    },
+    {
+      "annee": 1865,
+      "texte": "Naissance de Jean Sibelius, violoniste et compositeur finlandais."
+    },
+    {
+      "annee": 1886,
+      "texte": "Naissance de Diego Rivera, peintre mexicain."
+    },
+    {
+      "annee": 1965,
+      "texte": "Clôture du concile Vatican II, considéré comme l'événement le plus important de l'histoire de l'Église catholique au XXe siècle."
+    },
+    {
+      "annee": 1991,
+      "texte": "Les dirigeants biélorusse, russe et ukrainien signent les accords de Belovej, qui dissolvent l'Union soviétique et créent la CEI."
+    },
+    {
+      "annee": 2013,
+      "texte": "Metallica donne un concert en Antarctique et devient le premier groupe à se produire sur les sept continents."
+    },
+    {
+      "annee": 2010,
+      "texte": "Avec le premier lancement de Dragon, SpaceX devient la première entreprise privée à lancer, mettre en orbite et récupérer un vaisseau spatial."
+    },
+    {
+      "annee": 1931,
+      "texte": "L'inventeur américain Herman Affel fait breveter le câble coaxial moderne."
+    }
+  ]
+}

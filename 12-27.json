@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1822,
+      "texte": "Naissance de Louis Pasteur, chimiste et biologiste français."
+    },
+    {
+      "annee": 1571,
+      "texte": "Naissance de Johannes Kepler, mathématicien et astronome allemand."
+    },
+    {
+      "annee": 1831,
+      "texte": "Le HMS Beagle quitte Plymouth avec à son bord Charles Darwin, pour un voyage durant lequel il commencera à formuler sa théorie de l'évolution."
+    },
+    {
+      "annee": 1932,
+      "texte": "Ouverture à New York du Radio City Music Hall, qui possède alors la plus grande salle de spectacle au monde."
+    },
+    {
+      "annee": 1935,
+      "texte": "Regina Jonas est ordonnée première femme rabbin de l'histoire du judaïsme."
+    },
+    {
+      "annee": 1969,
+      "texte": "Il tombe 37,8 centimètres de neige au Québec, et à Montréal en particulier : un record pour un mois de décembre, battu en 2005."
+    },
+    {
+      "annee": 1958,
+      "texte": "En France, le nouveau franc, qui vaut cent anciens francs, est adopté. Il sera mis en circulation le 1er janvier 1960."
+    },
+    {
+      "annee": 1945,
+      "texte": "La Banque internationale pour la reconstruction et le développement et le FMI sont mis en place après les accords de Bretton Woods."
+    }
+  ]
+}

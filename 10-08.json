@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1920,
+      "texte": "Naissance de Frank Herbert, écrivain américain."
+    },
+    {
+      "annee": 1864,
+      "texte": "Naissance d'Ozias Leduc, peintre canadien."
+    },
+    {
+      "annee": 1850,
+      "texte": "Naissance d'Henry Le Chatelier, chimiste français."
+    },
+    {
+      "annee": 1873,
+      "texte": "Naissance d'Ejnar Hertzsprung, chimiste et astronome danois."
+    },
+    {
+      "annee": 1896,
+      "texte": "Naissance de Julien Duvivier, réalisateur français."
+    },
+    {
+      "annee": 1645,
+      "texte": "Jeanne Mance ouvre à Montréal le premier hôpital laïc d'Amérique du Nord."
+    },
+    {
+      "annee": 1970,
+      "texte": "Alexandre Soljenitsyne reçoit le prix Nobel de littérature."
+    },
+    {
+      "annee": 2019,
+      "texte": "Le Canado-Américain James Peebles reçoit le prix Nobel de physique pour ses travaux en cosmologie."
+    }
+  ]
+}

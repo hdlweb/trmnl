@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1786,
+      "texte": "Naissance de Philippe Aubert de Gaspé, écrivain québécois."
+    },
+    {
+      "annee": 1735,
+      "texte": "Naissance de John Adams, 2e président des États-Unis."
+    },
+    {
+      "annee": 1871,
+      "texte": "Naissance de Paul Valéry, poète, écrivain et philosophe français."
+    },
+    {
+      "annee": 1932,
+      "texte": "Naissance de Louis Malle, cinéaste français."
+    },
+    {
+      "annee": 1995,
+      "texte": "Référendum sur la souveraineté du Québec : le « non » l'emporte à 50,58 %."
+    },
+    {
+      "annee": 1991,
+      "texte": "Ouverture à Madrid d'une conférence de paix israélo-arabe, parrainée par les États-Unis et l'Union soviétique."
+    },
+    {
+      "annee": 1960,
+      "texte": "À l'Infirmerie royale d'Édimbourg, Michael Woodruff réalise la première greffe de rein réussie au Royaume-Uni."
+    },
+    {
+      "annee": 1983,
+      "texte": "Premières élections démocratiques en Argentine depuis dix ans : Raúl Alfonsín est élu président."
+    }
+  ]
+}

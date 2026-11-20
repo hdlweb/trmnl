@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1466,
+      "texte": "Naissance d'Érasme de Rotterdam, philosophe et écrivain néerlandais."
+    },
+    {
+      "annee": 1914,
+      "texte": "Naissance de Jonas Salk, biologiste américain, inventeur du vaccin contre la poliomyélite."
+    },
+    {
+      "annee": 1846,
+      "texte": "Naissance d'Auguste Escoffier, chef cuisinier et écrivain culinaire français."
+    },
+    {
+      "annee": 1909,
+      "texte": "Naissance de Francis Bacon, peintre britannique."
+    },
+    {
+      "annee": 1886,
+      "texte": "Le président Grover Cleveland inaugure la statue de la Liberté, dans le port de New York."
+    },
+    {
+      "annee": 1942,
+      "texte": "La route de l'Alaska relie pour la première fois l'Alaska au réseau ferroviaire nord-américain, à Dawson Creek, au Canada."
+    },
+    {
+      "annee": 1972,
+      "texte": "Premier vol d'un Airbus, l'Airbus A300."
+    },
+    {
+      "annee": 1636,
+      "texte": "Fondation de l'université Harvard, dans la colonie de la baie du Massachusetts."
+    }
+  ]
+}

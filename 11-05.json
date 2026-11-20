@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1943,
+      "texte": "Naissance de Sam Shepard, dramaturge, acteur et réalisateur américain."
+    },
+    {
+      "annee": 1926,
+      "texte": "Naissance de John Berger, écrivain, poète et peintre britannique."
+    },
+    {
+      "annee": 1952,
+      "texte": "Naissance de Vandana Shiva, philosophe indienne."
+    },
+    {
+      "annee": 1494,
+      "texte": "Naissance de Hans Sachs, poète allemand."
+    },
+    {
+      "annee": 2013,
+      "texte": "L'Inde lance la sonde Mangalyaan vers Mars, sa première sonde interplanétaire."
+    },
+    {
+      "annee": 2007,
+      "texte": "Chang'e 1, premier satellite lunaire chinois, entre en orbite autour de la Lune."
+    },
+    {
+      "annee": 1895,
+      "texte": "George B. Selden obtient le premier brevet américain pour une automobile."
+    },
+    {
+      "annee": 1940,
+      "texte": "Franklin D. Roosevelt devient le premier et seul président des États-Unis élu pour un troisième mandat."
+    }
+  ]
+}

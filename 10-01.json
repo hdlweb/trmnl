@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1541,
+      "texte": "Naissance du Greco, peintre espagnol d'origine crétoise."
+    },
+    {
+      "annee": 1842,
+      "texte": "Naissance de Charles Cros, poète et inventeur français."
+    },
+    {
+      "annee": 1924,
+      "texte": "Naissance de Jimmy Carter, 39e président des États-Unis, prix Nobel de la paix."
+    },
+    {
+      "annee": 1959,
+      "texte": "Naissance de Youssou N'Dour, auteur-compositeur-interprète et homme politique sénégalais."
+    },
+    {
+      "annee": 1964,
+      "texte": "Le Japon met en service le Shinkansen, train à grande vitesse entre Tokyo et Osaka."
+    },
+    {
+      "annee": 1890,
+      "texte": "Création du parc national de Yosemite, en Californie, à l'instigation de John Muir."
+    },
+    {
+      "annee": 1982,
+      "texte": "Sony et Philips lancent le disque compact au Japon, avec le premier lecteur, le CDP-101."
+    },
+    {
+      "annee": 1971,
+      "texte": "Premier diagnostic d'un patient avec un tomodensitomètre (scanner)."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1955,
+      "texte": "À Montgomery (Alabama), Rosa Parks est arrêtée pour avoir refusé de céder sa place de bus à un Blanc, ce qui déclenche le boycott des bus de la ville."
+    },
+    {
+      "annee": 1959,
+      "texte": "Douze pays signent le traité sur l'Antarctique, qui y interdit toute activité militaire et fait du continent une réserve consacrée à la science."
+    },
+    {
+      "annee": 1990,
+      "texte": "Jonction des tunnels de service du tunnel sous la Manche, entre la France et l'Angleterre."
+    },
+    {
+      "annee": 1640,
+      "texte": "Le Portugal regagne son indépendance vis-à-vis de l'Espagne : Jean, duc de Bragance, devient roi sous le nom de Jean IV."
+    },
+    {
+      "annee": 1918,
+      "texte": "Par l'Acte d'union, le Danemark reconnaît l'Islande comme un royaume pleinement souverain, uni au Danemark par un monarque commun."
+    },
+    {
+      "annee": 1792,
+      "texte": "Naissance de Nikolaï Lobatchevski, mathématicien et géomètre russe."
+    },
+    {
+      "annee": 1944,
+      "texte": "Naissance de Tahar Ben Jelloun, écrivain français d'origine marocaine, membre du jury de l'Académie Goncourt."
+    },
+    {
+      "annee": 1971,
+      "texte": "Découverte en Équateur de Georges le solitaire, seul spécimen vivant alors connu de l'espèce Chelonoidis abingdonii."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1968,
+      "texte": "Lancement d'Apollo 8, première mission spatiale habitée au-delà de l'orbite terrestre, en route vers la Lune."
+    },
+    {
+      "annee": 1937,
+      "texte": "Première à Los Angeles de « Snow White and the Seven Dwarfs », le premier long métrage d'animation sur celluloïd."
+    },
+    {
+      "annee": 1965,
+      "texte": "L'ONU adopte la Convention internationale sur l'élimination de toutes les formes de discrimination raciale."
+    },
+    {
+      "annee": 1972,
+      "texte": "À Berlin, l'Allemagne de l'Ouest et la République démocratique allemande signent le traité fondamental et se reconnaissent mutuellement."
+    },
+    {
+      "annee": 1872,
+      "texte": "Le HMS Challenger quitte Portsmouth pour une expédition scientifique qui jettera les bases de l'océanographie."
+    },
+    {
+      "annee": 1620,
+      "texte": "Les pèlerins du Mayflower débarquent à l'actuelle Plymouth, au Massachusetts, pour y fonder la colonie de Plymouth."
+    },
+    {
+      "annee": 1804,
+      "texte": "Naissance de Benjamin Disraeli, écrivain et homme politique, premier ministre du Royaume-Uni."
+    },
+    {
+      "annee": 1880,
+      "texte": "En France, le député Camille Sée fait adopter une loi sur l'enseignement des jeunes filles."
+    }
+  ]
+}

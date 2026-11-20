@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1905,
+      "texte": "Naissance de Paul-Émile Borduas, peintre québécois."
+    },
+    {
+      "annee": 1847,
+      "texte": "Naissance d'Emma Albani, chanteuse d'opéra québécoise, amie intime de la reine Victoria."
+    },
+    {
+      "annee": 1880,
+      "texte": "Naissance d'Alfred Wegener, météorologue et géophysicien allemand."
+    },
+    {
+      "annee": 1757,
+      "texte": "Naissance d'Antonio Canova, sculpteur italien."
+    },
+    {
+      "annee": 1959,
+      "texte": "Frappé au visage par une rondelle, Jacques Plante termine le match avec un masque, aujourd'hui obligatoire pour les gardiens de but."
+    },
+    {
+      "annee": 1814,
+      "texte": "Ouverture du congrès de Vienne, pour établir un nouvel ordre politique européen après la première abdication de Napoléon Ier."
+    },
+    {
+      "annee": 1963,
+      "texte": "Inauguration de l'observatoire d'Arecibo, à Porto Rico, doté du plus grand radiotélescope jamais construit."
+    },
+    {
+      "annee": 1981,
+      "texte": "L'État associé d'Antigua obtient son indépendance du Royaume-Uni sous le nom d'Antigua-et-Barbuda."
+    }
+  ]
+}

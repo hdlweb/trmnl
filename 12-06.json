@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 2014,
+      "texte": "La sonde spatiale New Horizons, qui doit survoler Pluton, sort d'hibernation après neuf ans de trajet."
+    },
+    {
+      "annee": 1921,
+      "texte": "Signature à Londres du traité anglo-irlandais, qui permet la création, un an plus tard, de l'État libre d'Irlande."
+    },
+    {
+      "annee": 1865,
+      "texte": "L'esclavage est officiellement aboli aux États-Unis avec la ratification du 13e amendement de la Constitution."
+    },
+    {
+      "annee": 1935,
+      "texte": "Naissance de Jean Lapointe, auteur-compositeur, interprète, humoriste, acteur et sénateur québécois."
+    },
+    {
+      "annee": 1778,
+      "texte": "Naissance de Joseph Louis Gay-Lussac, physicien et chimiste français."
+    },
+    {
+      "annee": 1942,
+      "texte": "Naissance de Peter Handke, romancier et dramaturge autrichien, prix Nobel de littérature en 2019."
+    },
+    {
+      "annee": 1912,
+      "texte": "Découverte du buste de Néfertiti à Amarna, en Égypte. Il sera ensuite emporté en Allemagne."
+    },
+    {
+      "annee": 1897,
+      "texte": "Londres devient la première ville au monde à accueillir des taxis munis d'une licence."
+    }
+  ]
+}

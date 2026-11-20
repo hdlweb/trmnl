@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1854,
+      "texte": "Naissance d'Oscar Wilde, écrivain irlandais."
+    },
+    {
+      "annee": 1888,
+      "texte": "Naissance d'Eugene O'Neill, dramaturge américain, prix Nobel de littérature en 1936."
+    },
+    {
+      "annee": 1927,
+      "texte": "Naissance de Günter Grass, écrivain allemand, prix Nobel de littérature en 1999."
+    },
+    {
+      "annee": 1978,
+      "texte": "Élection du pape Jean-Paul II, Karol Józef Wojtyła."
+    },
+    {
+      "annee": 1925,
+      "texte": "Signature des accords de Locarno sur les frontières de l'Allemagne."
+    },
+    {
+      "annee": 1923,
+      "texte": "Walt et Roy Disney fondent le studio qui deviendra The Walt Disney Company."
+    },
+    {
+      "annee": 1950,
+      "texte": "Publication de « The Lion, the Witch and the Wardrobe », premier roman des Chroniques de Narnia de C. S. Lewis."
+    },
+    {
+      "annee": 1843,
+      "texte": "William Rowan Hamilton invente les quaternions."
+    }
+  ]
+}

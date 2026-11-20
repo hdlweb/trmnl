@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1916,
+      "texte": "Naissance de François Mitterrand, président de la République française de 1981 à 1995."
+    },
+    {
+      "annee": 1685,
+      "texte": "Naissance de Domenico Scarlatti, claveciniste et compositeur italien."
+    },
+    {
+      "annee": 1947,
+      "texte": "Naissance de Hillary Clinton, femme politique américaine, Première dame et secrétaire d'État des États-Unis."
+    },
+    {
+      "annee": 1863,
+      "texte": "Fondation à Londres de la Football Association, première instance dirigeante du football au monde."
+    },
+    {
+      "annee": 1994,
+      "texte": "Israël et la Jordanie signent un traité de paix."
+    },
+    {
+      "annee": 1958,
+      "texte": "Pan American Airways effectue le premier vol commercial du Boeing 707, de New York à Paris."
+    },
+    {
+      "annee": 1936,
+      "texte": "Le premier générateur électrique du barrage Hoover entre en pleine exploitation."
+    },
+    {
+      "annee": 1968,
+      "texte": "La mission Soyouz 3 réalise le premier rendez-vous spatial soviétique."
+    }
+  ]
+}

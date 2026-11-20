@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1832,
+      "texte": "Naissance de Gustave Eiffel, ingénieur et industriel français, co-concepteur de la tour Eiffel."
+    },
+    {
+      "annee": 1852,
+      "texte": "Naissance d'Henri Becquerel, physicien français, prix Nobel de physique en 1903."
+    },
+    {
+      "annee": 1859,
+      "texte": "Naissance de Louis-Lazare Zamenhof, médecin et linguiste polonais, initiateur de l'espéranto."
+    },
+    {
+      "annee": 1964,
+      "texte": "La Chambre des communes du Canada adopte le drapeau à la feuille d'érable, qui remplace celui orné du « Red Ensign » britannique."
+    },
+    {
+      "annee": 1979,
+      "texte": "Création du premier Trivial Pursuit, sorti au Québec."
+    },
+    {
+      "annee": 1965,
+      "texte": "Premier rendez-vous spatial réussi de l'histoire, entre les capsules habitées Gemini 7 et Gemini 6."
+    },
+    {
+      "annee": 1970,
+      "texte": "La sonde soviétique Venera 7 se pose sur Vénus : premier atterrissage en douceur réussi sur une autre planète. Elle transmet pendant 35 minutes."
+    },
+    {
+      "annee": 1791,
+      "texte": "Aux États-Unis, la Déclaration des droits, formée des dix premiers amendements à la Constitution, entre en vigueur."
+    }
+  ]
+}

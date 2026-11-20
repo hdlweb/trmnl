@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1942,
+      "texte": "Naissance de Michael Crichton, écrivain et scénariste américain."
+    },
+    {
+      "annee": 1954,
+      "texte": "Naissance d'Ang Lee, réalisateur, producteur et scénariste taïwanais."
+    },
+    {
+      "annee": 1920,
+      "texte": "Naissance de Gianni Rodari, écrivain italien."
+    },
+    {
+      "annee": 1905,
+      "texte": "Naissance de Felix Bloch, physicien, prix Nobel de physique en 1952."
+    },
+    {
+      "annee": 1945,
+      "texte": "Jackie Robinson signe avec les Royaux de Montréal, club-école des Dodgers de Brooklyn, brisant la barrière raciale du baseball."
+    },
+    {
+      "annee": 1906,
+      "texte": "Alberto Santos-Dumont fait voler son biplan 14-bis sur 50 mètres : premier vol d'un plus lourd que l'air en Europe."
+    },
+    {
+      "annee": 1934,
+      "texte": "Jeannette Piccard pilote un ballon jusqu'à 17 550 mètres : première femme à voler dans la stratosphère."
+    },
+    {
+      "annee": 1707,
+      "texte": "Première réunion du Parlement du royaume de Grande-Bretagne."
+    }
+  ]
+}

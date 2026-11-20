@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1845,
+      "texte": "Naissance de John Sparrow David Thompson, 4e premier ministre du Canada, de 1892 à 1894."
+    },
+    {
+      "annee": 1759,
+      "texte": "Naissance de Friedrich von Schiller, poète et dramaturge allemand."
+    },
+    {
+      "annee": 1668,
+      "texte": "Naissance de François Couperin, compositeur français."
+    },
+    {
+      "annee": 1928,
+      "texte": "Naissance d'Ennio Morricone, compositeur italien."
+    },
+    {
+      "annee": 1969,
+      "texte": "Diffusion aux États-Unis du premier épisode de l'émission pour enfants « Sesame Street »."
+    },
+    {
+      "annee": 1859,
+      "texte": "Le traité de Zurich met fin à la campagne d'Italie, remportée par la coalition franco-sarde face à l'Autriche."
+    },
+    {
+      "annee": 1970,
+      "texte": "L'Union soviétique lance la mission inhabitée Luna 17."
+    },
+    {
+      "annee": 1918,
+      "texte": "À North Sydney, en Nouvelle-Écosse, un message codé annonce que les combats cesseront le 11 novembre 1918."
+    }
+  ]
+}

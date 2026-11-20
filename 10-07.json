@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1885,
+      "texte": "Naissance de Niels Bohr, physicien danois, prix Nobel de physique en 1922."
+    },
+    {
+      "annee": 1923,
+      "texte": "Naissance de Jean-Paul Riopelle, peintre, graveur et sculpteur canadien."
+    },
+    {
+      "annee": 1931,
+      "texte": "Naissance de Desmond Tutu, archevêque sud-africain, prix Nobel de la paix en 1984."
+    },
+    {
+      "annee": 2008,
+      "texte": "L'astéroïde 2008 TC3 explose au-dessus du Soudan : premier impact prévu avant l'entrée dans l'atmosphère."
+    },
+    {
+      "annee": 1959,
+      "texte": "Une sonde soviétique prend les premières photos de la face cachée de la Lune."
+    },
+    {
+      "annee": 1913,
+      "texte": "Ford met en service la première chaîne de montage mobile."
+    },
+    {
+      "annee": 1763,
+      "texte": "La Proclamation royale de George III réserve aux peuples autochtones une grande partie des terres de l'ancienne Nouvelle-France."
+    },
+    {
+      "annee": 1993,
+      "texte": "Toni Morrison reçoit le prix Nobel de littérature."
+    }
+  ]
+}

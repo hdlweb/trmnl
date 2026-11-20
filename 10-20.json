@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1854,
+      "texte": "Naissance d'Arthur Rimbaud, poète français."
+    },
+    {
+      "annee": 1904,
+      "texte": "Naissance de Tommy Douglas, homme politique canadien, premier ministre de la Saskatchewan."
+    },
+    {
+      "annee": 1963,
+      "texte": "Naissance de Julie Payette, ingénieure et astronaute canadienne, gouverneure générale du Canada."
+    },
+    {
+      "annee": 1891,
+      "texte": "Naissance de James Chadwick, physicien britannique, prix Nobel."
+    },
+    {
+      "annee": 1818,
+      "texte": "La Convention de 1818 entre les États-Unis et le Royaume-Uni fixe en grande partie la frontière canado-américaine au 49e parallèle."
+    },
+    {
+      "annee": 1973,
+      "texte": "Élisabeth II inaugure l'opéra de Sydney, après 14 ans de construction."
+    },
+    {
+      "annee": 2018,
+      "texte": "Les agences spatiales européenne et japonaise lancent BepiColombo, mission d'exploration de Mercure."
+    },
+    {
+      "annee": 1910,
+      "texte": "Lancement du paquebot britannique RMS Olympic."
+    }
+  ]
+}

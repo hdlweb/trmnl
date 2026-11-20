@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1934,
+      "texte": "Naissance de Carl Sagan, astronome et écrivain américain."
+    },
+    {
+      "annee": 1818,
+      "texte": "Naissance d'Ivan Tourgueniev, écrivain russe."
+    },
+    {
+      "annee": 1948,
+      "texte": "Naissance de Michel Pagliaro, chanteur, auteur-compositeur et guitariste québécois."
+    },
+    {
+      "annee": 1840,
+      "texte": "Naissance de Joseph-Adolphe Chapleau, 5e premier ministre du Québec, de 1879 à 1882."
+    },
+    {
+      "annee": 1989,
+      "texte": "Chute du mur de Berlin."
+    },
+    {
+      "annee": 1967,
+      "texte": "Premier vol de la fusée Saturn V, lors de la mission Apollo 4."
+    },
+    {
+      "annee": 1905,
+      "texte": "La province de l'Alberta tient sa première élection générale."
+    },
+    {
+      "annee": 1967,
+      "texte": "Parution du premier numéro de Rolling Stone, magazine américain consacré à la musique, à la politique et à la culture populaire."
+    }
+  ]
+}

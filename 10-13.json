@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1821,
+      "texte": "Naissance de Rudolf Virchow, médecin et homme politique prussien."
+    },
+    {
+      "annee": 1923,
+      "texte": "Ankara devient la capitale de la Turquie."
+    },
+    {
+      "annee": 1946,
+      "texte": "La Constitution de la Quatrième République est adoptée par référendum, en France."
+    },
+    {
+      "annee": 2016,
+      "texte": "Bob Dylan reçoit le prix Nobel de littérature."
+    },
+    {
+      "annee": 1911,
+      "texte": "Le prince Arthur, fils de la reine Victoria, devient le premier gouverneur général du Canada de sang royal."
+    },
+    {
+      "annee": 1773,
+      "texte": "L'astronome français Charles Messier découvre la galaxie du Tourbillon."
+    },
+    {
+      "annee": 1983,
+      "texte": "Lancement à Chicago du premier réseau cellulaire des États-Unis."
+    },
+    {
+      "annee": 1881,
+      "texte": "Première conversation connue en hébreu moderne, entre Eliezer Ben-Yehuda et des amis."
+    }
+  ]
+}

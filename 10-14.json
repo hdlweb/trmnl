@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1906,
+      "texte": "Naissance de Hannah Arendt, philosophe allemande."
+    },
+    {
+      "annee": 1985,
+      "texte": "Coluche fonde les Restaurants du Cœur."
+    },
+    {
+      "annee": 1964,
+      "texte": "Martin Luther King reçoit le prix Nobel de la paix pour son combat non violent contre les inégalités raciales."
+    },
+    {
+      "annee": 1670,
+      "texte": "Première du « Bourgeois gentilhomme » de Molière, à Chambord, devant Louis XIV."
+    },
+    {
+      "annee": 1947,
+      "texte": "Aux commandes du Bell X-1, Chuck Yeager est le premier à franchir le mur du son."
+    },
+    {
+      "annee": 1926,
+      "texte": "Publication du premier livre de Winnie-the-Pooh, d'A. A. Milne."
+    },
+    {
+      "annee": 1966,
+      "texte": "Mise en service du métro de Montréal."
+    },
+    {
+      "annee": 2012,
+      "texte": "Felix Baumgartner saute d'un ballon à plus de 39 000 m et franchit le mur du son en chute libre."
+    }
+  ]
+}

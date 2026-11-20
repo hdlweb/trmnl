@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1881,
+      "texte": "Naissance de Pablo Picasso, peintre et sculpteur espagnol."
+    },
+    {
+      "annee": 1811,
+      "texte": "Naissance d'Évariste Galois, mathématicien français."
+    },
+    {
+      "annee": 1838,
+      "texte": "Naissance de Georges Bizet, compositeur français."
+    },
+    {
+      "annee": 1825,
+      "texte": "Naissance de Johann Strauss fils, compositeur et chef d'orchestre autrichien."
+    },
+    {
+      "annee": 1861,
+      "texte": "Création de la Bourse de Toronto."
+    },
+    {
+      "annee": 1971,
+      "texte": "La république populaire de Chine devient membre permanent du Conseil de sécurité des Nations unies, à la place de la république de Chine."
+    },
+    {
+      "annee": 1616,
+      "texte": "L'explorateur néerlandais Dirk Hartog débarque sur la côte ouest de l'Australie."
+    },
+    {
+      "annee": 2001,
+      "texte": "Microsoft lance Windows XP, l'une des versions les plus populaires de son système d'exploitation."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1872,
+      "texte": "Naissance de Ralph Vaughan Williams, compositeur britannique."
+    },
+    {
+      "annee": 1880,
+      "texte": "Naissance de Louis Hémon, écrivain français."
+    },
+    {
+      "annee": 1933,
+      "texte": "Naissance de Guido Molinari, peintre canadien."
+    },
+    {
+      "annee": 1957,
+      "texte": "Le Canadien Lester B. Pearson reçoit le prix Nobel de la paix."
+    },
+    {
+      "annee": 1964,
+      "texte": "L'URSS lance Voskhod 1, premier vaisseau spatial à équipage de plusieurs personnes."
+    },
+    {
+      "annee": 1799,
+      "texte": "Jeanne Labrosse devient la première femme à sauter en parachute d'un ballon."
+    },
+    {
+      "annee": 1928,
+      "texte": "Le poumon d'acier est utilisé pour la première fois, à l'hôpital pour enfants de Boston."
+    },
+    {
+      "annee": 1810,
+      "texte": "Premier Oktoberfest à Munich, pour célébrer le mariage du prince héritier Louis de Bavière."
+    }
+  ]
+}

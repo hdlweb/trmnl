@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1930,
+      "texte": "Naissance de Niki de Saint Phalle, plasticienne, peintre et sculptrice française."
+    },
+    {
+      "annee": 1882,
+      "texte": "Naissance de Jean Giraudoux, romancier et dramaturge français."
+    },
+    {
+      "annee": 1935,
+      "texte": "Naissance d'Isao Takahata, réalisateur japonais de films d'animation."
+    },
+    {
+      "annee": 1967,
+      "texte": "L'Exposition universelle de Montréal, Expo 67, ferme ses portes après plus de 50 millions de visites."
+    },
+    {
+      "annee": 1969,
+      "texte": "Premier message envoyé sur le réseau ARPANET, de l'UCLA à l'institut de recherche de Stanford : le mot « login »."
+    },
+    {
+      "annee": 1923,
+      "texte": "Proclamation de la république de Turquie."
+    },
+    {
+      "annee": 1998,
+      "texte": "À 77 ans, l'ancien astronaute John Glenn retourne dans l'espace à bord de la navette Discovery."
+    },
+    {
+      "annee": 1991,
+      "texte": "La sonde Galileo survole l'astéroïde Gaspra : premier engin spatial à visiter un astéroïde."
+    }
+  ]
+}

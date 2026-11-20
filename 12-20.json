@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1951,
+      "texte": "Mise en service de la première centrale nucléaire au monde, l'Experimental Breeder Reactor I, au laboratoire national de l'Idaho."
+    },
+    {
+      "annee": 1812,
+      "texte": "À Berlin, les frères Grimm publient la première édition des Contes de l'enfance et du foyer."
+    },
+    {
+      "annee": 2011,
+      "texte": "Découverte des deux premières exoplanètes de taille terrestre, Kepler-20e et Kepler-20f."
+    },
+    {
+      "annee": 1999,
+      "texte": "Le Portugal transfère à la Chine la souveraineté de Macao, qu'il administrait depuis le milieu du XVIe siècle."
+    },
+    {
+      "annee": 1940,
+      "texte": "Le super-héros Captain America fait sa première apparition, dans le numéro 1 de Captain America Comics."
+    },
+    {
+      "annee": 1890,
+      "texte": "Naissance de Jaroslav Heyrovsky, physico-chimiste tchèque, prix Nobel de chimie en 1959."
+    },
+    {
+      "annee": 1901,
+      "texte": "Naissance de Robert Van de Graaff, physicien américain, inventeur du générateur qui porte son nom."
+    },
+    {
+      "annee": 1957,
+      "texte": "Premier vol de la version de série du Boeing 707."
+    }
+  ]
+}

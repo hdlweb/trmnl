@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1866,
+      "texte": "Naissance de Reginald Fessenden, inventeur canadien de la radiotéléphonie."
+    },
+    {
+      "annee": 1887,
+      "texte": "Naissance de Le Corbusier, architecte et urbaniste franco-suisse."
+    },
+    {
+      "annee": 1831,
+      "texte": "Naissance de Richard Dedekind, mathématicien allemand."
+    },
+    {
+      "annee": 1995,
+      "texte": "Michel Mayor et Didier Queloz annoncent la découverte de 51 Pegasi b, première exoplanète autour d'une étoile semblable au Soleil."
+    },
+    {
+      "annee": 1927,
+      "texte": "Sortie de « The Jazz Singer », premier grand film parlant."
+    },
+    {
+      "annee": 2022,
+      "texte": "Le prix Nobel de littérature est attribué à la Française Annie Ernaux."
+    },
+    {
+      "annee": 2007,
+      "texte": "Jason Lewis achève le premier tour du monde à la seule force humaine."
+    },
+    {
+      "annee": 1683,
+      "texte": "Des familles immigrantes fondent Germantown, en Pennsylvanie : première grande immigration allemande en Amérique."
+    }
+  ]
+}

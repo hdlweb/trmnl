@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1813,
+      "texte": "Naissance de Giuseppe Verdi, compositeur italien."
+    },
+    {
+      "annee": 1684,
+      "texte": "Naissance d'Antoine Watteau, peintre français."
+    },
+    {
+      "annee": 1731,
+      "texte": "Naissance d'Henry Cavendish, physicien et chimiste britannique."
+    },
+    {
+      "annee": 1861,
+      "texte": "Naissance de Fridtjof Nansen, explorateur norvégien, scientifique et humaniste, prix Nobel de la paix."
+    },
+    {
+      "annee": 1901,
+      "texte": "Naissance d'Alberto Giacometti, sculpteur et peintre suisse."
+    },
+    {
+      "annee": 1846,
+      "texte": "L'astronome anglais William Lassell découvre Triton, la plus grosse lune de Neptune."
+    },
+    {
+      "annee": 1903,
+      "texte": "À Manchester, Emmeline Pankhurst fonde l'Union féminine sociale et politique, pour le droit de vote des femmes."
+    },
+    {
+      "annee": 1967,
+      "texte": "Entrée en vigueur du traité de l'espace."
+    }
+  ]
+}

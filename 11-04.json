@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1908,
+      "texte": "Naissance de Joseph Rotblat, physicien britannique d'origine polonaise, prix Nobel."
+    },
+    {
+      "annee": 1963,
+      "texte": "Naissance de Marc Déry, auteur-compositeur et interprète québécois."
+    },
+    {
+      "annee": 2015,
+      "texte": "Justin Trudeau est nommé premier ministre du Canada, après la victoire du Parti libéral aux élections fédérales."
+    },
+    {
+      "annee": 1993,
+      "texte": "Jean Chrétien devient premier ministre du Canada."
+    },
+    {
+      "annee": 1922,
+      "texte": "L'égyptologue britannique Howard Carter découvre le tombeau de Toutânkhamon dans la vallée des Rois."
+    },
+    {
+      "annee": 1950,
+      "texte": "Signature de la Convention européenne des droits de l'homme."
+    },
+    {
+      "annee": 2016,
+      "texte": "Entrée en vigueur de l'accord de Paris sur le climat."
+    },
+    {
+      "annee": 1847,
+      "texte": "Le médecin écossais James Young Simpson découvre les propriétés anesthésiques du chloroforme."
+    }
+  ]
+}

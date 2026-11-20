@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1811,
+      "texte": "Naissance de Franz Liszt, pianiste et compositeur hongrois."
+    },
+    {
+      "annee": 1921,
+      "texte": "Naissance de Georges Brassens, auteur-compositeur-interprète français."
+    },
+    {
+      "annee": 1919,
+      "texte": "Naissance de Doris Lessing, romancière britannique, prix Nobel."
+    },
+    {
+      "annee": 1905,
+      "texte": "Naissance de Karl Jansky, physicien américain."
+    },
+    {
+      "annee": 1964,
+      "texte": "Jean-Paul Sartre refuse le prix Nobel de littérature."
+    },
+    {
+      "annee": 1797,
+      "texte": "Au-dessus de Paris, André-Jacques Garnerin réalise le premier saut en parachute de l'histoire."
+    },
+    {
+      "annee": 1975,
+      "texte": "La sonde soviétique Venera 9 se pose sur Vénus."
+    },
+    {
+      "annee": 2008,
+      "texte": "L'Inde lance Chandrayaan-1, sa première sonde lunaire."
+    }
+  ]
+}

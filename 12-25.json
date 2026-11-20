@@ -1,0 +1,36 @@
+{
+  "evenements": [
+    {
+      "annee": 1990,
+      "texte": "Le programmeur britannique Tim Berners-Lee présente WorldWideWeb, le premier navigateur web au monde."
+    },
+    {
+      "annee": 2021,
+      "texte": "Le télescope spatial James-Webb est lancé par une fusée Ariane 5 depuis le Centre spatial guyanais."
+    },
+    {
+      "annee": 1758,
+      "texte": "Comme l'avait prévu l'astronome britannique Edmond Halley, la comète qui porte son nom réapparaît : premier passage de comète prédit à l'avance."
+    },
+    {
+      "annee": 800,
+      "texte": "À Rome, Charlemagne est couronné empereur d'Occident par le pape Léon III."
+    },
+    {
+      "annee": 1991,
+      "texte": "Dans un discours télévisé, Mikhaïl Gorbatchev démissionne de la présidence de l'Union soviétique, dissoute le lendemain."
+    },
+    {
+      "annee": 2003,
+      "texte": "La sonde Mars Express se met en orbite autour de la planète Mars."
+    },
+    {
+      "annee": 1971,
+      "texte": "Naissance de Justin Trudeau, enseignant et homme politique canadien, 23e premier ministre du Canada."
+    },
+    {
+      "annee": 1904,
+      "texte": "Naissance de Gerhard Herzberg, physicien et chimiste canadien d'origine allemande, lauréat du prix Nobel."
+    }
+  ]
+}
